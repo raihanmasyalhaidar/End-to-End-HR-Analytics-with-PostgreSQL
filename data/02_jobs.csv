@@ -1,0 +1,19 @@
+job_id,job_title,job_level,career_path,min_salary,max_salary
+1,Software Engineer,Junior,Individual Contributor,7000000,11000000
+2,Software Engineer,Mid,Individual Contributor,11000000,17000000
+3,Senior Software Engineer,Senior,Individual Contributor,17000000,26000000
+4,Engineering Manager,Manager,Management,26000000,40000000
+5,Data Analyst,Junior,Individual Contributor,7500000,12000000
+6,Data Scientist,Mid,Individual Contributor,13000000,20000000
+7,Sales Executive,Junior,Individual Contributor,6000000,10000000
+8,Account Manager,Mid,Management,12000000,19000000
+9,HR Generalist,Mid,Individual Contributor,9000000,14000000
+10,Finance Analyst,Mid,Individual Contributor,10000000,16000000
+11,Marketing Specialist,Junior,Individual Contributor,7000000,11000000
+12,Marketing Manager,Manager,Management,18000000,28000000
+13,Customer Success Officer,Junior,Individual Contributor,6500000,10500000
+14,Customer Success Lead,Senior,Management,14000000,22000000
+15,Product Manager,Mid,Management,16000000,24000000
+16,Operations Officer,Junior,Individual Contributor,6500000,10000000
+17,Operations Manager,Manager,Management,18000000,28000000
+18,Legal Counsel,Senior,Individual Contributor,18000000,28000000

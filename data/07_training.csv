@@ -1,0 +1,2401 @@
+training_id,employee_id,training_name,training_category,training_date,training_score,certification_status
+1,1002,Leading Through Change,Leadership,2024-08-04,81.0,Certified
+2,1003,Negotiation Skills,Soft Skills,2025-02-22,92.4,Certified
+3,1003,HR Business Partnering,Leadership,2023-07-03,86.4,Certified
+4,1004,Time Management,Soft Skills,2025-07-09,71.6,Certified
+5,1004,HR Business Partnering,Leadership,2023-05-06,78.8,Certified
+6,1004,Coaching for Managers,Leadership,2023-10-07,85.5,In Progress
+7,1004,Data Visualization with BI Tools,Technical,2025-07-12,82.2,Certified
+8,1005,Coaching for Managers,Leadership,2023-07-02,70.5,Certified
+9,1006,Data Privacy Essentials,Compliance,2023-08-08,81.7,Certified
+10,1006,Anti-Bribery & Compliance,Compliance,2024-01-19,94.9,In Progress
+11,1006,Cloud Architecture Fundamentals,Technical,2024-01-04,83.0,Certified
+12,1007,Advanced System Design,Technical,2024-04-20,71.7,Certified
+13,1008,Machine Learning Operations,Technical,2025-03-27,69.0,Not Certified
+14,1008,HR Business Partnering,Leadership,2025-05-27,96.1,Certified
+15,1009,Workplace Safety,Compliance,2023-02-19,87.4,Certified
+16,1010,Anti-Bribery & Compliance,Compliance,2023-09-24,93.0,Certified
+17,1010,Data Privacy Essentials,Compliance,2023-01-27,79.6,Certified
+18,1011,Machine Learning Operations,Technical,2025-09-30,86.7,In Progress
+19,1011,Cloud Architecture Fundamentals,Technical,2024-07-01,76.0,In Progress
+20,1011,HR Business Partnering,Leadership,2025-08-20,99.0,In Progress
+21,1012,Data Visualization with BI Tools,Technical,2025-08-01,81.2,Certified
+22,1013,Coaching for Managers,Leadership,2024-03-11,58.3,Not Certified
+23,1014,Effective Communication,Soft Skills,2025-04-08,72.1,In Progress
+24,1014,Workplace Safety,Compliance,2023-09-06,90.2,In Progress
+25,1016,HR Business Partnering,Leadership,2024-06-15,85.3,Certified
+26,1016,Workplace Safety,Compliance,2024-09-04,78.9,In Progress
+27,1016,Machine Learning Operations,Technical,2023-12-13,92.8,In Progress
+28,1019,Anti-Bribery & Compliance,Compliance,2023-04-15,78.9,Certified
+29,1019,Machine Learning Operations,Technical,2023-05-23,85.7,Certified
+30,1019,Leading Through Change,Leadership,2023-03-25,85.0,Certified
+31,1019,Workplace Safety,Compliance,2025-02-18,81.6,Certified
+32,1021,Anti-Bribery & Compliance,Compliance,2025-03-19,82.2,In Progress
+33,1021,Cloud Architecture Fundamentals,Technical,2024-10-16,97.9,Certified
+34,1021,Data Privacy Essentials,Compliance,2023-04-26,81.5,Certified
+35,1021,Workplace Safety,Compliance,2025-06-28,84.5,In Progress
+36,1021,Effective Communication,Soft Skills,2023-09-28,80.7,Certified
+37,1022,Workplace Safety,Compliance,2024-09-25,83.4,In Progress
+38,1022,Data Privacy Essentials,Compliance,2025-02-20,83.7,In Progress
+39,1022,HR Business Partnering,Leadership,2024-06-01,74.0,In Progress
+40,1023,Cloud Architecture Fundamentals,Technical,2023-10-20,89.4,Certified
+41,1023,Advanced System Design,Technical,2023-09-21,95.2,Certified
+42,1023,Time Management,Soft Skills,2023-01-15,89.8,In Progress
+43,1023,Negotiation Skills,Soft Skills,2023-06-23,78.4,In Progress
+44,1024,Presentation Mastery,Soft Skills,2023-03-11,77.6,In Progress
+45,1025,Leading Through Change,Leadership,2025-01-27,88.0,Certified
+46,1025,Workplace Safety,Compliance,2024-04-12,92.9,Certified
+47,1025,Presentation Mastery,Soft Skills,2023-08-07,93.6,In Progress
+48,1026,Anti-Bribery & Compliance,Compliance,2024-08-30,80.2,Certified
+49,1026,Effective Communication,Soft Skills,2024-05-04,82.9,In Progress
+50,1026,Workplace Safety,Compliance,2024-11-06,89.2,In Progress
+51,1026,Data Privacy Essentials,Compliance,2024-02-04,86.9,Certified
+52,1027,Advanced System Design,Technical,2025-01-07,71.7,Certified
+53,1027,Anti-Bribery & Compliance,Compliance,2024-09-11,80.4,Certified
+54,1028,Negotiation Skills,Soft Skills,2023-11-21,80.4,Certified
+55,1030,Presentation Mastery,Soft Skills,2023-12-16,82.3,Certified
+56,1031,Coaching for Managers,Leadership,2025-02-24,84.7,Certified
+57,1031,Effective Communication,Soft Skills,2024-03-11,74.2,In Progress
+58,1031,Advanced System Design,Technical,2025-05-25,79.4,Certified
+59,1031,Cloud Architecture Fundamentals,Technical,2024-11-23,77.9,Certified
+60,1031,Data Privacy Essentials,Compliance,2025-07-17,78.3,In Progress
+61,1032,Advanced System Design,Technical,2023-05-13,84.9,Certified
+62,1032,Anti-Bribery & Compliance,Compliance,2023-06-19,83.8,In Progress
+63,1032,Leading Through Change,Leadership,2025-07-25,77.9,Certified
+64,1032,Machine Learning Operations,Technical,2024-06-23,75.3,Certified
+65,1032,Cloud Architecture Fundamentals,Technical,2023-12-20,95.9,Certified
+66,1033,Advanced System Design,Technical,2023-11-26,84.0,Certified
+67,1033,Data Privacy Essentials,Compliance,2025-03-31,77.1,Certified
+68,1033,Leading Through Change,Leadership,2024-10-18,85.3,Certified
+69,1034,Time Management,Soft Skills,2023-02-08,69.6,In Progress
+70,1035,Effective Communication,Soft Skills,2024-04-14,85.8,Certified
+71,1035,Coaching for Managers,Leadership,2024-07-27,89.3,Certified
+72,1035,Negotiation Skills,Soft Skills,2025-01-14,76.4,Certified
+73,1035,Leading Through Change,Leadership,2023-06-24,86.1,Certified
+74,1036,Leading Through Change,Leadership,2024-03-05,79.8,Certified
+75,1037,Workplace Safety,Compliance,2025-03-02,93.1,Certified
+76,1037,Negotiation Skills,Soft Skills,2025-05-22,85.7,Certified
+77,1038,Anti-Bribery & Compliance,Compliance,2024-09-28,72.4,Certified
+78,1039,Negotiation Skills,Soft Skills,2023-12-02,76.0,In Progress
+79,1040,Data Visualization with BI Tools,Technical,2023-05-26,69.9,Not Certified
+80,1040,Time Management,Soft Skills,2025-04-19,82.3,Certified
+81,1040,Workplace Safety,Compliance,2023-02-08,83.6,Certified
+82,1040,Coaching for Managers,Leadership,2023-01-01,91.5,In Progress
+83,1042,Machine Learning Operations,Technical,2023-10-17,75.0,Certified
+84,1043,Workplace Safety,Compliance,2024-04-26,92.6,Certified
+85,1044,Data Visualization with BI Tools,Technical,2024-01-20,99.0,In Progress
+86,1044,Effective Communication,Soft Skills,2023-12-08,92.6,Certified
+87,1044,Data Privacy Essentials,Compliance,2023-11-16,85.5,Certified
+88,1044,Leading Through Change,Leadership,2025-01-10,87.5,Certified
+89,1045,Cloud Architecture Fundamentals,Technical,2023-01-23,80.7,Certified
+90,1045,Advanced System Design,Technical,2025-03-20,91.5,In Progress
+91,1046,HR Business Partnering,Leadership,2024-06-22,84.4,In Progress
+92,1047,Anti-Bribery & Compliance,Compliance,2024-10-28,79.9,Certified
+93,1047,Cloud Architecture Fundamentals,Technical,2024-11-05,76.5,Certified
+94,1048,Data Privacy Essentials,Compliance,2023-10-21,87.0,Certified
+95,1049,Workplace Safety,Compliance,2023-02-19,85.1,In Progress
+96,1050,Data Visualization with BI Tools,Technical,2023-10-26,83.4,Certified
+97,1050,Effective Communication,Soft Skills,2023-09-13,80.1,Certified
+98,1050,Negotiation Skills,Soft Skills,2024-10-30,91.6,In Progress
+99,1050,Presentation Mastery,Soft Skills,2024-11-24,84.8,Certified
+100,1050,Advanced System Design,Technical,2024-10-07,74.0,Certified
+101,1051,Data Visualization with BI Tools,Technical,2025-01-18,72.0,Certified
+102,1051,Machine Learning Operations,Technical,2024-12-01,83.8,Certified
+103,1051,Presentation Mastery,Soft Skills,2025-08-10,83.7,Certified
+104,1052,Effective Communication,Soft Skills,2024-05-25,80.9,In Progress
+105,1052,Presentation Mastery,Soft Skills,2023-09-03,95.0,In Progress
+106,1053,Leading Through Change,Leadership,2024-01-01,76.8,Certified
+107,1053,Time Management,Soft Skills,2023-08-02,77.8,Certified
+108,1053,Anti-Bribery & Compliance,Compliance,2025-07-10,87.8,Certified
+109,1053,Coaching for Managers,Leadership,2025-04-05,85.8,Certified
+110,1054,HR Business Partnering,Leadership,2025-07-12,81.1,Certified
+111,1054,Data Visualization with BI Tools,Technical,2024-08-10,89.5,Certified
+112,1054,Leading Through Change,Leadership,2024-01-16,84.4,Certified
+113,1054,Machine Learning Operations,Technical,2023-07-16,86.1,Certified
+114,1055,Data Visualization with BI Tools,Technical,2024-01-09,96.3,Certified
+115,1055,Negotiation Skills,Soft Skills,2025-09-24,72.1,Certified
+116,1055,Machine Learning Operations,Technical,2023-12-11,61.4,In Progress
+117,1056,Advanced System Design,Technical,2023-05-22,85.8,In Progress
+118,1056,Anti-Bribery & Compliance,Compliance,2023-01-15,86.8,In Progress
+119,1056,Presentation Mastery,Soft Skills,2023-11-24,77.1,Certified
+120,1057,Machine Learning Operations,Technical,2025-04-14,86.3,Certified
+121,1057,Effective Communication,Soft Skills,2025-08-12,73.4,Certified
+122,1057,HR Business Partnering,Leadership,2025-09-09,81.6,In Progress
+123,1058,Data Visualization with BI Tools,Technical,2024-04-09,81.4,Certified
+124,1059,Presentation Mastery,Soft Skills,2023-02-25,75.9,Certified
+125,1059,Workplace Safety,Compliance,2024-08-03,85.0,In Progress
+126,1059,Anti-Bribery & Compliance,Compliance,2025-04-24,87.8,Certified
+127,1060,Cloud Architecture Fundamentals,Technical,2025-01-28,83.0,Certified
+128,1060,Leading Through Change,Leadership,2024-06-03,83.8,Certified
+129,1061,Anti-Bribery & Compliance,Compliance,2024-06-27,87.3,Certified
+130,1061,Presentation Mastery,Soft Skills,2024-08-28,90.5,Certified
+131,1061,Machine Learning Operations,Technical,2025-04-30,74.8,Certified
+132,1062,Machine Learning Operations,Technical,2024-10-01,68.9,In Progress
+133,1062,Coaching for Managers,Leadership,2023-11-18,70.4,Certified
+134,1062,Negotiation Skills,Soft Skills,2024-11-03,75.4,In Progress
+135,1063,HR Business Partnering,Leadership,2023-09-22,82.8,Certified
+136,1063,Coaching for Managers,Leadership,2025-09-18,92.6,Certified
+137,1063,Presentation Mastery,Soft Skills,2025-09-28,77.3,Certified
+138,1063,Leading Through Change,Leadership,2024-05-22,86.9,In Progress
+139,1063,Cloud Architecture Fundamentals,Technical,2025-06-30,75.0,In Progress
+140,1066,Time Management,Soft Skills,2025-02-21,80.3,Certified
+141,1066,Anti-Bribery & Compliance,Compliance,2024-01-20,98.3,Certified
+142,1066,Workplace Safety,Compliance,2025-08-19,86.7,In Progress
+143,1068,Negotiation Skills,Soft Skills,2025-07-14,89.1,Certified
+144,1068,Time Management,Soft Skills,2025-01-30,91.0,Certified
+145,1068,Data Visualization with BI Tools,Technical,2023-02-28,88.6,Certified
+146,1068,Coaching for Managers,Leadership,2024-11-13,88.8,Certified
+147,1068,Anti-Bribery & Compliance,Compliance,2025-04-28,90.1,Certified
+148,1069,Data Visualization with BI Tools,Technical,2023-02-13,86.3,In Progress
+149,1069,HR Business Partnering,Leadership,2023-08-15,80.2,Certified
+150,1069,Effective Communication,Soft Skills,2023-01-13,78.7,Certified
+151,1070,Workplace Safety,Compliance,2025-06-25,86.2,In Progress
+152,1070,Presentation Mastery,Soft Skills,2023-12-25,69.5,In Progress
+153,1070,Cloud Architecture Fundamentals,Technical,2023-12-20,66.7,In Progress
+154,1071,Cloud Architecture Fundamentals,Technical,2025-06-09,83.8,Certified
+155,1072,Data Privacy Essentials,Compliance,2025-07-31,82.3,Certified
+156,1074,Advanced System Design,Technical,2024-06-17,72.7,In Progress
+157,1074,Coaching for Managers,Leadership,2025-01-30,84.8,Certified
+158,1076,Effective Communication,Soft Skills,2025-05-05,80.8,Certified
+159,1076,Leading Through Change,Leadership,2024-02-29,74.8,In Progress
+160,1077,Workplace Safety,Compliance,2024-03-06,86.2,Certified
+161,1077,HR Business Partnering,Leadership,2024-02-22,87.4,Certified
+162,1077,Advanced System Design,Technical,2023-12-16,79.6,Certified
+163,1078,Leading Through Change,Leadership,2023-08-13,80.7,Certified
+164,1078,Presentation Mastery,Soft Skills,2024-08-24,78.2,Certified
+165,1078,Machine Learning Operations,Technical,2023-05-15,70.4,Certified
+166,1079,Leading Through Change,Leadership,2024-06-07,99.0,Certified
+167,1080,Coaching for Managers,Leadership,2023-03-25,79.7,Certified
+168,1081,Negotiation Skills,Soft Skills,2024-07-25,80.1,Certified
+169,1081,Effective Communication,Soft Skills,2024-08-16,88.6,In Progress
+170,1081,Coaching for Managers,Leadership,2024-07-20,71.5,In Progress
+171,1081,Workplace Safety,Compliance,2025-01-27,78.9,In Progress
+172,1081,Anti-Bribery & Compliance,Compliance,2023-03-29,90.6,Certified
+173,1082,Data Visualization with BI Tools,Technical,2024-12-26,87.9,Certified
+174,1082,Advanced System Design,Technical,2024-02-03,91.6,Certified
+175,1082,Leading Through Change,Leadership,2023-07-04,68.4,Not Certified
+176,1083,Presentation Mastery,Soft Skills,2023-09-14,75.5,In Progress
+177,1083,Workplace Safety,Compliance,2023-05-18,82.5,Certified
+178,1083,Effective Communication,Soft Skills,2023-10-16,82.6,In Progress
+179,1083,Machine Learning Operations,Technical,2023-04-24,67.2,Not Certified
+180,1084,Data Visualization with BI Tools,Technical,2024-08-07,92.0,Certified
+181,1084,Machine Learning Operations,Technical,2024-04-22,89.3,Certified
+182,1085,Negotiation Skills,Soft Skills,2025-04-11,67.8,Not Certified
+183,1085,Advanced System Design,Technical,2023-06-27,75.6,Certified
+184,1085,Data Privacy Essentials,Compliance,2023-01-13,87.4,Certified
+185,1085,Leading Through Change,Leadership,2023-07-31,75.7,In Progress
+186,1085,Presentation Mastery,Soft Skills,2024-05-17,85.8,Certified
+187,1087,Coaching for Managers,Leadership,2025-03-30,81.4,Certified
+188,1087,Workplace Safety,Compliance,2023-01-02,77.2,Certified
+189,1088,Advanced System Design,Technical,2023-01-19,84.9,Certified
+190,1088,Effective Communication,Soft Skills,2025-02-09,78.3,Certified
+191,1088,Presentation Mastery,Soft Skills,2024-12-27,91.5,Certified
+192,1088,Data Visualization with BI Tools,Technical,2023-11-08,91.8,In Progress
+193,1089,Coaching for Managers,Leadership,2025-05-09,91.0,Certified
+194,1089,Data Visualization with BI Tools,Technical,2023-03-24,91.2,In Progress
+195,1089,Effective Communication,Soft Skills,2023-01-14,89.2,Certified
+196,1089,Leading Through Change,Leadership,2025-05-04,88.4,Certified
+197,1090,Advanced System Design,Technical,2025-09-16,76.3,In Progress
+198,1090,Negotiation Skills,Soft Skills,2024-11-08,92.4,Certified
+199,1090,Coaching for Managers,Leadership,2024-12-28,88.6,Certified
+200,1090,Time Management,Soft Skills,2023-04-07,85.0,Certified
+201,1090,Workplace Safety,Compliance,2024-04-22,79.3,Certified
+202,1091,Workplace Safety,Compliance,2024-10-14,78.0,Certified
+203,1091,Advanced System Design,Technical,2024-02-06,75.9,Certified
+204,1092,Workplace Safety,Compliance,2024-06-03,87.0,Certified
+205,1092,HR Business Partnering,Leadership,2025-09-01,87.4,In Progress
+206,1092,Anti-Bribery & Compliance,Compliance,2024-08-18,84.7,Certified
+207,1093,Leading Through Change,Leadership,2024-09-17,89.8,In Progress
+208,1093,Advanced System Design,Technical,2025-01-04,99.0,Certified
+209,1094,Negotiation Skills,Soft Skills,2025-05-02,62.9,Not Certified
+210,1095,Leading Through Change,Leadership,2023-12-20,67.9,Not Certified
+211,1096,Data Visualization with BI Tools,Technical,2025-01-27,86.2,Certified
+212,1096,Negotiation Skills,Soft Skills,2023-05-10,85.4,Certified
+213,1096,Effective Communication,Soft Skills,2024-02-29,86.9,Certified
+214,1097,Machine Learning Operations,Technical,2023-02-18,74.8,Certified
+215,1097,Workplace Safety,Compliance,2023-02-25,87.8,Certified
+216,1098,Data Privacy Essentials,Compliance,2024-04-12,68.2,Not Certified
+217,1098,Anti-Bribery & Compliance,Compliance,2023-12-04,83.0,In Progress
+218,1099,Presentation Mastery,Soft Skills,2025-03-25,78.0,Certified
+219,1100,Machine Learning Operations,Technical,2024-06-03,73.2,Certified
+220,1100,Data Privacy Essentials,Compliance,2025-07-20,93.3,Certified
+221,1102,Leading Through Change,Leadership,2023-10-02,74.6,In Progress
+222,1102,Machine Learning Operations,Technical,2023-09-09,77.5,Certified
+223,1102,HR Business Partnering,Leadership,2024-03-27,79.3,Certified
+224,1103,Leading Through Change,Leadership,2025-09-08,84.0,Certified
+225,1103,Cloud Architecture Fundamentals,Technical,2023-04-22,94.9,In Progress
+226,1104,Negotiation Skills,Soft Skills,2025-06-29,96.4,Certified
+227,1104,Leading Through Change,Leadership,2024-07-29,84.6,Certified
+228,1104,Presentation Mastery,Soft Skills,2024-08-17,78.7,Certified
+229,1104,HR Business Partnering,Leadership,2025-01-28,82.9,Certified
+230,1105,Anti-Bribery & Compliance,Compliance,2025-01-09,76.9,Certified
+231,1105,Presentation Mastery,Soft Skills,2023-12-18,95.2,In Progress
+232,1105,Coaching for Managers,Leadership,2023-01-17,69.9,In Progress
+233,1105,Effective Communication,Soft Skills,2024-12-25,85.4,Certified
+234,1106,Presentation Mastery,Soft Skills,2025-01-07,62.2,In Progress
+235,1106,Machine Learning Operations,Technical,2023-05-26,75.0,Certified
+236,1106,Effective Communication,Soft Skills,2024-07-31,87.1,Certified
+237,1106,Leading Through Change,Leadership,2025-09-09,75.0,Certified
+238,1107,Workplace Safety,Compliance,2024-08-16,61.7,Not Certified
+239,1107,Time Management,Soft Skills,2023-02-01,82.6,In Progress
+240,1107,Data Visualization with BI Tools,Technical,2024-01-28,78.6,In Progress
+241,1107,Coaching for Managers,Leadership,2024-02-24,92.9,Certified
+242,1107,Advanced System Design,Technical,2024-12-23,90.5,Certified
+243,1108,Data Privacy Essentials,Compliance,2024-11-15,90.6,Certified
+244,1108,Advanced System Design,Technical,2023-01-30,81.7,Certified
+245,1109,Data Visualization with BI Tools,Technical,2023-06-11,85.4,Certified
+246,1109,Negotiation Skills,Soft Skills,2025-02-15,80.6,Certified
+247,1109,Effective Communication,Soft Skills,2025-05-22,91.5,In Progress
+248,1109,Presentation Mastery,Soft Skills,2024-03-14,76.2,In Progress
+249,1109,Data Privacy Essentials,Compliance,2023-07-24,90.6,Certified
+250,1110,Data Visualization with BI Tools,Technical,2025-07-06,80.8,Certified
+251,1110,HR Business Partnering,Leadership,2024-04-16,76.1,Certified
+252,1110,Time Management,Soft Skills,2024-08-16,87.9,Certified
+253,1111,Advanced System Design,Technical,2025-05-09,78.2,Certified
+254,1111,Leading Through Change,Leadership,2024-08-26,76.0,Certified
+255,1111,Coaching for Managers,Leadership,2023-09-24,74.4,Certified
+256,1112,Anti-Bribery & Compliance,Compliance,2023-03-19,87.0,Certified
+257,1112,Data Visualization with BI Tools,Technical,2024-08-27,72.0,Certified
+258,1113,Leading Through Change,Leadership,2025-02-03,90.0,In Progress
+259,1113,HR Business Partnering,Leadership,2025-02-12,94.5,Certified
+260,1113,Coaching for Managers,Leadership,2024-06-13,79.4,Certified
+261,1113,Data Privacy Essentials,Compliance,2023-03-01,90.3,Certified
+262,1113,Negotiation Skills,Soft Skills,2023-12-05,80.3,Certified
+263,1114,Machine Learning Operations,Technical,2024-03-08,89.0,Certified
+264,1115,Coaching for Managers,Leadership,2025-03-07,90.1,In Progress
+265,1115,Cloud Architecture Fundamentals,Technical,2024-07-31,79.5,Certified
+266,1115,Leading Through Change,Leadership,2024-06-12,81.9,Certified
+267,1115,HR Business Partnering,Leadership,2025-03-09,83.3,Certified
+268,1116,Machine Learning Operations,Technical,2024-09-14,82.4,Certified
+269,1117,Time Management,Soft Skills,2025-09-16,99.0,Certified
+270,1117,Effective Communication,Soft Skills,2024-04-06,84.9,Certified
+271,1117,Advanced System Design,Technical,2023-09-21,84.4,Certified
+272,1117,Presentation Mastery,Soft Skills,2024-03-27,91.2,In Progress
+273,1118,Effective Communication,Soft Skills,2025-04-19,78.8,Certified
+274,1118,Data Visualization with BI Tools,Technical,2024-07-21,97.1,Certified
+275,1118,Negotiation Skills,Soft Skills,2024-08-11,79.0,Certified
+276,1118,HR Business Partnering,Leadership,2025-08-27,79.7,Certified
+277,1118,Anti-Bribery & Compliance,Compliance,2023-05-27,73.6,Certified
+278,1119,Advanced System Design,Technical,2023-10-28,77.7,Certified
+279,1120,Negotiation Skills,Soft Skills,2024-01-03,76.1,Certified
+280,1121,Machine Learning Operations,Technical,2023-07-21,80.4,Certified
+281,1121,Presentation Mastery,Soft Skills,2024-08-14,82.4,Certified
+282,1121,Workplace Safety,Compliance,2023-06-20,71.2,Certified
+283,1122,HR Business Partnering,Leadership,2025-01-16,78.6,Certified
+284,1122,Machine Learning Operations,Technical,2025-02-17,90.0,Certified
+285,1122,Cloud Architecture Fundamentals,Technical,2024-11-26,82.8,In Progress
+286,1123,Anti-Bribery & Compliance,Compliance,2023-02-07,76.0,In Progress
+287,1123,Coaching for Managers,Leadership,2025-05-11,89.9,Certified
+288,1124,Workplace Safety,Compliance,2025-03-10,81.7,Certified
+289,1124,Leading Through Change,Leadership,2024-07-31,88.5,Certified
+290,1124,Machine Learning Operations,Technical,2024-07-17,79.8,In Progress
+291,1125,Anti-Bribery & Compliance,Compliance,2023-01-22,79.3,Certified
+292,1126,Data Privacy Essentials,Compliance,2023-09-02,93.6,In Progress
+293,1126,Data Visualization with BI Tools,Technical,2024-10-10,89.1,Certified
+294,1127,Negotiation Skills,Soft Skills,2023-07-04,93.4,Certified
+295,1127,Anti-Bribery & Compliance,Compliance,2025-06-17,76.1,Certified
+296,1127,Effective Communication,Soft Skills,2024-04-28,87.2,Certified
+297,1128,HR Business Partnering,Leadership,2023-08-16,72.6,Certified
+298,1129,Presentation Mastery,Soft Skills,2023-03-21,78.3,Certified
+299,1130,Data Privacy Essentials,Compliance,2024-05-20,73.9,In Progress
+300,1130,Coaching for Managers,Leadership,2024-08-30,85.3,Certified
+301,1130,Advanced System Design,Technical,2025-02-20,90.2,Certified
+302,1130,Leading Through Change,Leadership,2025-06-14,91.5,Certified
+303,1131,Cloud Architecture Fundamentals,Technical,2023-11-24,59.7,In Progress
+304,1132,HR Business Partnering,Leadership,2023-09-01,77.6,Certified
+305,1132,Advanced System Design,Technical,2023-01-14,81.4,In Progress
+306,1132,Leading Through Change,Leadership,2024-03-24,80.8,In Progress
+307,1132,Data Privacy Essentials,Compliance,2023-09-30,72.8,Certified
+308,1133,Anti-Bribery & Compliance,Compliance,2023-12-16,82.6,Certified
+309,1133,Negotiation Skills,Soft Skills,2025-08-03,82.0,Certified
+310,1133,Cloud Architecture Fundamentals,Technical,2023-10-16,73.0,In Progress
+311,1133,Coaching for Managers,Leadership,2024-12-15,74.7,Certified
+312,1134,Effective Communication,Soft Skills,2023-11-20,78.2,Certified
+313,1134,Presentation Mastery,Soft Skills,2023-12-30,83.0,Certified
+314,1135,HR Business Partnering,Leadership,2024-11-25,89.4,Certified
+315,1135,Time Management,Soft Skills,2025-05-26,87.6,Certified
+316,1136,Effective Communication,Soft Skills,2024-12-25,68.2,Not Certified
+317,1136,Coaching for Managers,Leadership,2025-02-19,89.4,Certified
+318,1137,Presentation Mastery,Soft Skills,2025-03-17,88.3,Certified
+319,1137,Machine Learning Operations,Technical,2023-11-24,83.8,Certified
+320,1137,Leading Through Change,Leadership,2024-03-14,97.9,In Progress
+321,1137,Coaching for Managers,Leadership,2024-10-26,80.1,Certified
+322,1137,Anti-Bribery & Compliance,Compliance,2023-03-03,90.1,Certified
+323,1138,Time Management,Soft Skills,2023-03-11,91.9,Certified
+324,1138,Data Privacy Essentials,Compliance,2023-09-23,80.2,Certified
+325,1138,Advanced System Design,Technical,2025-02-16,70.6,Certified
+326,1139,Data Privacy Essentials,Compliance,2023-09-12,87.0,Certified
+327,1139,Coaching for Managers,Leadership,2024-01-21,87.9,Certified
+328,1140,Data Visualization with BI Tools,Technical,2025-03-07,78.8,Certified
+329,1141,Cloud Architecture Fundamentals,Technical,2023-05-22,75.3,Certified
+330,1141,Data Visualization with BI Tools,Technical,2025-02-26,99.0,Certified
+331,1142,Advanced System Design,Technical,2025-01-09,96.1,Certified
+332,1142,Leading Through Change,Leadership,2025-05-23,89.4,In Progress
+333,1143,Negotiation Skills,Soft Skills,2025-04-23,73.9,Certified
+334,1143,Cloud Architecture Fundamentals,Technical,2025-04-03,87.7,Certified
+335,1144,HR Business Partnering,Leadership,2024-04-20,95.1,Certified
+336,1146,Data Privacy Essentials,Compliance,2025-03-02,81.6,In Progress
+337,1147,Effective Communication,Soft Skills,2025-09-08,70.7,In Progress
+338,1148,Anti-Bribery & Compliance,Compliance,2025-09-02,81.2,Certified
+339,1148,Coaching for Managers,Leadership,2023-01-26,86.3,In Progress
+340,1148,Effective Communication,Soft Skills,2024-12-01,78.5,Certified
+341,1149,Negotiation Skills,Soft Skills,2024-02-28,73.9,Certified
+342,1149,HR Business Partnering,Leadership,2024-08-07,78.8,Certified
+343,1149,Anti-Bribery & Compliance,Compliance,2025-03-26,87.2,Certified
+344,1150,Cloud Architecture Fundamentals,Technical,2023-04-03,81.7,Certified
+345,1150,Effective Communication,Soft Skills,2025-08-13,83.7,Certified
+346,1150,Workplace Safety,Compliance,2023-05-23,69.5,Not Certified
+347,1151,Effective Communication,Soft Skills,2023-07-09,91.1,In Progress
+348,1151,Advanced System Design,Technical,2023-09-04,71.9,Certified
+349,1152,HR Business Partnering,Leadership,2024-01-12,88.4,Certified
+350,1152,Effective Communication,Soft Skills,2023-03-07,78.0,Certified
+351,1152,Machine Learning Operations,Technical,2024-07-05,88.1,Certified
+352,1153,Data Visualization with BI Tools,Technical,2025-06-30,72.8,Certified
+353,1153,Machine Learning Operations,Technical,2023-07-27,82.9,Certified
+354,1153,HR Business Partnering,Leadership,2024-06-01,90.1,Certified
+355,1153,Advanced System Design,Technical,2024-11-14,87.3,Certified
+356,1154,Workplace Safety,Compliance,2024-04-02,89.4,Certified
+357,1154,Advanced System Design,Technical,2024-01-04,70.2,In Progress
+358,1155,Coaching for Managers,Leadership,2024-10-31,75.6,In Progress
+359,1155,Time Management,Soft Skills,2023-03-03,85.4,Certified
+360,1156,Cloud Architecture Fundamentals,Technical,2025-07-17,86.0,In Progress
+361,1156,Data Privacy Essentials,Compliance,2023-11-02,74.3,Certified
+362,1157,Advanced System Design,Technical,2023-08-04,80.2,Certified
+363,1157,Negotiation Skills,Soft Skills,2024-07-11,86.8,Certified
+364,1158,Data Privacy Essentials,Compliance,2024-02-09,82.6,Certified
+365,1158,Workplace Safety,Compliance,2024-02-07,66.0,Not Certified
+366,1159,Coaching for Managers,Leadership,2023-09-07,85.4,Certified
+367,1161,Coaching for Managers,Leadership,2024-06-10,69.0,Not Certified
+368,1161,Advanced System Design,Technical,2023-08-30,84.5,Certified
+369,1161,Machine Learning Operations,Technical,2023-11-16,93.7,In Progress
+370,1162,Data Privacy Essentials,Compliance,2023-10-16,77.8,In Progress
+371,1162,Time Management,Soft Skills,2025-04-06,71.8,In Progress
+372,1162,HR Business Partnering,Leadership,2023-09-18,77.1,Certified
+373,1163,Effective Communication,Soft Skills,2024-02-02,82.5,Certified
+374,1163,Data Visualization with BI Tools,Technical,2023-08-29,85.5,In Progress
+375,1163,Negotiation Skills,Soft Skills,2024-06-20,83.0,Certified
+376,1163,Advanced System Design,Technical,2024-01-07,73.6,Certified
+377,1164,HR Business Partnering,Leadership,2023-06-05,75.0,In Progress
+378,1164,Machine Learning Operations,Technical,2025-07-05,80.5,Certified
+379,1164,Presentation Mastery,Soft Skills,2024-10-11,79.2,Certified
+380,1164,Advanced System Design,Technical,2024-06-07,80.6,Certified
+381,1165,Coaching for Managers,Leadership,2025-02-04,94.6,In Progress
+382,1165,Machine Learning Operations,Technical,2025-01-27,84.9,Certified
+383,1166,Advanced System Design,Technical,2024-10-14,87.2,Certified
+384,1166,Cloud Architecture Fundamentals,Technical,2024-03-28,77.8,Certified
+385,1166,Coaching for Managers,Leadership,2024-06-07,81.1,Certified
+386,1167,Workplace Safety,Compliance,2025-07-12,93.7,Certified
+387,1167,Machine Learning Operations,Technical,2024-03-02,80.8,Certified
+388,1167,Effective Communication,Soft Skills,2024-10-03,84.9,In Progress
+389,1167,Coaching for Managers,Leadership,2024-04-26,72.0,Certified
+390,1168,Data Visualization with BI Tools,Technical,2023-02-27,82.5,Certified
+391,1168,Cloud Architecture Fundamentals,Technical,2023-06-06,94.4,Certified
+392,1168,Machine Learning Operations,Technical,2025-03-03,69.5,Not Certified
+393,1168,Coaching for Managers,Leadership,2025-01-30,76.8,Certified
+394,1169,Presentation Mastery,Soft Skills,2024-04-16,81.2,Certified
+395,1172,Negotiation Skills,Soft Skills,2023-12-21,78.6,Certified
+396,1172,Anti-Bribery & Compliance,Compliance,2025-05-10,85.4,Certified
+397,1172,Cloud Architecture Fundamentals,Technical,2024-07-07,74.3,Certified
+398,1172,Workplace Safety,Compliance,2023-08-28,85.9,Certified
+399,1172,Data Privacy Essentials,Compliance,2024-05-26,92.6,Certified
+400,1173,HR Business Partnering,Leadership,2023-09-19,77.0,Certified
+401,1173,Anti-Bribery & Compliance,Compliance,2023-10-27,81.7,Certified
+402,1173,Workplace Safety,Compliance,2023-06-10,79.1,Certified
+403,1173,Leading Through Change,Leadership,2024-01-01,96.0,Certified
+404,1174,Cloud Architecture Fundamentals,Technical,2023-05-23,82.5,Certified
+405,1174,Advanced System Design,Technical,2024-07-14,88.6,In Progress
+406,1174,Data Privacy Essentials,Compliance,2023-05-04,87.5,Certified
+407,1174,Workplace Safety,Compliance,2023-06-20,86.6,In Progress
+408,1175,Advanced System Design,Technical,2024-05-03,81.2,Certified
+409,1175,Leading Through Change,Leadership,2023-10-13,80.0,Certified
+410,1176,Workplace Safety,Compliance,2023-09-02,58.5,In Progress
+411,1176,Machine Learning Operations,Technical,2024-01-10,95.9,Certified
+412,1176,Data Visualization with BI Tools,Technical,2025-01-29,86.9,Certified
+413,1177,Anti-Bribery & Compliance,Compliance,2024-07-28,87.5,Certified
+414,1177,HR Business Partnering,Leadership,2024-06-01,69.0,Not Certified
+415,1177,Workplace Safety,Compliance,2024-05-08,88.5,Certified
+416,1177,Coaching for Managers,Leadership,2023-12-30,80.3,In Progress
+417,1178,Workplace Safety,Compliance,2025-01-25,76.6,Certified
+418,1179,Data Visualization with BI Tools,Technical,2024-06-19,78.8,Certified
+419,1179,Presentation Mastery,Soft Skills,2023-10-22,76.8,Certified
+420,1180,Negotiation Skills,Soft Skills,2024-06-11,85.3,Certified
+421,1180,Data Visualization with BI Tools,Technical,2025-02-11,81.3,Certified
+422,1180,Cloud Architecture Fundamentals,Technical,2025-08-17,83.5,Certified
+423,1181,Presentation Mastery,Soft Skills,2023-05-01,90.3,Certified
+424,1181,Anti-Bribery & Compliance,Compliance,2025-07-22,88.5,Certified
+425,1181,Negotiation Skills,Soft Skills,2023-03-02,84.2,Certified
+426,1182,Anti-Bribery & Compliance,Compliance,2024-04-26,91.0,Certified
+427,1182,HR Business Partnering,Leadership,2024-12-09,76.8,Certified
+428,1182,Time Management,Soft Skills,2024-04-27,79.4,Certified
+429,1183,HR Business Partnering,Leadership,2024-12-28,82.7,Certified
+430,1184,Coaching for Managers,Leadership,2025-07-26,81.1,Certified
+431,1185,Coaching for Managers,Leadership,2024-02-19,68.2,In Progress
+432,1185,Leading Through Change,Leadership,2025-08-26,83.8,In Progress
+433,1185,Negotiation Skills,Soft Skills,2024-01-23,86.3,In Progress
+434,1185,Anti-Bribery & Compliance,Compliance,2025-02-24,82.1,Certified
+435,1185,Data Visualization with BI Tools,Technical,2023-09-27,77.7,In Progress
+436,1186,Advanced System Design,Technical,2024-07-10,98.0,Certified
+437,1188,Workplace Safety,Compliance,2025-03-20,77.4,Certified
+438,1188,Data Visualization with BI Tools,Technical,2023-01-05,82.0,Certified
+439,1189,Workplace Safety,Compliance,2023-05-21,82.6,Certified
+440,1189,Data Visualization with BI Tools,Technical,2024-09-14,78.1,In Progress
+441,1190,Leading Through Change,Leadership,2024-07-28,94.1,In Progress
+442,1190,Anti-Bribery & Compliance,Compliance,2025-08-27,95.2,Certified
+443,1190,Time Management,Soft Skills,2024-03-13,79.6,Certified
+444,1190,Presentation Mastery,Soft Skills,2024-02-14,81.1,Certified
+445,1191,Machine Learning Operations,Technical,2023-09-12,79.5,Certified
+446,1191,Anti-Bribery & Compliance,Compliance,2023-09-07,87.7,Certified
+447,1192,HR Business Partnering,Leadership,2025-02-13,69.3,Not Certified
+448,1192,Cloud Architecture Fundamentals,Technical,2023-01-12,71.5,Certified
+449,1193,Workplace Safety,Compliance,2023-05-19,82.6,Certified
+450,1194,Presentation Mastery,Soft Skills,2023-07-12,74.5,Certified
+451,1194,Coaching for Managers,Leadership,2025-06-19,88.1,In Progress
+452,1194,Advanced System Design,Technical,2023-10-25,95.1,Certified
+453,1195,Advanced System Design,Technical,2025-05-05,81.6,In Progress
+454,1195,Machine Learning Operations,Technical,2024-04-11,96.6,Certified
+455,1195,Time Management,Soft Skills,2023-07-26,88.3,In Progress
+456,1196,Negotiation Skills,Soft Skills,2023-10-10,81.1,Certified
+457,1196,Anti-Bribery & Compliance,Compliance,2024-08-12,83.3,Certified
+458,1196,Time Management,Soft Skills,2024-04-14,62.3,In Progress
+459,1197,Workplace Safety,Compliance,2024-08-11,72.7,Certified
+460,1197,HR Business Partnering,Leadership,2025-08-26,92.7,In Progress
+461,1198,Workplace Safety,Compliance,2025-03-02,97.3,Certified
+462,1198,Coaching for Managers,Leadership,2023-01-22,92.3,Certified
+463,1199,Data Visualization with BI Tools,Technical,2025-08-02,67.0,Not Certified
+464,1199,Coaching for Managers,Leadership,2024-06-15,78.0,Certified
+465,1200,Advanced System Design,Technical,2024-10-01,65.4,In Progress
+466,1200,HR Business Partnering,Leadership,2025-06-30,82.3,Certified
+467,1200,Machine Learning Operations,Technical,2025-04-04,84.0,Certified
+468,1200,Negotiation Skills,Soft Skills,2025-07-08,90.8,Certified
+469,1201,Negotiation Skills,Soft Skills,2024-11-24,73.5,Certified
+470,1201,Time Management,Soft Skills,2025-09-02,84.4,In Progress
+471,1201,Data Privacy Essentials,Compliance,2023-11-24,91.4,In Progress
+472,1202,Cloud Architecture Fundamentals,Technical,2023-09-11,77.1,In Progress
+473,1202,Data Visualization with BI Tools,Technical,2023-09-28,80.9,Certified
+474,1203,Leading Through Change,Leadership,2024-04-05,84.8,In Progress
+475,1203,Anti-Bribery & Compliance,Compliance,2024-01-30,85.5,Certified
+476,1204,Anti-Bribery & Compliance,Compliance,2024-07-16,80.4,Certified
+477,1204,Effective Communication,Soft Skills,2025-05-11,87.0,Certified
+478,1205,Presentation Mastery,Soft Skills,2025-07-22,73.2,Certified
+479,1205,Machine Learning Operations,Technical,2024-10-01,78.3,Certified
+480,1205,Cloud Architecture Fundamentals,Technical,2023-01-27,77.0,In Progress
+481,1205,Anti-Bribery & Compliance,Compliance,2024-11-24,77.7,Certified
+482,1206,Time Management,Soft Skills,2023-03-05,76.9,Certified
+483,1206,Leading Through Change,Leadership,2025-07-09,80.2,In Progress
+484,1206,Presentation Mastery,Soft Skills,2023-07-28,75.8,In Progress
+485,1206,Data Visualization with BI Tools,Technical,2025-09-21,87.0,In Progress
+486,1206,Anti-Bribery & Compliance,Compliance,2023-01-23,86.9,In Progress
+487,1207,Machine Learning Operations,Technical,2024-07-14,82.1,Certified
+488,1207,Coaching for Managers,Leadership,2023-10-05,66.8,Not Certified
+489,1208,Advanced System Design,Technical,2024-01-14,81.9,In Progress
+490,1208,Presentation Mastery,Soft Skills,2023-02-16,75.6,In Progress
+491,1208,Time Management,Soft Skills,2023-02-22,90.2,Certified
+492,1209,HR Business Partnering,Leadership,2025-02-26,93.1,In Progress
+493,1209,Time Management,Soft Skills,2024-06-20,91.2,In Progress
+494,1209,Advanced System Design,Technical,2023-06-30,81.5,Certified
+495,1210,Data Privacy Essentials,Compliance,2025-08-04,82.0,In Progress
+496,1210,Negotiation Skills,Soft Skills,2025-01-30,75.2,Certified
+497,1210,Leading Through Change,Leadership,2024-08-12,79.2,In Progress
+498,1211,Workplace Safety,Compliance,2024-12-07,99.0,In Progress
+499,1211,Cloud Architecture Fundamentals,Technical,2023-10-10,84.8,Certified
+500,1211,Leading Through Change,Leadership,2025-01-20,89.7,In Progress
+501,1211,Machine Learning Operations,Technical,2025-05-06,90.9,In Progress
+502,1212,Negotiation Skills,Soft Skills,2025-07-20,78.5,In Progress
+503,1212,Effective Communication,Soft Skills,2023-07-12,84.6,Certified
+504,1212,Data Visualization with BI Tools,Technical,2023-12-30,83.1,Certified
+505,1213,Workplace Safety,Compliance,2024-07-25,78.7,Certified
+506,1213,Advanced System Design,Technical,2023-07-19,73.2,Certified
+507,1213,Coaching for Managers,Leadership,2024-05-01,81.9,Certified
+508,1214,Data Visualization with BI Tools,Technical,2023-09-21,81.5,Certified
+509,1216,Leading Through Change,Leadership,2024-11-29,94.5,In Progress
+510,1216,Coaching for Managers,Leadership,2025-05-17,93.8,In Progress
+511,1216,Advanced System Design,Technical,2025-03-06,74.6,In Progress
+512,1216,Effective Communication,Soft Skills,2024-03-24,82.3,Certified
+513,1216,HR Business Partnering,Leadership,2024-08-12,85.6,In Progress
+514,1217,Effective Communication,Soft Skills,2023-08-07,85.0,In Progress
+515,1217,Presentation Mastery,Soft Skills,2025-06-13,81.6,In Progress
+516,1217,Anti-Bribery & Compliance,Compliance,2023-07-02,74.9,Certified
+517,1217,Machine Learning Operations,Technical,2024-12-05,90.9,Certified
+518,1217,Time Management,Soft Skills,2023-08-04,82.0,Certified
+519,1218,Negotiation Skills,Soft Skills,2024-02-12,69.3,In Progress
+520,1218,Machine Learning Operations,Technical,2025-08-13,83.0,Certified
+521,1219,Presentation Mastery,Soft Skills,2024-02-10,81.5,Certified
+522,1219,Anti-Bribery & Compliance,Compliance,2024-08-11,75.1,Certified
+523,1219,Advanced System Design,Technical,2023-10-07,90.7,In Progress
+524,1219,Cloud Architecture Fundamentals,Technical,2023-05-10,85.9,In Progress
+525,1220,Advanced System Design,Technical,2025-10-01,75.3,Certified
+526,1220,HR Business Partnering,Leadership,2024-11-29,88.0,Certified
+527,1221,Workplace Safety,Compliance,2023-11-24,94.2,Certified
+528,1222,Effective Communication,Soft Skills,2024-02-07,83.7,Certified
+529,1222,Leading Through Change,Leadership,2024-12-19,87.0,Certified
+530,1222,Advanced System Design,Technical,2023-08-20,78.9,In Progress
+531,1224,Time Management,Soft Skills,2024-01-29,82.4,In Progress
+532,1225,Coaching for Managers,Leadership,2024-11-02,79.3,Certified
+533,1225,Leading Through Change,Leadership,2023-10-12,87.8,Certified
+534,1226,Negotiation Skills,Soft Skills,2024-12-09,82.2,Certified
+535,1227,Workplace Safety,Compliance,2025-07-24,82.8,In Progress
+536,1227,HR Business Partnering,Leadership,2024-04-22,86.8,Certified
+537,1227,Data Visualization with BI Tools,Technical,2023-09-03,80.8,Certified
+538,1227,Leading Through Change,Leadership,2025-09-03,81.6,Certified
+539,1228,Data Visualization with BI Tools,Technical,2025-05-27,87.8,In Progress
+540,1228,Cloud Architecture Fundamentals,Technical,2023-10-31,87.2,In Progress
+541,1229,Presentation Mastery,Soft Skills,2023-01-31,84.6,Certified
+542,1229,Leading Through Change,Leadership,2023-01-12,84.9,In Progress
+543,1230,Leading Through Change,Leadership,2023-02-06,68.8,In Progress
+544,1230,Negotiation Skills,Soft Skills,2024-06-28,97.1,In Progress
+545,1230,Presentation Mastery,Soft Skills,2023-04-05,67.7,In Progress
+546,1230,Anti-Bribery & Compliance,Compliance,2025-03-01,82.7,Certified
+547,1230,Advanced System Design,Technical,2024-11-02,88.7,In Progress
+548,1231,Leading Through Change,Leadership,2024-09-03,99.0,In Progress
+549,1232,Coaching for Managers,Leadership,2024-01-28,82.2,Certified
+550,1233,Leading Through Change,Leadership,2024-01-10,90.5,Certified
+551,1233,Negotiation Skills,Soft Skills,2024-12-12,94.2,In Progress
+552,1233,Presentation Mastery,Soft Skills,2023-03-19,89.5,Certified
+553,1234,Data Visualization with BI Tools,Technical,2024-04-10,77.2,Certified
+554,1234,Anti-Bribery & Compliance,Compliance,2023-10-01,79.1,Certified
+555,1234,Data Privacy Essentials,Compliance,2024-06-26,82.6,Certified
+556,1234,HR Business Partnering,Leadership,2024-11-16,75.9,Certified
+557,1236,Coaching for Managers,Leadership,2024-02-11,89.7,Certified
+558,1236,Effective Communication,Soft Skills,2024-11-30,78.8,Certified
+559,1236,Cloud Architecture Fundamentals,Technical,2025-02-27,77.0,In Progress
+560,1236,Machine Learning Operations,Technical,2023-09-12,86.9,Certified
+561,1236,Data Visualization with BI Tools,Technical,2025-07-13,84.6,Certified
+562,1237,Anti-Bribery & Compliance,Compliance,2025-09-30,85.6,Certified
+563,1237,Advanced System Design,Technical,2023-06-21,85.8,Certified
+564,1237,Effective Communication,Soft Skills,2023-03-16,81.8,In Progress
+565,1237,Negotiation Skills,Soft Skills,2025-03-03,74.6,Certified
+566,1238,Workplace Safety,Compliance,2025-02-25,75.4,In Progress
+567,1238,Negotiation Skills,Soft Skills,2025-04-08,83.7,Certified
+568,1238,HR Business Partnering,Leadership,2025-07-04,75.4,Certified
+569,1238,Data Visualization with BI Tools,Technical,2023-01-09,78.8,Certified
+570,1239,Data Privacy Essentials,Compliance,2023-12-04,84.2,Certified
+571,1239,Advanced System Design,Technical,2024-07-13,92.5,Certified
+572,1239,Leading Through Change,Leadership,2023-10-02,68.0,Not Certified
+573,1241,Effective Communication,Soft Skills,2024-07-20,85.9,Certified
+574,1242,Machine Learning Operations,Technical,2024-01-21,75.8,Certified
+575,1242,Effective Communication,Soft Skills,2025-09-07,94.5,Certified
+576,1242,Time Management,Soft Skills,2025-04-09,80.5,In Progress
+577,1242,Advanced System Design,Technical,2025-09-11,85.4,Certified
+578,1243,Data Visualization with BI Tools,Technical,2023-04-10,71.9,Certified
+579,1244,Coaching for Managers,Leadership,2025-09-10,81.4,Certified
+580,1244,Workplace Safety,Compliance,2023-06-14,83.6,Certified
+581,1245,HR Business Partnering,Leadership,2024-08-02,84.4,Certified
+582,1245,Coaching for Managers,Leadership,2024-02-11,85.1,Certified
+583,1245,Anti-Bribery & Compliance,Compliance,2024-09-28,82.4,Certified
+584,1245,Time Management,Soft Skills,2024-08-21,79.4,Certified
+585,1245,Presentation Mastery,Soft Skills,2025-05-17,92.5,Certified
+586,1247,Advanced System Design,Technical,2023-01-01,74.5,Certified
+587,1248,Machine Learning Operations,Technical,2024-01-14,81.0,In Progress
+588,1249,Negotiation Skills,Soft Skills,2025-01-02,75.9,In Progress
+589,1249,Leading Through Change,Leadership,2024-02-05,85.3,In Progress
+590,1250,Presentation Mastery,Soft Skills,2023-08-05,79.7,Certified
+591,1250,Data Privacy Essentials,Compliance,2025-05-19,99.0,Certified
+592,1252,Data Privacy Essentials,Compliance,2023-10-25,85.2,In Progress
+593,1253,Coaching for Managers,Leadership,2023-07-14,89.7,Certified
+594,1253,HR Business Partnering,Leadership,2025-02-26,83.9,Certified
+595,1253,Leading Through Change,Leadership,2023-06-01,86.0,In Progress
+596,1254,Effective Communication,Soft Skills,2025-07-27,86.1,Certified
+597,1254,Data Privacy Essentials,Compliance,2024-11-16,83.4,Certified
+598,1254,Anti-Bribery & Compliance,Compliance,2025-04-14,85.4,Certified
+599,1254,Coaching for Managers,Leadership,2023-09-15,89.4,In Progress
+600,1254,HR Business Partnering,Leadership,2024-07-11,70.2,Certified
+601,1255,Data Privacy Essentials,Compliance,2024-08-13,89.0,Certified
+602,1255,Effective Communication,Soft Skills,2023-11-16,82.6,Certified
+603,1256,Advanced System Design,Technical,2025-05-10,80.0,Certified
+604,1256,Data Privacy Essentials,Compliance,2024-11-22,96.6,Certified
+605,1256,Data Visualization with BI Tools,Technical,2024-08-01,75.8,Certified
+606,1256,Leading Through Change,Leadership,2024-08-26,74.6,Certified
+607,1257,Coaching for Managers,Leadership,2023-07-02,76.1,Certified
+608,1258,Workplace Safety,Compliance,2025-09-01,77.0,Certified
+609,1258,Coaching for Managers,Leadership,2023-09-03,70.2,Certified
+610,1259,Data Visualization with BI Tools,Technical,2024-04-26,85.2,Certified
+611,1259,Machine Learning Operations,Technical,2024-06-29,72.6,Certified
+612,1260,Effective Communication,Soft Skills,2025-09-15,96.7,Certified
+613,1261,Anti-Bribery & Compliance,Compliance,2023-06-14,88.0,Certified
+614,1261,Data Privacy Essentials,Compliance,2025-07-04,69.5,Not Certified
+615,1262,Machine Learning Operations,Technical,2024-03-06,70.0,Certified
+616,1262,Anti-Bribery & Compliance,Compliance,2024-07-31,82.2,Certified
+617,1263,Presentation Mastery,Soft Skills,2024-11-07,85.7,In Progress
+618,1264,HR Business Partnering,Leadership,2024-11-13,79.8,Certified
+619,1264,Presentation Mastery,Soft Skills,2024-12-14,82.8,Certified
+620,1264,Anti-Bribery & Compliance,Compliance,2024-09-28,85.5,Certified
+621,1264,Data Visualization with BI Tools,Technical,2025-08-30,93.8,Certified
+622,1265,Effective Communication,Soft Skills,2025-04-26,87.9,Certified
+623,1266,Presentation Mastery,Soft Skills,2025-06-28,81.8,Certified
+624,1266,Negotiation Skills,Soft Skills,2024-03-08,61.2,In Progress
+625,1267,Effective Communication,Soft Skills,2024-12-30,70.7,Certified
+626,1267,HR Business Partnering,Leadership,2023-03-23,83.3,Certified
+627,1267,Anti-Bribery & Compliance,Compliance,2024-07-18,80.5,Certified
+628,1268,HR Business Partnering,Leadership,2025-01-29,79.6,Certified
+629,1269,Data Privacy Essentials,Compliance,2024-04-25,70.8,In Progress
+630,1269,Cloud Architecture Fundamentals,Technical,2025-03-15,90.7,In Progress
+631,1271,Leading Through Change,Leadership,2023-05-26,89.0,Certified
+632,1271,Negotiation Skills,Soft Skills,2023-11-29,99.0,Certified
+633,1271,Data Visualization with BI Tools,Technical,2023-05-18,83.4,Certified
+634,1272,Leading Through Change,Leadership,2024-05-03,87.6,In Progress
+635,1273,Cloud Architecture Fundamentals,Technical,2023-02-19,74.7,Certified
+636,1273,Anti-Bribery & Compliance,Compliance,2023-04-20,84.1,Certified
+637,1274,Data Privacy Essentials,Compliance,2024-06-22,83.4,Certified
+638,1274,Presentation Mastery,Soft Skills,2024-03-18,85.4,Certified
+639,1274,Leading Through Change,Leadership,2023-07-14,87.7,In Progress
+640,1275,Workplace Safety,Compliance,2024-07-09,81.8,In Progress
+641,1275,Coaching for Managers,Leadership,2025-04-10,90.0,Certified
+642,1276,Time Management,Soft Skills,2023-12-06,67.9,In Progress
+643,1276,Effective Communication,Soft Skills,2024-01-13,91.1,Certified
+644,1276,Negotiation Skills,Soft Skills,2024-04-02,75.4,Certified
+645,1276,HR Business Partnering,Leadership,2024-08-13,82.0,In Progress
+646,1277,Effective Communication,Soft Skills,2024-06-22,79.3,Certified
+647,1277,Data Visualization with BI Tools,Technical,2023-06-03,79.7,Certified
+648,1277,Negotiation Skills,Soft Skills,2023-11-14,85.6,Certified
+649,1278,Presentation Mastery,Soft Skills,2024-08-29,79.1,In Progress
+650,1278,Coaching for Managers,Leadership,2024-02-26,69.9,In Progress
+651,1279,Anti-Bribery & Compliance,Compliance,2023-08-09,68.0,In Progress
+652,1279,Negotiation Skills,Soft Skills,2025-02-03,79.7,In Progress
+653,1279,Presentation Mastery,Soft Skills,2024-09-25,96.2,Certified
+654,1280,Time Management,Soft Skills,2024-12-22,74.1,Certified
+655,1280,Negotiation Skills,Soft Skills,2025-02-05,85.9,Certified
+656,1280,Leading Through Change,Leadership,2023-06-27,81.3,In Progress
+657,1281,Negotiation Skills,Soft Skills,2024-09-25,76.4,Certified
+658,1282,Data Visualization with BI Tools,Technical,2024-05-14,91.8,In Progress
+659,1283,Cloud Architecture Fundamentals,Technical,2025-06-23,87.8,In Progress
+660,1283,Coaching for Managers,Leadership,2023-10-27,98.8,Certified
+661,1283,Negotiation Skills,Soft Skills,2024-11-26,83.0,In Progress
+662,1284,Machine Learning Operations,Technical,2024-07-21,71.8,In Progress
+663,1284,Effective Communication,Soft Skills,2023-01-21,78.8,Certified
+664,1286,Machine Learning Operations,Technical,2025-01-30,78.7,Certified
+665,1286,Advanced System Design,Technical,2024-11-14,81.7,In Progress
+666,1286,Time Management,Soft Skills,2024-09-02,91.5,In Progress
+667,1288,Machine Learning Operations,Technical,2023-04-21,78.9,Certified
+668,1289,Workplace Safety,Compliance,2024-08-01,88.4,Certified
+669,1290,Anti-Bribery & Compliance,Compliance,2024-11-10,78.1,Certified
+670,1290,Machine Learning Operations,Technical,2023-01-02,70.7,Certified
+671,1290,Negotiation Skills,Soft Skills,2024-06-11,79.4,Certified
+672,1291,Cloud Architecture Fundamentals,Technical,2024-05-10,71.0,Certified
+673,1291,HR Business Partnering,Leadership,2025-06-16,92.8,Certified
+674,1291,Presentation Mastery,Soft Skills,2024-03-09,68.6,In Progress
+675,1292,Negotiation Skills,Soft Skills,2025-05-23,71.2,Certified
+676,1292,Cloud Architecture Fundamentals,Technical,2025-08-30,72.0,Certified
+677,1293,Machine Learning Operations,Technical,2024-10-30,86.0,Certified
+678,1293,Anti-Bribery & Compliance,Compliance,2025-06-04,87.9,Certified
+679,1293,Presentation Mastery,Soft Skills,2023-12-02,86.6,Certified
+680,1293,Workplace Safety,Compliance,2025-08-25,79.1,Certified
+681,1293,Time Management,Soft Skills,2024-11-27,75.0,In Progress
+682,1294,Anti-Bribery & Compliance,Compliance,2025-07-13,85.2,Certified
+683,1294,Data Visualization with BI Tools,Technical,2025-03-29,79.4,In Progress
+684,1295,Leading Through Change,Leadership,2023-07-31,67.4,Not Certified
+685,1295,Data Privacy Essentials,Compliance,2024-09-05,81.5,In Progress
+686,1295,Anti-Bribery & Compliance,Compliance,2023-09-20,81.1,Certified
+687,1295,Presentation Mastery,Soft Skills,2024-10-06,99.0,Certified
+688,1296,Negotiation Skills,Soft Skills,2023-03-29,82.1,In Progress
+689,1296,Cloud Architecture Fundamentals,Technical,2024-05-07,99.0,Certified
+690,1296,Data Privacy Essentials,Compliance,2024-02-08,73.0,Certified
+691,1296,Advanced System Design,Technical,2024-09-10,72.2,In Progress
+692,1297,Presentation Mastery,Soft Skills,2025-03-23,89.8,Certified
+693,1297,Negotiation Skills,Soft Skills,2024-04-15,92.0,Certified
+694,1297,HR Business Partnering,Leadership,2025-02-07,67.2,Not Certified
+695,1297,Anti-Bribery & Compliance,Compliance,2024-01-13,88.1,Certified
+696,1298,Data Privacy Essentials,Compliance,2025-03-12,79.4,Certified
+697,1298,Negotiation Skills,Soft Skills,2023-12-23,84.6,Certified
+698,1299,Coaching for Managers,Leadership,2023-11-30,81.8,Certified
+699,1299,Workplace Safety,Compliance,2024-05-16,69.4,In Progress
+700,1299,Leading Through Change,Leadership,2023-11-24,79.4,Certified
+701,1299,Cloud Architecture Fundamentals,Technical,2025-02-03,80.8,Certified
+702,1301,Data Privacy Essentials,Compliance,2024-10-30,73.0,Certified
+703,1301,Effective Communication,Soft Skills,2023-10-02,69.9,In Progress
+704,1302,Coaching for Managers,Leadership,2023-04-01,73.8,In Progress
+705,1302,Effective Communication,Soft Skills,2024-11-03,81.2,Certified
+706,1302,Negotiation Skills,Soft Skills,2024-11-17,94.3,In Progress
+707,1302,Machine Learning Operations,Technical,2023-06-30,85.5,In Progress
+708,1302,Cloud Architecture Fundamentals,Technical,2023-12-08,80.4,In Progress
+709,1303,HR Business Partnering,Leadership,2024-08-20,84.7,Certified
+710,1303,Presentation Mastery,Soft Skills,2023-03-07,97.9,Certified
+711,1304,Presentation Mastery,Soft Skills,2023-03-05,88.2,Certified
+712,1304,Leading Through Change,Leadership,2023-07-25,76.8,In Progress
+713,1304,Coaching for Managers,Leadership,2025-03-22,72.3,Certified
+714,1305,Leading Through Change,Leadership,2024-04-01,90.0,Certified
+715,1305,Negotiation Skills,Soft Skills,2025-06-11,65.9,Not Certified
+716,1305,Machine Learning Operations,Technical,2025-05-09,80.9,Certified
+717,1305,Coaching for Managers,Leadership,2025-01-28,85.2,Certified
+718,1305,HR Business Partnering,Leadership,2025-02-22,79.9,Certified
+719,1306,Time Management,Soft Skills,2024-09-10,81.8,Certified
+720,1306,Data Visualization with BI Tools,Technical,2024-01-09,56.6,In Progress
+721,1306,Effective Communication,Soft Skills,2025-02-22,90.3,Certified
+722,1306,Anti-Bribery & Compliance,Compliance,2024-08-17,78.1,Certified
+723,1307,Coaching for Managers,Leadership,2023-11-02,79.2,Certified
+724,1307,Anti-Bribery & Compliance,Compliance,2024-04-30,82.6,Certified
+725,1307,Time Management,Soft Skills,2024-09-15,86.3,In Progress
+726,1308,Machine Learning Operations,Technical,2025-09-24,84.7,Certified
+727,1308,Leading Through Change,Leadership,2024-11-03,86.0,Certified
+728,1308,HR Business Partnering,Leadership,2024-08-10,73.8,Certified
+729,1308,Data Privacy Essentials,Compliance,2023-08-06,82.2,Certified
+730,1309,Coaching for Managers,Leadership,2024-03-06,95.8,Certified
+731,1309,Data Privacy Essentials,Compliance,2025-02-15,84.9,In Progress
+732,1309,Workplace Safety,Compliance,2023-03-19,82.4,Certified
+733,1309,Data Visualization with BI Tools,Technical,2025-01-29,76.2,Certified
+734,1309,Anti-Bribery & Compliance,Compliance,2024-06-22,89.1,Certified
+735,1310,Effective Communication,Soft Skills,2025-03-26,76.5,Certified
+736,1311,Machine Learning Operations,Technical,2024-11-13,76.5,In Progress
+737,1311,Anti-Bribery & Compliance,Compliance,2023-06-08,89.6,Certified
+738,1312,Leading Through Change,Leadership,2025-06-23,81.4,Certified
+739,1313,Data Privacy Essentials,Compliance,2025-06-09,77.9,Certified
+740,1314,Coaching for Managers,Leadership,2024-07-14,90.3,Certified
+741,1314,Data Visualization with BI Tools,Technical,2025-03-27,84.2,Certified
+742,1314,Advanced System Design,Technical,2024-01-01,69.5,Not Certified
+743,1314,Negotiation Skills,Soft Skills,2024-06-23,91.5,In Progress
+744,1314,Cloud Architecture Fundamentals,Technical,2023-04-17,78.9,In Progress
+745,1315,Data Visualization with BI Tools,Technical,2023-11-04,85.5,In Progress
+746,1315,Leading Through Change,Leadership,2025-08-23,71.8,In Progress
+747,1316,Data Privacy Essentials,Compliance,2023-09-30,74.0,In Progress
+748,1317,Negotiation Skills,Soft Skills,2023-02-04,68.6,In Progress
+749,1317,Leading Through Change,Leadership,2023-04-16,77.6,Certified
+750,1318,Machine Learning Operations,Technical,2024-06-22,83.3,Certified
+751,1318,Data Privacy Essentials,Compliance,2023-11-20,64.1,In Progress
+752,1318,Leading Through Change,Leadership,2025-01-27,76.6,In Progress
+753,1318,Negotiation Skills,Soft Skills,2025-02-07,75.0,Certified
+754,1320,Data Privacy Essentials,Compliance,2023-11-24,99.0,Certified
+755,1320,Machine Learning Operations,Technical,2024-05-13,78.2,In Progress
+756,1320,Negotiation Skills,Soft Skills,2025-04-03,81.3,In Progress
+757,1321,HR Business Partnering,Leadership,2024-01-21,84.3,In Progress
+758,1321,Anti-Bribery & Compliance,Compliance,2025-04-29,91.6,Certified
+759,1321,Coaching for Managers,Leadership,2025-02-20,73.5,In Progress
+760,1321,Machine Learning Operations,Technical,2023-09-06,89.5,Certified
+761,1321,Workplace Safety,Compliance,2024-03-29,87.4,In Progress
+762,1322,Workplace Safety,Compliance,2025-09-24,79.7,In Progress
+763,1323,Anti-Bribery & Compliance,Compliance,2025-03-23,67.9,Not Certified
+764,1324,Effective Communication,Soft Skills,2024-09-22,74.6,Certified
+765,1324,Coaching for Managers,Leadership,2023-08-12,88.6,Certified
+766,1324,Cloud Architecture Fundamentals,Technical,2023-10-25,78.7,In Progress
+767,1324,Data Privacy Essentials,Compliance,2023-09-08,86.5,In Progress
+768,1325,Leading Through Change,Leadership,2023-11-27,98.1,Certified
+769,1326,Machine Learning Operations,Technical,2023-05-14,82.6,In Progress
+770,1326,Workplace Safety,Compliance,2023-01-28,81.6,In Progress
+771,1326,HR Business Partnering,Leadership,2023-06-17,70.6,In Progress
+772,1326,Advanced System Design,Technical,2023-10-04,70.7,Certified
+773,1326,Leading Through Change,Leadership,2023-08-30,75.5,In Progress
+774,1327,Coaching for Managers,Leadership,2024-08-17,90.4,Certified
+775,1327,Presentation Mastery,Soft Skills,2025-02-08,89.7,In Progress
+776,1327,Advanced System Design,Technical,2024-05-11,88.7,Certified
+777,1327,Workplace Safety,Compliance,2024-01-09,87.7,In Progress
+778,1327,Data Privacy Essentials,Compliance,2024-09-20,81.2,Certified
+779,1328,Data Privacy Essentials,Compliance,2024-06-02,76.9,Certified
+780,1328,Presentation Mastery,Soft Skills,2025-07-13,89.1,Certified
+781,1329,Leading Through Change,Leadership,2025-09-09,82.5,Certified
+782,1329,Anti-Bribery & Compliance,Compliance,2023-09-28,96.3,Certified
+783,1329,Machine Learning Operations,Technical,2023-03-08,94.4,In Progress
+784,1330,Data Visualization with BI Tools,Technical,2023-09-14,78.7,In Progress
+785,1330,Workplace Safety,Compliance,2024-03-25,72.9,Certified
+786,1330,Leading Through Change,Leadership,2023-03-23,83.3,Certified
+787,1330,Cloud Architecture Fundamentals,Technical,2024-03-31,88.0,In Progress
+788,1330,Effective Communication,Soft Skills,2024-01-28,89.4,Certified
+789,1331,Machine Learning Operations,Technical,2023-12-07,82.6,In Progress
+790,1331,Time Management,Soft Skills,2024-05-19,66.9,In Progress
+791,1331,Workplace Safety,Compliance,2023-05-10,72.1,Certified
+792,1331,Presentation Mastery,Soft Skills,2025-04-13,75.5,Certified
+793,1331,Data Privacy Essentials,Compliance,2025-07-29,72.5,Certified
+794,1333,Leading Through Change,Leadership,2024-03-24,75.6,Certified
+795,1333,HR Business Partnering,Leadership,2023-10-19,82.9,Certified
+796,1333,Presentation Mastery,Soft Skills,2023-11-27,89.0,Certified
+797,1335,Machine Learning Operations,Technical,2024-02-23,78.9,Certified
+798,1335,Workplace Safety,Compliance,2025-05-30,99.0,Certified
+799,1335,Data Visualization with BI Tools,Technical,2025-10-01,73.1,Certified
+800,1336,Workplace Safety,Compliance,2023-09-10,68.5,Not Certified
+801,1337,Advanced System Design,Technical,2025-06-16,86.9,Certified
+802,1337,Time Management,Soft Skills,2024-09-19,97.7,Certified
+803,1337,Coaching for Managers,Leadership,2024-08-07,88.5,Certified
+804,1337,Leading Through Change,Leadership,2025-04-10,79.6,In Progress
+805,1337,Data Visualization with BI Tools,Technical,2024-08-31,84.8,Certified
+806,1338,Advanced System Design,Technical,2024-07-27,86.3,In Progress
+807,1338,Data Privacy Essentials,Compliance,2024-05-31,70.8,In Progress
+808,1339,Data Privacy Essentials,Compliance,2023-07-14,82.8,In Progress
+809,1339,Cloud Architecture Fundamentals,Technical,2023-02-18,63.5,Not Certified
+810,1339,Effective Communication,Soft Skills,2024-04-11,86.1,In Progress
+811,1340,Negotiation Skills,Soft Skills,2025-05-15,87.0,In Progress
+812,1341,Advanced System Design,Technical,2024-11-04,70.1,In Progress
+813,1341,Workplace Safety,Compliance,2025-08-10,73.5,Certified
+814,1342,Advanced System Design,Technical,2024-12-03,78.0,Certified
+815,1342,Time Management,Soft Skills,2024-11-08,78.0,Certified
+816,1344,Workplace Safety,Compliance,2024-12-03,77.0,Certified
+817,1344,Coaching for Managers,Leadership,2024-12-28,98.0,Certified
+818,1344,Cloud Architecture Fundamentals,Technical,2024-12-07,91.0,Certified
+819,1345,Coaching for Managers,Leadership,2023-01-17,85.6,Certified
+820,1345,Leading Through Change,Leadership,2024-09-28,87.5,Certified
+821,1345,Cloud Architecture Fundamentals,Technical,2024-03-11,80.9,Certified
+822,1345,Anti-Bribery & Compliance,Compliance,2023-05-04,85.0,In Progress
+823,1345,Data Privacy Essentials,Compliance,2024-08-21,89.9,Certified
+824,1346,Time Management,Soft Skills,2023-10-12,85.6,Certified
+825,1346,Effective Communication,Soft Skills,2025-01-03,84.2,Certified
+826,1346,Anti-Bribery & Compliance,Compliance,2024-11-17,75.4,In Progress
+827,1348,Data Privacy Essentials,Compliance,2025-02-22,89.1,Certified
+828,1348,HR Business Partnering,Leadership,2024-12-08,82.3,Certified
+829,1349,Advanced System Design,Technical,2023-05-26,81.6,In Progress
+830,1349,Leading Through Change,Leadership,2024-06-18,74.7,In Progress
+831,1349,Data Visualization with BI Tools,Technical,2023-02-04,84.3,Certified
+832,1350,Effective Communication,Soft Skills,2025-03-27,92.9,Certified
+833,1350,Presentation Mastery,Soft Skills,2024-04-04,82.9,In Progress
+834,1350,Advanced System Design,Technical,2023-03-08,84.3,Certified
+835,1350,Leading Through Change,Leadership,2024-02-02,83.8,Certified
+836,1351,Data Privacy Essentials,Compliance,2025-04-27,72.3,Certified
+837,1351,Anti-Bribery & Compliance,Compliance,2023-08-18,90.4,Certified
+838,1352,Presentation Mastery,Soft Skills,2023-04-25,78.1,Certified
+839,1352,Data Privacy Essentials,Compliance,2023-11-14,77.1,Certified
+840,1354,Anti-Bribery & Compliance,Compliance,2025-06-10,99.0,Certified
+841,1354,Data Visualization with BI Tools,Technical,2025-04-28,91.2,Certified
+842,1355,Leading Through Change,Leadership,2024-11-30,74.0,Certified
+843,1355,Data Privacy Essentials,Compliance,2025-03-08,86.8,In Progress
+844,1355,Data Visualization with BI Tools,Technical,2024-03-09,79.4,Certified
+845,1355,Advanced System Design,Technical,2024-03-11,77.0,In Progress
+846,1355,Coaching for Managers,Leadership,2024-11-13,83.9,Certified
+847,1356,Coaching for Managers,Leadership,2024-07-31,55.8,In Progress
+848,1356,Anti-Bribery & Compliance,Compliance,2024-04-04,85.2,Certified
+849,1357,Effective Communication,Soft Skills,2024-05-07,82.5,In Progress
+850,1357,Time Management,Soft Skills,2023-12-29,82.4,Certified
+851,1357,Leading Through Change,Leadership,2023-12-03,88.6,Certified
+852,1357,HR Business Partnering,Leadership,2023-01-27,81.0,Certified
+853,1358,Leading Through Change,Leadership,2024-05-11,77.5,Certified
+854,1358,Time Management,Soft Skills,2025-02-13,81.2,Certified
+855,1358,Presentation Mastery,Soft Skills,2023-02-17,76.2,Certified
+856,1359,Cloud Architecture Fundamentals,Technical,2023-01-17,89.0,Certified
+857,1359,HR Business Partnering,Leadership,2025-03-19,82.9,Certified
+858,1360,Time Management,Soft Skills,2023-04-30,78.7,Certified
+859,1360,HR Business Partnering,Leadership,2024-03-14,80.9,Certified
+860,1361,Presentation Mastery,Soft Skills,2024-10-06,82.7,Certified
+861,1361,Machine Learning Operations,Technical,2024-10-25,75.7,Certified
+862,1361,Time Management,Soft Skills,2023-01-18,87.8,Certified
+863,1361,Leading Through Change,Leadership,2023-02-16,79.6,Certified
+864,1363,HR Business Partnering,Leadership,2025-08-29,73.7,Certified
+865,1363,Leading Through Change,Leadership,2024-10-03,75.3,Certified
+866,1363,Data Privacy Essentials,Compliance,2023-01-24,73.8,In Progress
+867,1363,Presentation Mastery,Soft Skills,2025-08-07,68.0,Not Certified
+868,1364,HR Business Partnering,Leadership,2023-12-07,91.4,Certified
+869,1364,Workplace Safety,Compliance,2025-07-31,75.2,Certified
+870,1364,Presentation Mastery,Soft Skills,2025-03-18,84.9,Certified
+871,1365,Data Visualization with BI Tools,Technical,2023-11-08,74.4,Certified
+872,1365,Data Privacy Essentials,Compliance,2023-11-30,87.3,Certified
+873,1365,Presentation Mastery,Soft Skills,2024-05-11,84.4,Certified
+874,1367,Data Visualization with BI Tools,Technical,2025-06-11,64.3,In Progress
+875,1367,Leading Through Change,Leadership,2024-10-24,78.8,Certified
+876,1367,Machine Learning Operations,Technical,2024-02-16,78.0,In Progress
+877,1369,Negotiation Skills,Soft Skills,2024-01-01,83.7,Certified
+878,1369,Workplace Safety,Compliance,2024-08-28,69.2,Not Certified
+879,1369,Advanced System Design,Technical,2023-10-07,92.5,Certified
+880,1370,Presentation Mastery,Soft Skills,2024-05-22,75.1,In Progress
+881,1370,Effective Communication,Soft Skills,2023-11-05,71.6,Certified
+882,1370,Data Privacy Essentials,Compliance,2024-12-04,70.7,Certified
+883,1371,Machine Learning Operations,Technical,2023-08-04,92.0,In Progress
+884,1371,Effective Communication,Soft Skills,2024-05-24,85.3,Certified
+885,1371,Anti-Bribery & Compliance,Compliance,2025-06-27,90.9,Certified
+886,1372,Coaching for Managers,Leadership,2023-08-17,64.4,Not Certified
+887,1372,Data Privacy Essentials,Compliance,2024-01-24,86.5,Certified
+888,1373,Negotiation Skills,Soft Skills,2024-01-09,78.4,Certified
+889,1373,Cloud Architecture Fundamentals,Technical,2023-09-25,89.4,Certified
+890,1373,Data Privacy Essentials,Compliance,2024-01-30,84.6,In Progress
+891,1374,Leading Through Change,Leadership,2023-05-11,85.7,Certified
+892,1374,Anti-Bribery & Compliance,Compliance,2024-02-17,77.8,In Progress
+893,1374,Data Visualization with BI Tools,Technical,2025-02-27,74.7,Certified
+894,1374,Machine Learning Operations,Technical,2025-03-16,77.1,Certified
+895,1374,Cloud Architecture Fundamentals,Technical,2025-08-08,82.6,Certified
+896,1375,Effective Communication,Soft Skills,2024-05-15,65.3,In Progress
+897,1375,Negotiation Skills,Soft Skills,2024-10-08,81.6,Certified
+898,1376,Data Privacy Essentials,Compliance,2024-04-22,84.2,Certified
+899,1376,Workplace Safety,Compliance,2025-02-15,91.6,Certified
+900,1376,Anti-Bribery & Compliance,Compliance,2025-03-03,75.4,Certified
+901,1378,Coaching for Managers,Leadership,2023-09-29,85.9,Certified
+902,1378,Advanced System Design,Technical,2024-04-03,79.0,Certified
+903,1380,Advanced System Design,Technical,2024-03-16,81.7,Certified
+904,1380,HR Business Partnering,Leadership,2023-10-18,85.8,Certified
+905,1381,Negotiation Skills,Soft Skills,2025-01-15,70.5,Certified
+906,1381,Presentation Mastery,Soft Skills,2023-09-21,73.7,Certified
+907,1381,Data Privacy Essentials,Compliance,2025-05-05,92.2,Certified
+908,1381,Time Management,Soft Skills,2025-08-12,88.2,Certified
+909,1381,Cloud Architecture Fundamentals,Technical,2023-09-18,80.9,Certified
+910,1382,Anti-Bribery & Compliance,Compliance,2024-09-09,73.1,Certified
+911,1382,Coaching for Managers,Leadership,2024-03-30,85.7,Certified
+912,1382,Cloud Architecture Fundamentals,Technical,2024-08-31,91.4,Certified
+913,1383,Leading Through Change,Leadership,2024-11-17,90.7,In Progress
+914,1383,Effective Communication,Soft Skills,2023-01-03,96.7,In Progress
+915,1384,Anti-Bribery & Compliance,Compliance,2025-05-15,78.9,Certified
+916,1384,HR Business Partnering,Leadership,2023-01-04,75.8,Certified
+917,1384,Negotiation Skills,Soft Skills,2023-07-14,84.5,Certified
+918,1385,HR Business Partnering,Leadership,2023-12-28,73.8,Certified
+919,1385,Cloud Architecture Fundamentals,Technical,2023-05-27,80.2,Certified
+920,1386,Coaching for Managers,Leadership,2024-06-30,84.9,Certified
+921,1386,Effective Communication,Soft Skills,2023-12-19,81.8,Certified
+922,1386,Cloud Architecture Fundamentals,Technical,2025-05-12,86.1,Certified
+923,1386,Machine Learning Operations,Technical,2025-08-10,93.8,Certified
+924,1387,Negotiation Skills,Soft Skills,2025-03-02,82.7,Certified
+925,1388,Anti-Bribery & Compliance,Compliance,2024-06-06,77.9,Certified
+926,1389,Negotiation Skills,Soft Skills,2024-04-27,88.5,Certified
+927,1389,Data Privacy Essentials,Compliance,2023-11-11,89.2,Certified
+928,1389,Cloud Architecture Fundamentals,Technical,2024-12-09,85.5,Certified
+929,1389,Advanced System Design,Technical,2024-05-15,76.0,Certified
+930,1389,Anti-Bribery & Compliance,Compliance,2025-01-20,72.0,Certified
+931,1390,Cloud Architecture Fundamentals,Technical,2023-05-09,76.3,In Progress
+932,1390,Coaching for Managers,Leadership,2024-04-02,83.8,In Progress
+933,1390,Anti-Bribery & Compliance,Compliance,2024-03-20,89.3,Certified
+934,1390,Presentation Mastery,Soft Skills,2025-07-22,77.7,Certified
+935,1391,Data Privacy Essentials,Compliance,2024-07-04,68.5,In Progress
+936,1391,Machine Learning Operations,Technical,2024-10-17,74.5,In Progress
+937,1392,Time Management,Soft Skills,2023-10-02,73.5,Certified
+938,1392,HR Business Partnering,Leadership,2025-03-17,61.9,Not Certified
+939,1392,Workplace Safety,Compliance,2024-10-14,89.5,Certified
+940,1393,Cloud Architecture Fundamentals,Technical,2024-12-27,85.7,Certified
+941,1393,Effective Communication,Soft Skills,2025-07-20,90.2,Certified
+942,1393,Coaching for Managers,Leadership,2023-08-24,63.1,In Progress
+943,1393,Time Management,Soft Skills,2024-10-23,75.1,In Progress
+944,1394,Time Management,Soft Skills,2023-07-15,86.7,Certified
+945,1394,Cloud Architecture Fundamentals,Technical,2025-06-14,85.7,Certified
+946,1395,Anti-Bribery & Compliance,Compliance,2023-12-16,83.9,Certified
+947,1396,Advanced System Design,Technical,2023-07-13,90.8,Certified
+948,1397,Negotiation Skills,Soft Skills,2025-03-25,76.8,Certified
+949,1398,Effective Communication,Soft Skills,2023-06-11,76.8,Certified
+950,1398,Machine Learning Operations,Technical,2024-03-09,85.9,Certified
+951,1398,Data Privacy Essentials,Compliance,2025-06-11,83.8,Certified
+952,1398,Advanced System Design,Technical,2024-05-27,84.1,Certified
+953,1398,Time Management,Soft Skills,2025-09-04,69.9,In Progress
+954,1399,Machine Learning Operations,Technical,2023-10-10,79.8,Certified
+955,1400,Negotiation Skills,Soft Skills,2023-09-09,78.6,In Progress
+956,1400,Data Visualization with BI Tools,Technical,2025-04-08,81.0,Certified
+957,1400,Workplace Safety,Compliance,2023-01-23,88.0,Certified
+958,1400,Anti-Bribery & Compliance,Compliance,2025-03-04,85.6,In Progress
+959,1401,Data Privacy Essentials,Compliance,2023-12-28,85.3,In Progress
+960,1401,Coaching for Managers,Leadership,2023-10-24,77.2,Certified
+961,1402,Cloud Architecture Fundamentals,Technical,2023-11-15,91.9,Certified
+962,1402,Coaching for Managers,Leadership,2024-07-19,75.9,In Progress
+963,1403,Cloud Architecture Fundamentals,Technical,2025-06-08,93.0,Certified
+964,1403,Presentation Mastery,Soft Skills,2025-09-11,90.5,In Progress
+965,1403,Leading Through Change,Leadership,2023-12-12,69.9,Not Certified
+966,1405,Machine Learning Operations,Technical,2023-02-03,67.2,In Progress
+967,1405,Advanced System Design,Technical,2025-08-03,96.2,In Progress
+968,1406,Coaching for Managers,Leadership,2023-02-08,89.5,Certified
+969,1406,Cloud Architecture Fundamentals,Technical,2023-07-08,71.9,Certified
+970,1406,Effective Communication,Soft Skills,2024-06-27,77.7,In Progress
+971,1407,Leading Through Change,Leadership,2025-02-20,87.5,Certified
+972,1407,Advanced System Design,Technical,2024-07-24,81.3,In Progress
+973,1408,Negotiation Skills,Soft Skills,2023-02-25,76.6,Certified
+974,1408,Cloud Architecture Fundamentals,Technical,2023-03-26,84.0,In Progress
+975,1408,Machine Learning Operations,Technical,2023-07-19,93.9,Certified
+976,1408,HR Business Partnering,Leadership,2024-09-09,75.8,Certified
+977,1408,Advanced System Design,Technical,2023-12-16,85.6,Certified
+978,1409,Effective Communication,Soft Skills,2025-03-26,79.1,In Progress
+979,1409,Negotiation Skills,Soft Skills,2024-10-29,82.9,Certified
+980,1409,Coaching for Managers,Leadership,2024-05-19,82.2,Certified
+981,1409,Cloud Architecture Fundamentals,Technical,2024-09-30,78.7,In Progress
+982,1410,Data Privacy Essentials,Compliance,2023-03-06,96.6,Certified
+983,1410,Presentation Mastery,Soft Skills,2025-06-30,83.1,Certified
+984,1411,Cloud Architecture Fundamentals,Technical,2023-06-27,90.8,Certified
+985,1411,Presentation Mastery,Soft Skills,2025-09-14,87.8,Certified
+986,1412,HR Business Partnering,Leadership,2024-07-17,88.6,Certified
+987,1412,Advanced System Design,Technical,2024-05-16,75.8,Certified
+988,1412,Machine Learning Operations,Technical,2023-10-26,67.8,In Progress
+989,1412,Presentation Mastery,Soft Skills,2025-03-17,82.3,In Progress
+990,1413,Workplace Safety,Compliance,2024-07-13,85.4,In Progress
+991,1413,HR Business Partnering,Leadership,2025-01-24,90.6,Certified
+992,1414,Time Management,Soft Skills,2024-05-04,84.9,Certified
+993,1414,Coaching for Managers,Leadership,2024-10-25,86.1,Certified
+994,1414,Data Visualization with BI Tools,Technical,2023-10-14,75.7,Certified
+995,1414,Presentation Mastery,Soft Skills,2024-07-06,85.6,Certified
+996,1414,Negotiation Skills,Soft Skills,2024-01-05,75.7,In Progress
+997,1416,Anti-Bribery & Compliance,Compliance,2023-04-29,80.0,Certified
+998,1416,Effective Communication,Soft Skills,2025-03-19,80.2,In Progress
+999,1416,Presentation Mastery,Soft Skills,2025-03-23,88.9,Certified
+1000,1416,Advanced System Design,Technical,2025-02-23,90.9,Certified
+1001,1417,Workplace Safety,Compliance,2023-08-31,75.5,Certified
+1002,1417,Effective Communication,Soft Skills,2025-04-05,82.0,Certified
+1003,1418,Negotiation Skills,Soft Skills,2023-11-16,81.6,Certified
+1004,1418,Coaching for Managers,Leadership,2023-02-01,85.9,In Progress
+1005,1418,Workplace Safety,Compliance,2025-08-01,91.3,Certified
+1006,1418,Time Management,Soft Skills,2023-12-01,88.0,Certified
+1007,1419,Presentation Mastery,Soft Skills,2025-04-08,86.4,Certified
+1008,1420,Advanced System Design,Technical,2025-01-31,80.1,In Progress
+1009,1420,Negotiation Skills,Soft Skills,2025-05-07,79.8,In Progress
+1010,1420,Workplace Safety,Compliance,2023-08-25,95.3,Certified
+1011,1420,Data Visualization with BI Tools,Technical,2025-07-14,84.6,Certified
+1012,1420,Machine Learning Operations,Technical,2023-07-14,84.4,Certified
+1013,1421,Machine Learning Operations,Technical,2024-09-08,69.9,Not Certified
+1014,1422,HR Business Partnering,Leadership,2023-12-09,83.9,Certified
+1015,1422,Leading Through Change,Leadership,2023-01-30,82.8,Certified
+1016,1422,Anti-Bribery & Compliance,Compliance,2024-09-04,71.1,Certified
+1017,1422,Presentation Mastery,Soft Skills,2024-02-27,83.0,Certified
+1018,1423,Time Management,Soft Skills,2023-06-11,81.3,Certified
+1019,1423,Presentation Mastery,Soft Skills,2024-09-04,91.1,Certified
+1020,1423,Data Visualization with BI Tools,Technical,2023-03-31,55.6,In Progress
+1021,1423,Negotiation Skills,Soft Skills,2023-07-06,73.6,Certified
+1022,1424,Data Visualization with BI Tools,Technical,2023-06-03,83.5,Certified
+1023,1425,Time Management,Soft Skills,2024-02-29,78.4,In Progress
+1024,1425,Data Privacy Essentials,Compliance,2025-01-30,82.5,Certified
+1025,1425,Coaching for Managers,Leadership,2025-09-17,77.7,Certified
+1026,1426,Anti-Bribery & Compliance,Compliance,2024-03-30,84.2,In Progress
+1027,1427,Negotiation Skills,Soft Skills,2023-03-29,81.2,In Progress
+1028,1428,Data Visualization with BI Tools,Technical,2024-12-31,84.3,Certified
+1029,1428,Cloud Architecture Fundamentals,Technical,2024-12-11,69.9,In Progress
+1030,1429,Time Management,Soft Skills,2023-11-20,82.3,Certified
+1031,1429,Leading Through Change,Leadership,2024-02-15,63.1,Not Certified
+1032,1429,Cloud Architecture Fundamentals,Technical,2023-04-12,78.8,Certified
+1033,1429,Coaching for Managers,Leadership,2023-04-06,78.3,Certified
+1034,1431,HR Business Partnering,Leadership,2023-06-10,82.5,Certified
+1035,1432,Time Management,Soft Skills,2025-09-16,56.4,In Progress
+1036,1433,Data Visualization with BI Tools,Technical,2024-03-30,81.9,Certified
+1037,1433,Machine Learning Operations,Technical,2023-04-05,93.7,Certified
+1038,1434,Advanced System Design,Technical,2024-09-03,87.9,In Progress
+1039,1434,Negotiation Skills,Soft Skills,2024-11-01,74.5,Certified
+1040,1434,Coaching for Managers,Leadership,2024-07-09,97.6,Certified
+1041,1435,Effective Communication,Soft Skills,2024-10-27,82.3,Certified
+1042,1435,Advanced System Design,Technical,2025-08-13,82.9,Certified
+1043,1436,Machine Learning Operations,Technical,2023-04-27,85.7,Certified
+1044,1436,Anti-Bribery & Compliance,Compliance,2024-11-19,82.7,Certified
+1045,1437,Data Visualization with BI Tools,Technical,2024-04-10,66.5,Not Certified
+1046,1438,Data Visualization with BI Tools,Technical,2024-04-26,78.8,Certified
+1047,1439,Leading Through Change,Leadership,2024-11-12,84.9,Certified
+1048,1439,Coaching for Managers,Leadership,2023-10-25,82.2,Certified
+1049,1439,HR Business Partnering,Leadership,2024-12-27,90.6,Certified
+1050,1440,Anti-Bribery & Compliance,Compliance,2023-05-06,71.0,Certified
+1051,1440,Data Privacy Essentials,Compliance,2025-02-19,76.3,Certified
+1052,1440,Cloud Architecture Fundamentals,Technical,2023-11-07,85.1,Certified
+1053,1440,HR Business Partnering,Leadership,2025-05-06,94.2,Certified
+1054,1441,Anti-Bribery & Compliance,Compliance,2025-06-17,78.9,Certified
+1055,1442,Coaching for Managers,Leadership,2023-05-10,86.2,Certified
+1056,1443,Presentation Mastery,Soft Skills,2024-10-21,80.4,Certified
+1057,1444,HR Business Partnering,Leadership,2025-07-31,81.3,In Progress
+1058,1444,Cloud Architecture Fundamentals,Technical,2024-02-14,67.7,In Progress
+1059,1446,Workplace Safety,Compliance,2024-09-20,75.5,Certified
+1060,1446,Time Management,Soft Skills,2023-09-01,91.2,Certified
+1061,1447,Effective Communication,Soft Skills,2025-05-15,75.8,Certified
+1062,1448,HR Business Partnering,Leadership,2025-02-18,85.3,Certified
+1063,1448,Coaching for Managers,Leadership,2025-02-09,85.3,In Progress
+1064,1448,Presentation Mastery,Soft Skills,2024-08-17,80.4,Certified
+1065,1448,Leading Through Change,Leadership,2025-03-08,82.3,Certified
+1066,1449,Presentation Mastery,Soft Skills,2023-04-09,80.9,Certified
+1067,1449,HR Business Partnering,Leadership,2025-08-11,80.0,Certified
+1068,1450,Negotiation Skills,Soft Skills,2024-10-18,76.8,Certified
+1069,1451,Time Management,Soft Skills,2025-08-27,73.0,Certified
+1070,1451,Data Visualization with BI Tools,Technical,2024-07-10,72.0,In Progress
+1071,1452,Negotiation Skills,Soft Skills,2024-04-08,73.6,Certified
+1072,1452,Advanced System Design,Technical,2023-02-24,82.9,In Progress
+1073,1452,Presentation Mastery,Soft Skills,2023-01-15,93.0,Certified
+1074,1453,Effective Communication,Soft Skills,2024-10-11,91.3,Certified
+1075,1454,HR Business Partnering,Leadership,2023-10-01,78.7,Certified
+1076,1454,Negotiation Skills,Soft Skills,2024-01-16,90.8,Certified
+1077,1454,Presentation Mastery,Soft Skills,2023-09-12,97.0,In Progress
+1078,1454,Anti-Bribery & Compliance,Compliance,2025-02-16,80.7,In Progress
+1079,1455,Advanced System Design,Technical,2025-05-06,69.7,Not Certified
+1080,1455,Machine Learning Operations,Technical,2025-05-06,88.1,Certified
+1081,1455,Negotiation Skills,Soft Skills,2025-03-27,82.6,In Progress
+1082,1456,Advanced System Design,Technical,2024-04-30,93.8,Certified
+1083,1456,HR Business Partnering,Leadership,2024-06-14,99.0,Certified
+1084,1456,Presentation Mastery,Soft Skills,2024-09-28,84.0,Certified
+1085,1456,Workplace Safety,Compliance,2023-10-03,73.6,In Progress
+1086,1457,Effective Communication,Soft Skills,2024-08-01,88.2,Certified
+1087,1457,Workplace Safety,Compliance,2023-02-03,94.7,Certified
+1088,1457,Leading Through Change,Leadership,2024-05-09,83.7,Certified
+1089,1458,Cloud Architecture Fundamentals,Technical,2024-06-01,77.6,In Progress
+1090,1458,Data Privacy Essentials,Compliance,2024-02-11,83.5,Certified
+1091,1458,Machine Learning Operations,Technical,2023-10-22,94.4,Certified
+1092,1458,Time Management,Soft Skills,2024-03-12,77.6,Certified
+1093,1458,HR Business Partnering,Leadership,2025-06-01,85.3,Certified
+1094,1459,Time Management,Soft Skills,2023-07-01,80.7,In Progress
+1095,1460,Data Privacy Essentials,Compliance,2024-02-08,99.0,Certified
+1096,1460,Negotiation Skills,Soft Skills,2023-04-02,85.6,Certified
+1097,1460,Workplace Safety,Compliance,2024-04-16,82.3,Certified
+1098,1461,Leading Through Change,Leadership,2023-08-03,77.5,Certified
+1099,1461,Workplace Safety,Compliance,2024-02-04,82.2,Certified
+1100,1461,Cloud Architecture Fundamentals,Technical,2024-05-25,85.3,In Progress
+1101,1461,Data Privacy Essentials,Compliance,2024-06-15,82.4,Certified
+1102,1461,Effective Communication,Soft Skills,2025-08-23,82.4,Certified
+1103,1462,Coaching for Managers,Leadership,2023-04-05,77.4,Certified
+1104,1462,Machine Learning Operations,Technical,2023-10-13,70.5,Certified
+1105,1462,Presentation Mastery,Soft Skills,2023-07-13,84.4,In Progress
+1106,1462,Cloud Architecture Fundamentals,Technical,2023-07-26,72.9,Certified
+1107,1463,Anti-Bribery & Compliance,Compliance,2025-07-18,77.0,Certified
+1108,1463,Data Visualization with BI Tools,Technical,2024-11-23,66.8,Not Certified
+1109,1464,Effective Communication,Soft Skills,2025-07-06,82.0,Certified
+1110,1464,Cloud Architecture Fundamentals,Technical,2023-09-25,84.1,In Progress
+1111,1464,Advanced System Design,Technical,2023-03-09,90.8,In Progress
+1112,1464,Workplace Safety,Compliance,2023-05-27,89.5,Certified
+1113,1465,Presentation Mastery,Soft Skills,2023-08-20,77.1,Certified
+1114,1465,Negotiation Skills,Soft Skills,2025-06-03,91.1,Certified
+1115,1466,Leading Through Change,Leadership,2024-02-09,73.1,Certified
+1116,1466,Presentation Mastery,Soft Skills,2024-11-18,79.3,Certified
+1117,1466,Effective Communication,Soft Skills,2024-08-22,83.9,In Progress
+1118,1466,Negotiation Skills,Soft Skills,2024-04-09,72.9,Certified
+1119,1468,Data Privacy Essentials,Compliance,2023-05-11,81.4,Certified
+1120,1469,Machine Learning Operations,Technical,2023-04-15,78.4,Certified
+1121,1469,Data Visualization with BI Tools,Technical,2024-11-02,75.9,Certified
+1122,1469,Leading Through Change,Leadership,2023-02-21,72.4,Certified
+1123,1470,Anti-Bribery & Compliance,Compliance,2023-07-02,78.4,Certified
+1124,1471,Coaching for Managers,Leadership,2024-12-29,88.8,Certified
+1125,1471,Workplace Safety,Compliance,2023-05-23,81.6,Certified
+1126,1471,HR Business Partnering,Leadership,2023-07-05,78.3,Certified
+1127,1471,Data Privacy Essentials,Compliance,2024-07-25,82.7,Certified
+1128,1472,Data Visualization with BI Tools,Technical,2025-06-26,86.8,Certified
+1129,1472,Data Privacy Essentials,Compliance,2025-08-21,77.9,Certified
+1130,1473,Time Management,Soft Skills,2024-08-21,68.1,Not Certified
+1131,1473,Effective Communication,Soft Skills,2023-01-13,83.8,In Progress
+1132,1473,Workplace Safety,Compliance,2024-07-29,78.7,Certified
+1133,1473,HR Business Partnering,Leadership,2024-05-06,96.6,Certified
+1134,1474,Machine Learning Operations,Technical,2025-04-15,68.0,In Progress
+1135,1474,Data Visualization with BI Tools,Technical,2024-01-20,91.6,Certified
+1136,1474,Presentation Mastery,Soft Skills,2024-06-12,78.6,Certified
+1137,1476,Workplace Safety,Compliance,2025-05-12,86.6,In Progress
+1138,1476,Data Visualization with BI Tools,Technical,2023-10-04,85.6,Certified
+1139,1476,Anti-Bribery & Compliance,Compliance,2024-07-07,79.8,Certified
+1140,1476,Machine Learning Operations,Technical,2023-07-22,72.2,Certified
+1141,1476,Leading Through Change,Leadership,2025-06-28,75.9,In Progress
+1142,1477,Data Visualization with BI Tools,Technical,2023-08-17,84.2,Certified
+1143,1477,Data Privacy Essentials,Compliance,2024-08-11,84.3,Certified
+1144,1477,Machine Learning Operations,Technical,2024-02-10,73.6,Certified
+1145,1478,Presentation Mastery,Soft Skills,2025-05-26,77.4,In Progress
+1146,1479,Advanced System Design,Technical,2025-07-24,87.1,Certified
+1147,1479,Presentation Mastery,Soft Skills,2025-05-24,82.8,Certified
+1148,1480,HR Business Partnering,Leadership,2024-11-14,89.5,Certified
+1149,1481,Data Privacy Essentials,Compliance,2024-08-01,92.0,Certified
+1150,1482,Data Visualization with BI Tools,Technical,2025-04-05,83.7,Certified
+1151,1482,Data Privacy Essentials,Compliance,2024-05-18,93.7,Certified
+1152,1482,Leading Through Change,Leadership,2024-08-28,76.5,In Progress
+1153,1483,Time Management,Soft Skills,2024-01-16,81.5,Certified
+1154,1483,Cloud Architecture Fundamentals,Technical,2025-02-27,76.4,In Progress
+1155,1483,Leading Through Change,Leadership,2023-08-10,80.0,Certified
+1156,1483,Data Privacy Essentials,Compliance,2024-04-01,88.8,Certified
+1157,1483,Anti-Bribery & Compliance,Compliance,2024-11-28,83.1,In Progress
+1158,1484,Advanced System Design,Technical,2025-02-22,74.2,Certified
+1159,1484,Negotiation Skills,Soft Skills,2025-01-05,84.9,Certified
+1160,1484,Time Management,Soft Skills,2024-12-14,80.0,In Progress
+1161,1484,Coaching for Managers,Leadership,2023-12-12,85.1,Certified
+1162,1485,Advanced System Design,Technical,2023-07-30,84.1,In Progress
+1163,1485,Workplace Safety,Compliance,2024-12-02,79.7,Certified
+1164,1485,Data Visualization with BI Tools,Technical,2023-08-24,66.8,Not Certified
+1165,1486,Workplace Safety,Compliance,2024-05-12,83.0,Certified
+1166,1486,Machine Learning Operations,Technical,2023-01-29,81.8,Certified
+1167,1487,Time Management,Soft Skills,2023-10-21,67.6,Not Certified
+1168,1487,Data Privacy Essentials,Compliance,2024-06-13,74.0,Certified
+1169,1488,Anti-Bribery & Compliance,Compliance,2025-04-28,84.2,Certified
+1170,1489,Effective Communication,Soft Skills,2023-05-11,84.8,Certified
+1171,1490,Data Privacy Essentials,Compliance,2024-01-04,80.9,Certified
+1172,1491,Leading Through Change,Leadership,2024-08-12,91.1,Certified
+1173,1491,Advanced System Design,Technical,2024-01-29,81.1,Certified
+1174,1491,Coaching for Managers,Leadership,2024-10-01,80.5,In Progress
+1175,1491,Presentation Mastery,Soft Skills,2023-06-12,79.2,In Progress
+1176,1492,Effective Communication,Soft Skills,2024-07-15,78.8,In Progress
+1177,1492,Presentation Mastery,Soft Skills,2025-05-17,90.1,Certified
+1178,1492,Advanced System Design,Technical,2023-11-18,62.5,Not Certified
+1179,1492,Workplace Safety,Compliance,2025-07-31,77.8,Certified
+1180,1492,Leading Through Change,Leadership,2024-08-05,70.3,Certified
+1181,1493,Time Management,Soft Skills,2023-10-12,68.1,In Progress
+1182,1493,Presentation Mastery,Soft Skills,2024-03-21,78.5,Certified
+1183,1493,Coaching for Managers,Leadership,2025-04-24,76.2,Certified
+1184,1494,HR Business Partnering,Leadership,2025-09-20,93.1,Certified
+1185,1494,Presentation Mastery,Soft Skills,2025-07-14,80.9,Certified
+1186,1494,Cloud Architecture Fundamentals,Technical,2025-09-24,84.5,Certified
+1187,1495,Leading Through Change,Leadership,2023-01-10,69.5,In Progress
+1188,1495,Effective Communication,Soft Skills,2023-02-19,88.9,Certified
+1189,1495,Negotiation Skills,Soft Skills,2025-03-29,87.9,In Progress
+1190,1495,Presentation Mastery,Soft Skills,2024-09-07,87.4,Certified
+1191,1496,Negotiation Skills,Soft Skills,2025-06-24,83.6,Certified
+1192,1496,Data Visualization with BI Tools,Technical,2025-06-03,81.2,Certified
+1193,1496,Advanced System Design,Technical,2023-12-24,77.3,Certified
+1194,1497,Data Privacy Essentials,Compliance,2023-01-20,77.1,In Progress
+1195,1497,Advanced System Design,Technical,2025-09-03,68.1,In Progress
+1196,1497,Coaching for Managers,Leadership,2024-01-03,75.4,In Progress
+1197,1500,HR Business Partnering,Leadership,2023-02-08,83.3,Certified
+1198,1500,Advanced System Design,Technical,2023-10-27,81.8,Certified
+1199,1501,HR Business Partnering,Leadership,2023-10-30,76.4,Certified
+1200,1501,Leading Through Change,Leadership,2023-12-26,76.5,In Progress
+1201,1501,Presentation Mastery,Soft Skills,2025-07-05,85.9,Certified
+1202,1502,Workplace Safety,Compliance,2024-03-11,89.2,In Progress
+1203,1502,Cloud Architecture Fundamentals,Technical,2023-03-27,87.7,Certified
+1204,1502,HR Business Partnering,Leadership,2024-06-27,88.5,Certified
+1205,1504,Leading Through Change,Leadership,2023-06-24,99.0,Certified
+1206,1504,Effective Communication,Soft Skills,2025-03-22,93.3,Certified
+1207,1505,Leading Through Change,Leadership,2024-01-12,74.9,Certified
+1208,1505,Cloud Architecture Fundamentals,Technical,2024-09-08,89.3,Certified
+1209,1505,Negotiation Skills,Soft Skills,2025-08-20,87.9,Certified
+1210,1505,Effective Communication,Soft Skills,2024-03-25,82.8,Certified
+1211,1506,Presentation Mastery,Soft Skills,2024-05-07,89.7,Certified
+1212,1506,Machine Learning Operations,Technical,2025-05-27,85.7,In Progress
+1213,1506,Anti-Bribery & Compliance,Compliance,2025-06-18,83.3,In Progress
+1214,1506,HR Business Partnering,Leadership,2025-04-18,69.3,Not Certified
+1215,1507,Presentation Mastery,Soft Skills,2024-12-18,75.9,Certified
+1216,1507,Machine Learning Operations,Technical,2023-05-05,66.3,Not Certified
+1217,1507,Negotiation Skills,Soft Skills,2023-06-16,75.0,Certified
+1218,1507,Advanced System Design,Technical,2023-11-11,77.9,Certified
+1219,1508,Machine Learning Operations,Technical,2024-01-10,80.1,Certified
+1220,1508,Coaching for Managers,Leadership,2023-09-15,92.6,Certified
+1221,1508,Data Privacy Essentials,Compliance,2023-07-09,80.6,Certified
+1222,1508,HR Business Partnering,Leadership,2025-06-06,78.9,Certified
+1223,1508,Negotiation Skills,Soft Skills,2025-06-03,94.2,Certified
+1224,1509,Cloud Architecture Fundamentals,Technical,2025-02-24,89.5,Certified
+1225,1509,HR Business Partnering,Leadership,2025-03-10,69.4,Not Certified
+1226,1510,Effective Communication,Soft Skills,2025-01-04,82.5,Certified
+1227,1510,Presentation Mastery,Soft Skills,2025-09-21,93.3,Certified
+1228,1510,Leading Through Change,Leadership,2023-01-21,68.2,In Progress
+1229,1511,Workplace Safety,Compliance,2025-07-07,74.8,Certified
+1230,1511,Negotiation Skills,Soft Skills,2023-08-29,93.4,In Progress
+1231,1511,HR Business Partnering,Leadership,2024-10-21,92.5,Certified
+1232,1511,Coaching for Managers,Leadership,2024-07-27,72.4,Certified
+1233,1512,Time Management,Soft Skills,2025-02-08,71.3,In Progress
+1234,1512,Data Privacy Essentials,Compliance,2024-05-04,77.8,Certified
+1235,1512,Anti-Bribery & Compliance,Compliance,2024-03-04,72.9,In Progress
+1236,1513,Presentation Mastery,Soft Skills,2024-06-27,88.9,In Progress
+1237,1513,Workplace Safety,Compliance,2023-12-26,87.8,Certified
+1238,1513,Anti-Bribery & Compliance,Compliance,2024-07-30,83.7,Certified
+1239,1513,Data Visualization with BI Tools,Technical,2024-03-09,90.1,Certified
+1240,1514,Data Privacy Essentials,Compliance,2023-11-10,87.8,In Progress
+1241,1515,Time Management,Soft Skills,2025-02-10,70.8,In Progress
+1242,1515,Anti-Bribery & Compliance,Compliance,2024-12-09,87.1,Certified
+1243,1516,Workplace Safety,Compliance,2025-05-08,84.8,In Progress
+1244,1516,Machine Learning Operations,Technical,2023-05-10,89.1,Certified
+1245,1516,Presentation Mastery,Soft Skills,2023-04-26,75.6,Certified
+1246,1517,Presentation Mastery,Soft Skills,2025-05-15,91.8,In Progress
+1247,1517,Workplace Safety,Compliance,2024-03-06,83.3,Certified
+1248,1518,Anti-Bribery & Compliance,Compliance,2024-10-05,81.4,Certified
+1249,1518,Leading Through Change,Leadership,2025-03-26,73.8,Certified
+1250,1518,Workplace Safety,Compliance,2024-05-11,90.2,In Progress
+1251,1518,Machine Learning Operations,Technical,2025-03-14,88.5,Certified
+1252,1519,Anti-Bribery & Compliance,Compliance,2023-02-04,84.0,Certified
+1253,1519,Machine Learning Operations,Technical,2025-08-25,76.6,In Progress
+1254,1520,Cloud Architecture Fundamentals,Technical,2024-01-13,88.9,Certified
+1255,1520,Leading Through Change,Leadership,2023-02-06,88.0,Certified
+1256,1520,Effective Communication,Soft Skills,2024-04-14,80.6,Certified
+1257,1520,Advanced System Design,Technical,2024-10-07,83.6,In Progress
+1258,1520,Machine Learning Operations,Technical,2024-05-17,78.1,Certified
+1259,1521,HR Business Partnering,Leadership,2023-12-11,91.2,Certified
+1260,1522,Effective Communication,Soft Skills,2024-02-04,77.9,In Progress
+1261,1522,Negotiation Skills,Soft Skills,2023-08-04,99.0,In Progress
+1262,1522,Time Management,Soft Skills,2025-04-27,75.3,Certified
+1263,1523,HR Business Partnering,Leadership,2023-01-28,99.0,Certified
+1264,1523,Cloud Architecture Fundamentals,Technical,2025-09-01,82.4,Certified
+1265,1524,Advanced System Design,Technical,2023-05-14,80.1,In Progress
+1266,1525,Effective Communication,Soft Skills,2024-05-01,77.6,Certified
+1267,1525,Presentation Mastery,Soft Skills,2023-03-03,76.5,In Progress
+1268,1526,Data Privacy Essentials,Compliance,2023-01-24,86.6,In Progress
+1269,1526,Workplace Safety,Compliance,2025-03-17,83.7,Certified
+1270,1526,HR Business Partnering,Leadership,2025-03-07,99.0,Certified
+1271,1526,Cloud Architecture Fundamentals,Technical,2023-09-28,70.2,Certified
+1272,1526,Coaching for Managers,Leadership,2024-10-18,84.7,Certified
+1273,1527,Workplace Safety,Compliance,2025-04-01,99.0,In Progress
+1274,1527,Time Management,Soft Skills,2024-03-18,87.8,Certified
+1275,1527,HR Business Partnering,Leadership,2024-11-28,76.4,In Progress
+1276,1527,Data Visualization with BI Tools,Technical,2023-05-23,89.2,Certified
+1277,1527,Leading Through Change,Leadership,2024-07-31,81.3,Certified
+1278,1528,Workplace Safety,Compliance,2023-01-23,85.7,Certified
+1279,1528,Machine Learning Operations,Technical,2023-12-18,89.4,Certified
+1280,1528,Coaching for Managers,Leadership,2023-12-19,72.3,Certified
+1281,1528,Data Visualization with BI Tools,Technical,2023-12-24,89.7,Certified
+1282,1528,Effective Communication,Soft Skills,2024-09-19,83.8,In Progress
+1283,1529,Advanced System Design,Technical,2024-05-04,78.9,Certified
+1284,1529,Anti-Bribery & Compliance,Compliance,2023-01-22,78.9,Certified
+1285,1530,Data Visualization with BI Tools,Technical,2023-05-25,82.4,Certified
+1286,1530,Presentation Mastery,Soft Skills,2025-08-27,68.7,Not Certified
+1287,1531,HR Business Partnering,Leadership,2024-09-30,70.7,Certified
+1288,1531,Data Visualization with BI Tools,Technical,2023-04-11,76.3,Certified
+1289,1531,Cloud Architecture Fundamentals,Technical,2024-11-19,78.7,In Progress
+1290,1531,Coaching for Managers,Leadership,2025-07-18,80.9,Certified
+1291,1532,Machine Learning Operations,Technical,2024-03-06,78.4,Certified
+1292,1532,Presentation Mastery,Soft Skills,2023-02-10,72.2,Certified
+1293,1532,Negotiation Skills,Soft Skills,2024-07-20,82.4,Certified
+1294,1533,Workplace Safety,Compliance,2024-03-21,99.0,Certified
+1295,1533,Machine Learning Operations,Technical,2025-09-27,91.2,Certified
+1296,1535,Time Management,Soft Skills,2025-04-26,76.6,Certified
+1297,1536,Presentation Mastery,Soft Skills,2024-09-09,99.0,Certified
+1298,1537,Coaching for Managers,Leadership,2023-06-07,69.4,In Progress
+1299,1537,Negotiation Skills,Soft Skills,2025-04-26,86.0,Certified
+1300,1537,Presentation Mastery,Soft Skills,2024-07-25,99.0,Certified
+1301,1537,Time Management,Soft Skills,2025-06-20,76.2,Certified
+1302,1537,Workplace Safety,Compliance,2025-06-26,70.6,Certified
+1303,1538,Data Privacy Essentials,Compliance,2023-09-05,80.2,In Progress
+1304,1539,Data Privacy Essentials,Compliance,2023-02-24,87.7,Certified
+1305,1539,Negotiation Skills,Soft Skills,2025-06-14,81.9,Certified
+1306,1540,Time Management,Soft Skills,2024-04-09,80.9,Certified
+1307,1540,Cloud Architecture Fundamentals,Technical,2023-06-12,68.9,In Progress
+1308,1541,Presentation Mastery,Soft Skills,2023-07-22,75.3,Certified
+1309,1541,Leading Through Change,Leadership,2023-10-12,86.7,Certified
+1310,1542,Negotiation Skills,Soft Skills,2024-12-08,89.3,Certified
+1311,1542,Presentation Mastery,Soft Skills,2025-02-19,74.2,In Progress
+1312,1542,HR Business Partnering,Leadership,2024-08-26,83.7,In Progress
+1313,1542,Time Management,Soft Skills,2025-05-31,91.8,Certified
+1314,1543,Time Management,Soft Skills,2024-03-29,73.4,In Progress
+1315,1543,Cloud Architecture Fundamentals,Technical,2024-05-24,86.7,Certified
+1316,1543,Data Privacy Essentials,Compliance,2025-07-30,90.0,In Progress
+1317,1544,Advanced System Design,Technical,2024-09-03,70.3,Certified
+1318,1544,HR Business Partnering,Leadership,2025-06-05,86.4,In Progress
+1319,1544,Presentation Mastery,Soft Skills,2023-07-07,71.7,Certified
+1320,1545,HR Business Partnering,Leadership,2023-08-14,72.2,In Progress
+1321,1545,Machine Learning Operations,Technical,2023-01-19,90.6,Certified
+1322,1545,Effective Communication,Soft Skills,2023-01-21,86.3,Certified
+1323,1545,Leading Through Change,Leadership,2024-04-16,80.9,Certified
+1324,1546,Workplace Safety,Compliance,2023-09-13,94.4,Certified
+1325,1546,Machine Learning Operations,Technical,2025-08-06,83.4,Certified
+1326,1546,Cloud Architecture Fundamentals,Technical,2024-03-08,76.1,Certified
+1327,1546,Presentation Mastery,Soft Skills,2023-10-26,75.5,Certified
+1328,1547,Data Visualization with BI Tools,Technical,2023-01-31,89.4,Certified
+1329,1547,Time Management,Soft Skills,2025-07-13,86.8,Certified
+1330,1547,Leading Through Change,Leadership,2024-11-08,84.6,Certified
+1331,1549,Effective Communication,Soft Skills,2025-09-04,76.1,Certified
+1332,1549,Leading Through Change,Leadership,2025-04-12,88.3,Certified
+1333,1549,Data Privacy Essentials,Compliance,2025-01-11,82.5,Certified
+1334,1549,HR Business Partnering,Leadership,2024-11-11,84.7,Certified
+1335,1550,HR Business Partnering,Leadership,2024-02-29,98.4,Certified
+1336,1550,Workplace Safety,Compliance,2025-04-01,92.8,Certified
+1337,1550,Data Visualization with BI Tools,Technical,2025-08-24,76.2,Certified
+1338,1551,Effective Communication,Soft Skills,2023-08-07,82.0,In Progress
+1339,1552,Data Visualization with BI Tools,Technical,2023-03-27,70.7,Certified
+1340,1552,Workplace Safety,Compliance,2023-04-11,83.3,Certified
+1341,1553,HR Business Partnering,Leadership,2025-07-30,79.3,Certified
+1342,1553,Workplace Safety,Compliance,2025-08-30,83.6,Certified
+1343,1553,Cloud Architecture Fundamentals,Technical,2023-01-01,79.4,Certified
+1344,1554,Data Visualization with BI Tools,Technical,2023-12-09,65.2,In Progress
+1345,1554,Data Privacy Essentials,Compliance,2025-08-06,80.5,In Progress
+1346,1555,Cloud Architecture Fundamentals,Technical,2025-05-25,94.2,Certified
+1347,1555,Negotiation Skills,Soft Skills,2023-12-16,98.9,Certified
+1348,1556,Advanced System Design,Technical,2023-03-27,92.0,In Progress
+1349,1556,HR Business Partnering,Leadership,2025-03-16,91.4,Certified
+1350,1558,Advanced System Design,Technical,2025-02-03,86.0,Certified
+1351,1558,Machine Learning Operations,Technical,2024-08-08,82.1,Certified
+1352,1559,Workplace Safety,Compliance,2024-02-20,85.0,In Progress
+1353,1559,Negotiation Skills,Soft Skills,2025-03-26,77.8,Certified
+1354,1559,Coaching for Managers,Leadership,2024-05-11,78.9,In Progress
+1355,1559,Advanced System Design,Technical,2023-09-20,75.5,Certified
+1356,1559,Cloud Architecture Fundamentals,Technical,2024-01-21,76.8,Certified
+1357,1560,Anti-Bribery & Compliance,Compliance,2023-07-03,73.0,Certified
+1358,1561,Presentation Mastery,Soft Skills,2024-02-01,94.3,Certified
+1359,1561,HR Business Partnering,Leadership,2025-02-14,76.7,In Progress
+1360,1562,Effective Communication,Soft Skills,2023-12-12,78.6,In Progress
+1361,1563,Machine Learning Operations,Technical,2023-11-04,72.6,Certified
+1362,1563,Effective Communication,Soft Skills,2024-01-27,82.1,Certified
+1363,1563,Data Privacy Essentials,Compliance,2025-08-27,99.0,Certified
+1364,1563,Cloud Architecture Fundamentals,Technical,2024-08-04,89.1,Certified
+1365,1564,Time Management,Soft Skills,2024-02-16,76.3,Certified
+1366,1564,Leading Through Change,Leadership,2025-01-25,89.4,In Progress
+1367,1565,Presentation Mastery,Soft Skills,2023-04-04,86.8,Certified
+1368,1565,Leading Through Change,Leadership,2025-07-16,77.9,Certified
+1369,1566,Effective Communication,Soft Skills,2024-06-26,81.9,Certified
+1370,1566,Cloud Architecture Fundamentals,Technical,2024-12-17,72.7,Certified
+1371,1566,Workplace Safety,Compliance,2025-04-18,80.6,Certified
+1372,1566,HR Business Partnering,Leadership,2023-08-21,84.0,Certified
+1373,1566,Time Management,Soft Skills,2025-09-29,73.1,In Progress
+1374,1567,Cloud Architecture Fundamentals,Technical,2023-02-14,85.6,In Progress
+1375,1567,Coaching for Managers,Leadership,2025-01-13,80.4,In Progress
+1376,1567,Data Privacy Essentials,Compliance,2023-10-29,87.9,Certified
+1377,1567,HR Business Partnering,Leadership,2024-03-31,92.2,Certified
+1378,1568,Negotiation Skills,Soft Skills,2024-03-15,96.1,Certified
+1379,1568,Data Privacy Essentials,Compliance,2024-03-12,65.2,Not Certified
+1380,1568,Machine Learning Operations,Technical,2024-08-13,78.3,Certified
+1381,1568,Anti-Bribery & Compliance,Compliance,2024-09-02,70.2,Certified
+1382,1568,Advanced System Design,Technical,2024-02-05,84.1,In Progress
+1383,1569,Machine Learning Operations,Technical,2025-03-13,87.8,In Progress
+1384,1569,Negotiation Skills,Soft Skills,2023-11-27,83.8,Certified
+1385,1571,Coaching for Managers,Leadership,2023-01-06,70.2,Certified
+1386,1571,Advanced System Design,Technical,2025-07-23,98.7,In Progress
+1387,1571,Machine Learning Operations,Technical,2025-09-24,76.0,Certified
+1388,1571,Anti-Bribery & Compliance,Compliance,2024-01-07,83.0,Certified
+1389,1572,Machine Learning Operations,Technical,2025-03-29,69.3,In Progress
+1390,1572,Data Privacy Essentials,Compliance,2024-03-19,69.2,Not Certified
+1391,1573,Cloud Architecture Fundamentals,Technical,2024-07-20,92.8,Certified
+1392,1573,Effective Communication,Soft Skills,2023-11-03,89.1,Certified
+1393,1575,Machine Learning Operations,Technical,2023-04-24,93.3,Certified
+1394,1575,HR Business Partnering,Leadership,2023-06-12,82.8,Certified
+1395,1575,Data Visualization with BI Tools,Technical,2024-09-29,77.2,Certified
+1396,1576,Data Visualization with BI Tools,Technical,2025-09-03,83.5,In Progress
+1397,1576,Presentation Mastery,Soft Skills,2025-03-14,90.4,Certified
+1398,1577,Data Privacy Essentials,Compliance,2023-06-24,66.5,Not Certified
+1399,1577,Negotiation Skills,Soft Skills,2025-04-07,81.1,Certified
+1400,1577,Workplace Safety,Compliance,2024-12-05,79.8,Certified
+1401,1578,Time Management,Soft Skills,2023-04-03,69.0,Not Certified
+1402,1578,Coaching for Managers,Leadership,2024-11-18,73.6,Certified
+1403,1579,Leading Through Change,Leadership,2025-01-30,87.2,Certified
+1404,1579,Time Management,Soft Skills,2025-05-30,84.1,Certified
+1405,1579,Coaching for Managers,Leadership,2024-05-17,79.9,Certified
+1406,1579,Cloud Architecture Fundamentals,Technical,2025-03-22,81.2,Certified
+1407,1581,Negotiation Skills,Soft Skills,2025-01-05,79.4,In Progress
+1408,1581,Cloud Architecture Fundamentals,Technical,2024-04-13,69.2,Not Certified
+1409,1583,Leading Through Change,Leadership,2025-02-10,78.7,In Progress
+1410,1583,Workplace Safety,Compliance,2024-03-22,89.3,Certified
+1411,1583,Presentation Mastery,Soft Skills,2025-06-15,80.7,In Progress
+1412,1583,Time Management,Soft Skills,2024-07-08,77.6,Certified
+1413,1583,Machine Learning Operations,Technical,2024-01-31,93.5,Certified
+1414,1584,Advanced System Design,Technical,2024-06-09,68.0,In Progress
+1415,1584,Cloud Architecture Fundamentals,Technical,2024-09-25,63.8,Not Certified
+1416,1584,Leading Through Change,Leadership,2023-07-02,83.4,Certified
+1417,1584,Data Visualization with BI Tools,Technical,2025-04-04,79.0,Certified
+1418,1586,Advanced System Design,Technical,2023-01-19,87.7,Certified
+1419,1586,Coaching for Managers,Leadership,2025-04-19,74.2,In Progress
+1420,1587,Negotiation Skills,Soft Skills,2025-07-22,75.3,In Progress
+1421,1589,Data Visualization with BI Tools,Technical,2024-03-23,82.7,Certified
+1422,1589,Negotiation Skills,Soft Skills,2023-11-27,59.3,In Progress
+1423,1589,HR Business Partnering,Leadership,2025-05-22,72.7,Certified
+1424,1589,Machine Learning Operations,Technical,2025-09-04,79.6,Certified
+1425,1592,Data Visualization with BI Tools,Technical,2023-01-02,87.8,In Progress
+1426,1592,Effective Communication,Soft Skills,2025-06-27,67.9,In Progress
+1427,1594,Presentation Mastery,Soft Skills,2024-09-30,85.5,Certified
+1428,1595,HR Business Partnering,Leadership,2024-10-12,77.1,Certified
+1429,1595,Presentation Mastery,Soft Skills,2023-03-01,85.4,Certified
+1430,1595,Anti-Bribery & Compliance,Compliance,2024-04-26,75.9,Certified
+1431,1595,Workplace Safety,Compliance,2023-06-13,91.2,Certified
+1432,1596,Coaching for Managers,Leadership,2023-01-05,82.9,Certified
+1433,1596,HR Business Partnering,Leadership,2025-08-01,76.6,Certified
+1434,1596,Leading Through Change,Leadership,2025-07-07,69.4,Not Certified
+1435,1596,Machine Learning Operations,Technical,2025-07-26,92.3,Certified
+1436,1597,HR Business Partnering,Leadership,2025-07-13,68.5,Not Certified
+1437,1597,Anti-Bribery & Compliance,Compliance,2023-07-04,68.7,In Progress
+1438,1598,Advanced System Design,Technical,2024-06-06,78.4,Certified
+1439,1598,Coaching for Managers,Leadership,2024-03-31,85.6,Certified
+1440,1599,Leading Through Change,Leadership,2023-07-08,88.1,Certified
+1441,1601,Data Privacy Essentials,Compliance,2023-04-30,78.7,Certified
+1442,1601,Leading Through Change,Leadership,2023-12-04,89.0,Certified
+1443,1601,Machine Learning Operations,Technical,2025-03-31,87.0,Certified
+1444,1603,Data Privacy Essentials,Compliance,2023-01-14,89.5,Certified
+1445,1603,Anti-Bribery & Compliance,Compliance,2025-06-17,81.2,Certified
+1446,1604,HR Business Partnering,Leadership,2024-01-03,78.0,Certified
+1447,1604,Machine Learning Operations,Technical,2023-05-11,81.9,Certified
+1448,1606,Presentation Mastery,Soft Skills,2024-10-09,67.1,In Progress
+1449,1606,Advanced System Design,Technical,2023-03-11,99.0,Certified
+1450,1606,Anti-Bribery & Compliance,Compliance,2024-03-14,72.0,Certified
+1451,1607,Presentation Mastery,Soft Skills,2024-12-17,83.5,In Progress
+1452,1607,Data Visualization with BI Tools,Technical,2025-03-14,77.6,Certified
+1453,1607,Time Management,Soft Skills,2024-04-03,83.6,Certified
+1454,1608,Anti-Bribery & Compliance,Compliance,2023-02-13,71.8,Certified
+1455,1609,Cloud Architecture Fundamentals,Technical,2024-01-20,84.4,Certified
+1456,1609,Negotiation Skills,Soft Skills,2024-01-11,86.9,Certified
+1457,1609,Leading Through Change,Leadership,2024-03-25,75.0,Certified
+1458,1611,Presentation Mastery,Soft Skills,2024-05-03,86.3,Certified
+1459,1611,Machine Learning Operations,Technical,2023-05-21,86.3,Certified
+1460,1612,Data Privacy Essentials,Compliance,2025-07-04,96.8,Certified
+1461,1612,Machine Learning Operations,Technical,2024-03-17,72.5,Certified
+1462,1612,Workplace Safety,Compliance,2023-08-01,86.5,Certified
+1463,1613,Leading Through Change,Leadership,2024-12-10,72.6,Certified
+1464,1613,Negotiation Skills,Soft Skills,2024-01-17,67.6,In Progress
+1465,1613,Effective Communication,Soft Skills,2024-01-12,91.7,Certified
+1466,1613,Data Visualization with BI Tools,Technical,2025-02-11,79.0,Certified
+1467,1613,Machine Learning Operations,Technical,2025-07-27,75.2,Certified
+1468,1614,Effective Communication,Soft Skills,2025-03-19,80.1,Certified
+1469,1615,Machine Learning Operations,Technical,2025-03-10,74.2,In Progress
+1470,1615,Data Privacy Essentials,Compliance,2023-09-03,74.9,Certified
+1471,1615,Anti-Bribery & Compliance,Compliance,2023-07-23,95.4,Certified
+1472,1617,Presentation Mastery,Soft Skills,2023-09-04,79.9,Certified
+1473,1618,Effective Communication,Soft Skills,2023-01-05,82.2,In Progress
+1474,1618,Data Privacy Essentials,Compliance,2023-11-29,78.3,Certified
+1475,1618,Time Management,Soft Skills,2024-05-22,94.7,Certified
+1476,1618,Negotiation Skills,Soft Skills,2023-09-22,84.2,Certified
+1477,1620,Data Visualization with BI Tools,Technical,2024-04-23,89.6,Certified
+1478,1620,Time Management,Soft Skills,2025-04-11,78.3,Certified
+1479,1620,Data Privacy Essentials,Compliance,2025-01-25,77.4,Certified
+1480,1620,Coaching for Managers,Leadership,2024-04-20,82.0,Certified
+1481,1621,Effective Communication,Soft Skills,2024-02-28,66.5,Not Certified
+1482,1621,Data Privacy Essentials,Compliance,2024-01-01,69.8,Not Certified
+1483,1623,Anti-Bribery & Compliance,Compliance,2023-07-26,83.0,Certified
+1484,1624,Presentation Mastery,Soft Skills,2024-07-31,84.6,Certified
+1485,1625,Machine Learning Operations,Technical,2023-10-29,85.1,Certified
+1486,1625,Workplace Safety,Compliance,2024-05-26,71.9,In Progress
+1487,1627,Leading Through Change,Leadership,2023-01-04,79.2,Certified
+1488,1627,Machine Learning Operations,Technical,2025-05-09,74.5,In Progress
+1489,1627,Data Privacy Essentials,Compliance,2024-06-01,85.4,Certified
+1490,1628,Machine Learning Operations,Technical,2023-01-12,90.2,In Progress
+1491,1628,Coaching for Managers,Leadership,2025-05-24,95.8,In Progress
+1492,1628,Data Privacy Essentials,Compliance,2025-06-15,83.2,Certified
+1493,1629,Anti-Bribery & Compliance,Compliance,2024-01-22,75.2,Certified
+1494,1629,Workplace Safety,Compliance,2024-05-30,89.3,Certified
+1495,1629,Advanced System Design,Technical,2024-11-24,89.6,Certified
+1496,1629,HR Business Partnering,Leadership,2024-09-03,78.4,In Progress
+1497,1629,Cloud Architecture Fundamentals,Technical,2024-11-12,89.5,Certified
+1498,1630,Time Management,Soft Skills,2023-01-09,90.4,In Progress
+1499,1630,Anti-Bribery & Compliance,Compliance,2024-06-27,82.5,Certified
+1500,1630,Workplace Safety,Compliance,2023-09-28,84.3,Certified
+1501,1631,Advanced System Design,Technical,2023-09-21,88.3,Certified
+1502,1631,Workplace Safety,Compliance,2024-07-18,78.2,In Progress
+1503,1631,Data Privacy Essentials,Compliance,2025-07-07,64.8,In Progress
+1504,1632,Data Visualization with BI Tools,Technical,2025-07-28,73.4,In Progress
+1505,1632,Presentation Mastery,Soft Skills,2024-02-01,75.7,Certified
+1506,1632,HR Business Partnering,Leadership,2023-07-07,65.4,Not Certified
+1507,1632,Coaching for Managers,Leadership,2024-03-08,84.5,Certified
+1508,1632,Leading Through Change,Leadership,2025-02-04,83.8,In Progress
+1509,1633,HR Business Partnering,Leadership,2024-10-12,91.6,In Progress
+1510,1633,Advanced System Design,Technical,2023-08-16,76.9,Certified
+1511,1633,Leading Through Change,Leadership,2025-05-12,75.7,Certified
+1512,1634,Anti-Bribery & Compliance,Compliance,2024-12-23,74.4,Certified
+1513,1634,Data Privacy Essentials,Compliance,2023-05-10,87.2,Certified
+1514,1634,Cloud Architecture Fundamentals,Technical,2025-01-22,79.2,In Progress
+1515,1635,Data Privacy Essentials,Compliance,2025-03-16,78.0,Certified
+1516,1635,Presentation Mastery,Soft Skills,2024-05-13,98.5,Certified
+1517,1635,Anti-Bribery & Compliance,Compliance,2024-10-08,71.0,Certified
+1518,1635,Advanced System Design,Technical,2023-07-25,79.1,In Progress
+1519,1636,HR Business Partnering,Leadership,2023-05-21,88.4,In Progress
+1520,1636,Cloud Architecture Fundamentals,Technical,2024-05-07,72.0,Certified
+1521,1636,Machine Learning Operations,Technical,2023-09-10,76.7,Certified
+1522,1637,Machine Learning Operations,Technical,2025-09-26,78.4,In Progress
+1523,1638,Anti-Bribery & Compliance,Compliance,2024-02-23,81.6,In Progress
+1524,1638,Data Visualization with BI Tools,Technical,2023-05-19,79.8,In Progress
+1525,1640,Advanced System Design,Technical,2023-09-17,69.4,In Progress
+1526,1640,Anti-Bribery & Compliance,Compliance,2025-02-21,80.3,Certified
+1527,1641,Anti-Bribery & Compliance,Compliance,2023-05-23,74.2,In Progress
+1528,1643,Workplace Safety,Compliance,2024-06-07,84.6,In Progress
+1529,1644,Presentation Mastery,Soft Skills,2024-11-10,77.3,Certified
+1530,1644,Coaching for Managers,Leadership,2023-06-03,76.9,Certified
+1531,1644,Leading Through Change,Leadership,2024-02-16,81.2,In Progress
+1532,1645,Workplace Safety,Compliance,2024-04-19,92.2,Certified
+1533,1645,Cloud Architecture Fundamentals,Technical,2024-04-28,94.0,In Progress
+1534,1646,Advanced System Design,Technical,2023-04-12,99.0,Certified
+1535,1646,Coaching for Managers,Leadership,2023-08-22,76.6,Certified
+1536,1646,Negotiation Skills,Soft Skills,2024-03-24,94.7,Certified
+1537,1647,Data Visualization with BI Tools,Technical,2024-09-22,77.3,Certified
+1538,1647,Data Privacy Essentials,Compliance,2025-04-02,73.4,Certified
+1539,1647,Coaching for Managers,Leadership,2023-05-22,84.9,In Progress
+1540,1648,Negotiation Skills,Soft Skills,2024-03-09,91.5,Certified
+1541,1649,Effective Communication,Soft Skills,2023-03-03,66.4,Not Certified
+1542,1649,Coaching for Managers,Leadership,2024-01-05,75.5,Certified
+1543,1649,Cloud Architecture Fundamentals,Technical,2024-07-26,74.4,Certified
+1544,1650,Data Visualization with BI Tools,Technical,2024-02-25,87.4,Certified
+1545,1650,Anti-Bribery & Compliance,Compliance,2023-01-05,85.5,Certified
+1546,1650,Negotiation Skills,Soft Skills,2023-02-02,86.6,In Progress
+1547,1650,Machine Learning Operations,Technical,2024-02-27,85.0,In Progress
+1548,1650,HR Business Partnering,Leadership,2025-05-25,83.0,Certified
+1549,1651,Presentation Mastery,Soft Skills,2024-09-11,74.7,Certified
+1550,1651,Advanced System Design,Technical,2024-08-03,77.6,Certified
+1551,1652,Machine Learning Operations,Technical,2023-11-13,75.2,Certified
+1552,1652,Advanced System Design,Technical,2025-08-23,85.2,Certified
+1553,1652,Time Management,Soft Skills,2023-02-25,77.2,Certified
+1554,1652,Workplace Safety,Compliance,2024-04-30,93.8,Certified
+1555,1652,Presentation Mastery,Soft Skills,2023-05-14,94.1,In Progress
+1556,1653,Presentation Mastery,Soft Skills,2025-06-01,71.3,Certified
+1557,1653,Anti-Bribery & Compliance,Compliance,2025-07-22,82.7,Certified
+1558,1653,Effective Communication,Soft Skills,2023-07-05,69.8,In Progress
+1559,1654,Cloud Architecture Fundamentals,Technical,2024-12-03,73.0,In Progress
+1560,1654,Leading Through Change,Leadership,2023-02-27,79.1,Certified
+1561,1654,Negotiation Skills,Soft Skills,2023-04-22,61.8,Not Certified
+1562,1654,Effective Communication,Soft Skills,2024-02-11,82.1,In Progress
+1563,1655,Time Management,Soft Skills,2023-03-02,78.6,In Progress
+1564,1655,Coaching for Managers,Leadership,2025-02-08,80.4,In Progress
+1565,1656,Presentation Mastery,Soft Skills,2024-01-02,79.0,Certified
+1566,1656,Machine Learning Operations,Technical,2025-08-31,76.7,Certified
+1567,1656,Anti-Bribery & Compliance,Compliance,2025-09-29,88.3,Certified
+1568,1656,Time Management,Soft Skills,2024-03-06,82.9,In Progress
+1569,1656,Data Visualization with BI Tools,Technical,2025-05-02,87.2,Certified
+1570,1657,HR Business Partnering,Leadership,2023-12-13,78.6,In Progress
+1571,1657,Time Management,Soft Skills,2023-03-04,87.4,Certified
+1572,1657,Negotiation Skills,Soft Skills,2025-09-23,88.6,Certified
+1573,1658,Anti-Bribery & Compliance,Compliance,2023-03-23,91.1,Certified
+1574,1660,Cloud Architecture Fundamentals,Technical,2024-12-18,74.3,Certified
+1575,1660,Data Privacy Essentials,Compliance,2023-12-18,75.3,In Progress
+1576,1661,Negotiation Skills,Soft Skills,2025-08-03,78.7,In Progress
+1577,1661,Data Privacy Essentials,Compliance,2023-03-02,74.5,Certified
+1578,1662,Machine Learning Operations,Technical,2025-06-21,99.0,Certified
+1579,1663,Time Management,Soft Skills,2025-02-20,80.8,Certified
+1580,1663,Data Privacy Essentials,Compliance,2023-02-20,66.7,Not Certified
+1581,1664,Machine Learning Operations,Technical,2024-09-09,93.6,Certified
+1582,1664,Coaching for Managers,Leadership,2024-04-13,83.5,In Progress
+1583,1664,HR Business Partnering,Leadership,2023-08-21,80.1,Certified
+1584,1664,Data Visualization with BI Tools,Technical,2025-03-05,75.6,Certified
+1585,1665,Cloud Architecture Fundamentals,Technical,2025-08-29,77.6,In Progress
+1586,1665,Workplace Safety,Compliance,2024-12-10,93.2,In Progress
+1587,1665,Effective Communication,Soft Skills,2023-10-30,78.0,Certified
+1588,1666,Anti-Bribery & Compliance,Compliance,2025-07-24,76.9,Certified
+1589,1666,Presentation Mastery,Soft Skills,2024-11-08,78.7,Certified
+1590,1666,Cloud Architecture Fundamentals,Technical,2023-04-16,78.9,Certified
+1591,1666,HR Business Partnering,Leadership,2024-10-04,80.9,In Progress
+1592,1666,Coaching for Managers,Leadership,2023-01-23,81.6,Certified
+1593,1668,Data Privacy Essentials,Compliance,2024-08-15,93.0,Certified
+1594,1668,HR Business Partnering,Leadership,2023-03-09,80.9,Certified
+1595,1668,Time Management,Soft Skills,2023-05-12,77.5,Certified
+1596,1669,Coaching for Managers,Leadership,2025-09-10,86.3,Certified
+1597,1669,Leading Through Change,Leadership,2025-09-17,65.2,Not Certified
+1598,1670,Time Management,Soft Skills,2023-01-02,69.1,Not Certified
+1599,1670,Cloud Architecture Fundamentals,Technical,2024-01-06,77.8,Certified
+1600,1670,HR Business Partnering,Leadership,2023-08-23,88.4,Certified
+1601,1670,Data Privacy Essentials,Compliance,2023-12-25,79.8,In Progress
+1602,1670,Workplace Safety,Compliance,2024-10-28,99.0,Certified
+1603,1671,Time Management,Soft Skills,2023-10-09,82.9,Certified
+1604,1673,Effective Communication,Soft Skills,2025-05-23,87.3,In Progress
+1605,1673,Advanced System Design,Technical,2024-08-28,80.2,Certified
+1606,1673,Data Privacy Essentials,Compliance,2024-09-16,79.5,Certified
+1607,1673,Time Management,Soft Skills,2024-07-06,78.5,In Progress
+1608,1674,Negotiation Skills,Soft Skills,2025-01-30,77.3,Certified
+1609,1674,HR Business Partnering,Leadership,2023-06-09,55.3,Not Certified
+1610,1674,Leading Through Change,Leadership,2023-03-17,86.6,Certified
+1611,1675,Time Management,Soft Skills,2025-09-22,73.1,Certified
+1612,1675,Machine Learning Operations,Technical,2023-11-24,89.1,Certified
+1613,1675,Cloud Architecture Fundamentals,Technical,2025-02-24,81.5,Certified
+1614,1676,Anti-Bribery & Compliance,Compliance,2023-03-01,95.7,In Progress
+1615,1676,Advanced System Design,Technical,2024-09-28,80.7,Certified
+1616,1677,Negotiation Skills,Soft Skills,2024-10-15,83.4,Certified
+1617,1677,Effective Communication,Soft Skills,2023-07-09,78.5,Certified
+1618,1678,Cloud Architecture Fundamentals,Technical,2023-05-14,84.4,Certified
+1619,1678,HR Business Partnering,Leadership,2025-09-07,74.1,Certified
+1620,1679,Workplace Safety,Compliance,2023-02-11,85.9,In Progress
+1621,1679,Data Privacy Essentials,Compliance,2024-03-27,70.9,Certified
+1622,1679,Advanced System Design,Technical,2024-05-21,83.3,In Progress
+1623,1679,HR Business Partnering,Leadership,2024-09-27,79.5,Certified
+1624,1680,Coaching for Managers,Leadership,2025-04-10,77.9,Certified
+1625,1680,Data Visualization with BI Tools,Technical,2023-04-21,74.5,Certified
+1626,1680,Presentation Mastery,Soft Skills,2024-06-03,81.1,Certified
+1627,1681,Anti-Bribery & Compliance,Compliance,2023-04-14,89.4,Certified
+1628,1681,Effective Communication,Soft Skills,2025-04-02,94.5,In Progress
+1629,1681,Workplace Safety,Compliance,2023-06-19,85.3,Certified
+1630,1681,Cloud Architecture Fundamentals,Technical,2025-08-08,80.1,In Progress
+1631,1681,Data Privacy Essentials,Compliance,2025-09-07,78.7,In Progress
+1632,1683,Effective Communication,Soft Skills,2023-03-14,97.3,Certified
+1633,1683,Data Visualization with BI Tools,Technical,2023-03-14,90.6,Certified
+1634,1683,Time Management,Soft Skills,2024-10-18,80.7,Certified
+1635,1684,Anti-Bribery & Compliance,Compliance,2024-09-23,78.2,Certified
+1636,1685,Effective Communication,Soft Skills,2024-10-07,88.9,Certified
+1637,1685,Machine Learning Operations,Technical,2025-04-01,85.7,Certified
+1638,1685,Anti-Bribery & Compliance,Compliance,2025-03-15,83.2,Certified
+1639,1685,Coaching for Managers,Leadership,2023-11-12,91.1,In Progress
+1640,1686,Time Management,Soft Skills,2023-02-27,84.5,In Progress
+1641,1686,Workplace Safety,Compliance,2025-08-22,82.9,Certified
+1642,1686,Leading Through Change,Leadership,2023-08-21,74.6,Certified
+1643,1687,Negotiation Skills,Soft Skills,2023-04-08,91.9,Certified
+1644,1687,Advanced System Design,Technical,2023-12-05,72.0,Certified
+1645,1688,Anti-Bribery & Compliance,Compliance,2024-12-26,80.9,Certified
+1646,1688,Coaching for Managers,Leadership,2023-10-21,73.1,In Progress
+1647,1688,Workplace Safety,Compliance,2023-07-03,75.6,Certified
+1648,1688,Data Visualization with BI Tools,Technical,2025-07-21,69.3,In Progress
+1649,1688,Cloud Architecture Fundamentals,Technical,2023-07-19,71.1,Certified
+1650,1690,Leading Through Change,Leadership,2025-02-16,80.9,Certified
+1651,1690,Cloud Architecture Fundamentals,Technical,2025-05-29,84.7,Certified
+1652,1690,Negotiation Skills,Soft Skills,2024-03-31,72.4,Certified
+1653,1691,Workplace Safety,Compliance,2023-09-15,81.3,Certified
+1654,1691,Data Visualization with BI Tools,Technical,2025-04-08,75.1,Certified
+1655,1692,Machine Learning Operations,Technical,2023-06-30,77.5,In Progress
+1656,1692,Workplace Safety,Compliance,2024-11-16,86.5,Certified
+1657,1692,Effective Communication,Soft Skills,2025-02-24,83.9,Certified
+1658,1692,Time Management,Soft Skills,2024-04-02,88.2,In Progress
+1659,1693,Machine Learning Operations,Technical,2023-03-02,81.2,In Progress
+1660,1693,Leading Through Change,Leadership,2024-11-21,81.9,Certified
+1661,1693,Anti-Bribery & Compliance,Compliance,2023-04-01,89.7,Certified
+1662,1693,Data Visualization with BI Tools,Technical,2025-03-20,88.4,Certified
+1663,1693,Coaching for Managers,Leadership,2024-04-08,87.1,In Progress
+1664,1694,Advanced System Design,Technical,2023-12-30,83.0,In Progress
+1665,1695,HR Business Partnering,Leadership,2024-09-26,76.1,Certified
+1666,1695,Presentation Mastery,Soft Skills,2025-04-05,88.1,In Progress
+1667,1695,Effective Communication,Soft Skills,2025-03-26,74.7,In Progress
+1668,1698,Effective Communication,Soft Skills,2023-10-06,87.1,Certified
+1669,1698,HR Business Partnering,Leadership,2023-07-09,95.7,Certified
+1670,1699,Leading Through Change,Leadership,2024-01-23,81.6,In Progress
+1671,1699,Presentation Mastery,Soft Skills,2025-05-14,79.0,In Progress
+1672,1700,Time Management,Soft Skills,2025-06-22,73.6,In Progress
+1673,1700,Coaching for Managers,Leadership,2024-05-06,83.5,In Progress
+1674,1700,Leading Through Change,Leadership,2023-03-27,86.1,Certified
+1675,1701,Leading Through Change,Leadership,2023-09-05,81.3,Certified
+1676,1701,Advanced System Design,Technical,2023-02-25,83.5,Certified
+1677,1701,Coaching for Managers,Leadership,2025-02-18,76.9,In Progress
+1678,1701,Data Privacy Essentials,Compliance,2023-05-01,77.7,Certified
+1679,1702,Anti-Bribery & Compliance,Compliance,2025-05-07,90.2,Certified
+1680,1702,Negotiation Skills,Soft Skills,2025-08-31,83.2,In Progress
+1681,1703,Data Visualization with BI Tools,Technical,2023-06-18,76.0,Certified
+1682,1703,Anti-Bribery & Compliance,Compliance,2025-08-31,94.4,Certified
+1683,1703,Presentation Mastery,Soft Skills,2023-06-02,72.2,In Progress
+1684,1703,Advanced System Design,Technical,2023-03-05,82.6,Certified
+1685,1704,Time Management,Soft Skills,2024-03-18,88.2,Certified
+1686,1704,Negotiation Skills,Soft Skills,2023-05-05,75.2,In Progress
+1687,1704,Coaching for Managers,Leadership,2025-05-17,79.9,In Progress
+1688,1704,Machine Learning Operations,Technical,2023-03-01,83.6,In Progress
+1689,1704,Leading Through Change,Leadership,2023-05-03,80.6,Certified
+1690,1705,Presentation Mastery,Soft Skills,2024-03-29,84.4,In Progress
+1691,1705,Workplace Safety,Compliance,2024-08-31,72.7,Certified
+1692,1707,HR Business Partnering,Leadership,2024-08-04,74.4,Certified
+1693,1707,Coaching for Managers,Leadership,2024-07-16,89.2,Certified
+1694,1707,Anti-Bribery & Compliance,Compliance,2023-10-05,78.6,In Progress
+1695,1708,Presentation Mastery,Soft Skills,2023-01-19,91.4,Certified
+1696,1708,Machine Learning Operations,Technical,2024-07-08,94.9,In Progress
+1697,1708,Cloud Architecture Fundamentals,Technical,2025-05-19,69.4,In Progress
+1698,1709,Data Privacy Essentials,Compliance,2025-03-07,80.6,Certified
+1699,1709,Presentation Mastery,Soft Skills,2024-06-27,83.5,In Progress
+1700,1709,Cloud Architecture Fundamentals,Technical,2024-07-04,89.2,In Progress
+1701,1710,Cloud Architecture Fundamentals,Technical,2023-01-13,86.5,Certified
+1702,1710,Anti-Bribery & Compliance,Compliance,2024-08-06,79.5,Certified
+1703,1710,HR Business Partnering,Leadership,2023-09-21,81.3,Certified
+1704,1711,Leading Through Change,Leadership,2023-01-17,79.2,Certified
+1705,1711,Workplace Safety,Compliance,2024-01-29,99.0,Certified
+1706,1712,Cloud Architecture Fundamentals,Technical,2023-03-09,99.0,Certified
+1707,1712,Effective Communication,Soft Skills,2023-10-11,86.0,Certified
+1708,1714,Data Privacy Essentials,Compliance,2025-08-28,75.3,Certified
+1709,1715,Presentation Mastery,Soft Skills,2024-10-18,66.3,Not Certified
+1710,1716,Machine Learning Operations,Technical,2025-03-22,92.5,In Progress
+1711,1717,Workplace Safety,Compliance,2024-11-07,79.7,Certified
+1712,1717,HR Business Partnering,Leadership,2024-01-18,77.8,Certified
+1713,1718,Coaching for Managers,Leadership,2024-01-09,86.9,Certified
+1714,1718,Negotiation Skills,Soft Skills,2024-06-08,84.9,Certified
+1715,1718,Data Visualization with BI Tools,Technical,2025-04-06,80.2,In Progress
+1716,1718,Anti-Bribery & Compliance,Compliance,2023-01-27,69.6,Not Certified
+1717,1718,Data Privacy Essentials,Compliance,2023-11-08,80.6,Certified
+1718,1719,HR Business Partnering,Leadership,2023-03-03,90.5,Certified
+1719,1719,Presentation Mastery,Soft Skills,2023-12-03,83.5,Certified
+1720,1721,Workplace Safety,Compliance,2025-06-05,70.0,Certified
+1721,1721,HR Business Partnering,Leadership,2024-03-20,75.6,Certified
+1722,1721,Cloud Architecture Fundamentals,Technical,2023-01-22,61.0,Not Certified
+1723,1721,Anti-Bribery & Compliance,Compliance,2025-09-07,71.0,In Progress
+1724,1722,Negotiation Skills,Soft Skills,2025-07-02,71.2,Certified
+1725,1722,Coaching for Managers,Leadership,2024-03-15,88.4,Certified
+1726,1722,Data Privacy Essentials,Compliance,2025-06-10,80.4,In Progress
+1727,1723,Machine Learning Operations,Technical,2023-06-17,82.7,Certified
+1728,1723,Presentation Mastery,Soft Skills,2024-02-24,69.9,Not Certified
+1729,1723,Anti-Bribery & Compliance,Compliance,2023-12-17,88.9,Certified
+1730,1725,Effective Communication,Soft Skills,2023-10-14,76.2,Certified
+1731,1725,Leading Through Change,Leadership,2024-05-11,83.2,In Progress
+1732,1725,Data Privacy Essentials,Compliance,2024-12-19,82.0,Certified
+1733,1726,HR Business Partnering,Leadership,2024-01-10,84.7,Certified
+1734,1726,Advanced System Design,Technical,2025-02-03,82.6,Certified
+1735,1727,Presentation Mastery,Soft Skills,2023-07-02,76.1,In Progress
+1736,1727,Coaching for Managers,Leadership,2024-12-03,90.4,Certified
+1737,1727,Machine Learning Operations,Technical,2024-03-05,79.5,In Progress
+1738,1727,Anti-Bribery & Compliance,Compliance,2024-10-22,88.3,Certified
+1739,1728,Workplace Safety,Compliance,2023-03-19,86.6,Certified
+1740,1728,HR Business Partnering,Leadership,2023-03-26,79.9,Certified
+1741,1728,Presentation Mastery,Soft Skills,2023-08-26,97.9,In Progress
+1742,1728,Leading Through Change,Leadership,2023-09-26,83.0,Certified
+1743,1728,Data Privacy Essentials,Compliance,2024-03-29,95.8,Certified
+1744,1729,Anti-Bribery & Compliance,Compliance,2024-08-14,75.7,Certified
+1745,1729,Effective Communication,Soft Skills,2024-06-02,77.8,In Progress
+1746,1729,Presentation Mastery,Soft Skills,2023-08-29,93.3,Certified
+1747,1729,Advanced System Design,Technical,2023-09-28,72.2,Certified
+1748,1729,Data Privacy Essentials,Compliance,2024-12-11,73.1,Certified
+1749,1730,Data Privacy Essentials,Compliance,2023-05-01,82.8,Certified
+1750,1731,Negotiation Skills,Soft Skills,2024-05-03,78.6,Certified
+1751,1732,HR Business Partnering,Leadership,2023-08-04,98.8,Certified
+1752,1732,Time Management,Soft Skills,2024-01-13,94.2,Certified
+1753,1733,Data Visualization with BI Tools,Technical,2024-09-16,75.9,Certified
+1754,1733,Cloud Architecture Fundamentals,Technical,2023-09-06,89.2,In Progress
+1755,1733,Presentation Mastery,Soft Skills,2025-04-15,87.2,Certified
+1756,1733,Anti-Bribery & Compliance,Compliance,2023-06-03,86.7,Certified
+1757,1734,Effective Communication,Soft Skills,2023-04-09,80.9,Certified
+1758,1734,Data Visualization with BI Tools,Technical,2024-08-05,88.0,Certified
+1759,1734,Cloud Architecture Fundamentals,Technical,2023-11-30,74.3,In Progress
+1760,1735,Cloud Architecture Fundamentals,Technical,2024-01-18,92.7,Certified
+1761,1735,Data Privacy Essentials,Compliance,2025-05-27,90.3,Certified
+1762,1735,Advanced System Design,Technical,2025-02-28,83.0,Certified
+1763,1735,Anti-Bribery & Compliance,Compliance,2025-03-11,77.5,Certified
+1764,1735,Data Visualization with BI Tools,Technical,2024-09-19,90.6,Certified
+1765,1736,Advanced System Design,Technical,2025-01-22,86.2,Certified
+1766,1736,Anti-Bribery & Compliance,Compliance,2024-06-18,88.6,Certified
+1767,1736,Negotiation Skills,Soft Skills,2025-06-07,77.3,Certified
+1768,1736,Data Privacy Essentials,Compliance,2023-01-24,83.8,In Progress
+1769,1737,Time Management,Soft Skills,2025-01-11,75.9,In Progress
+1770,1737,Cloud Architecture Fundamentals,Technical,2024-01-25,89.3,Certified
+1771,1737,Negotiation Skills,Soft Skills,2024-07-05,84.8,Certified
+1772,1737,Effective Communication,Soft Skills,2025-04-26,82.3,Certified
+1773,1738,Coaching for Managers,Leadership,2024-04-16,92.9,In Progress
+1774,1738,Cloud Architecture Fundamentals,Technical,2025-05-19,77.4,Certified
+1775,1738,Data Visualization with BI Tools,Technical,2025-05-20,85.3,Certified
+1776,1740,Anti-Bribery & Compliance,Compliance,2025-03-05,82.4,Certified
+1777,1741,HR Business Partnering,Leadership,2025-08-17,83.6,Certified
+1778,1742,Anti-Bribery & Compliance,Compliance,2023-08-05,67.0,In Progress
+1779,1742,Leading Through Change,Leadership,2024-08-27,81.7,In Progress
+1780,1742,Coaching for Managers,Leadership,2023-01-09,78.5,In Progress
+1781,1742,Data Privacy Essentials,Compliance,2023-09-12,66.3,In Progress
+1782,1742,Negotiation Skills,Soft Skills,2024-07-06,79.5,Certified
+1783,1743,Data Privacy Essentials,Compliance,2025-03-31,74.2,In Progress
+1784,1743,Effective Communication,Soft Skills,2024-04-08,70.6,Certified
+1785,1743,Machine Learning Operations,Technical,2025-02-16,79.1,Certified
+1786,1743,Cloud Architecture Fundamentals,Technical,2025-03-22,75.0,In Progress
+1787,1743,Negotiation Skills,Soft Skills,2023-12-07,82.4,Certified
+1788,1744,Negotiation Skills,Soft Skills,2025-08-07,75.7,Certified
+1789,1745,Cloud Architecture Fundamentals,Technical,2025-03-14,99.0,Certified
+1790,1745,Presentation Mastery,Soft Skills,2025-03-01,83.6,Certified
+1791,1746,HR Business Partnering,Leadership,2023-05-05,79.3,In Progress
+1792,1746,Negotiation Skills,Soft Skills,2024-06-14,99.0,Certified
+1793,1749,Coaching for Managers,Leadership,2024-09-11,72.2,Certified
+1794,1749,Advanced System Design,Technical,2023-12-15,86.4,Certified
+1795,1749,Effective Communication,Soft Skills,2024-06-15,99.0,Certified
+1796,1750,Workplace Safety,Compliance,2023-05-30,90.8,In Progress
+1797,1750,Cloud Architecture Fundamentals,Technical,2023-01-16,91.5,In Progress
+1798,1750,Machine Learning Operations,Technical,2024-12-11,80.5,Certified
+1799,1751,Data Privacy Essentials,Compliance,2025-02-07,75.5,Certified
+1800,1753,Data Visualization with BI Tools,Technical,2024-01-04,88.7,Certified
+1801,1753,Negotiation Skills,Soft Skills,2025-07-23,76.9,In Progress
+1802,1754,Negotiation Skills,Soft Skills,2024-12-04,87.0,Certified
+1803,1755,Workplace Safety,Compliance,2024-11-24,86.5,Certified
+1804,1755,HR Business Partnering,Leadership,2025-02-19,87.4,In Progress
+1805,1755,Machine Learning Operations,Technical,2024-04-16,85.0,Certified
+1806,1757,Cloud Architecture Fundamentals,Technical,2023-01-27,82.6,In Progress
+1807,1757,Data Visualization with BI Tools,Technical,2024-06-03,82.7,Certified
+1808,1757,Effective Communication,Soft Skills,2024-07-25,99.0,Certified
+1809,1758,HR Business Partnering,Leadership,2025-03-09,85.8,Certified
+1810,1758,Presentation Mastery,Soft Skills,2025-05-10,96.6,Certified
+1811,1758,Time Management,Soft Skills,2024-05-22,84.7,In Progress
+1812,1759,Data Visualization with BI Tools,Technical,2024-12-01,90.1,Certified
+1813,1759,Data Privacy Essentials,Compliance,2023-08-27,84.4,Certified
+1814,1759,Presentation Mastery,Soft Skills,2024-12-16,80.7,Certified
+1815,1759,Machine Learning Operations,Technical,2024-08-06,82.8,In Progress
+1816,1760,Leading Through Change,Leadership,2023-05-01,95.7,Certified
+1817,1760,Time Management,Soft Skills,2023-03-09,72.4,Certified
+1818,1760,Coaching for Managers,Leadership,2023-10-13,78.5,In Progress
+1819,1760,Data Privacy Essentials,Compliance,2023-04-18,71.5,Certified
+1820,1760,HR Business Partnering,Leadership,2023-06-13,84.5,Certified
+1821,1761,Leading Through Change,Leadership,2024-12-03,77.7,Certified
+1822,1761,Workplace Safety,Compliance,2023-04-20,85.6,Certified
+1823,1761,Effective Communication,Soft Skills,2024-04-03,88.2,Certified
+1824,1761,Anti-Bribery & Compliance,Compliance,2023-11-12,88.9,Certified
+1825,1761,HR Business Partnering,Leadership,2024-05-20,84.6,Certified
+1826,1762,Data Privacy Essentials,Compliance,2024-06-29,87.4,Certified
+1827,1762,Presentation Mastery,Soft Skills,2024-02-29,76.0,Certified
+1828,1762,Time Management,Soft Skills,2023-01-25,95.3,Certified
+1829,1762,Machine Learning Operations,Technical,2023-05-14,84.5,Certified
+1830,1763,Cloud Architecture Fundamentals,Technical,2023-01-10,78.9,Certified
+1831,1763,Coaching for Managers,Leadership,2023-01-20,76.9,Certified
+1832,1763,Machine Learning Operations,Technical,2024-04-15,79.4,Certified
+1833,1763,Data Privacy Essentials,Compliance,2023-03-07,69.7,In Progress
+1834,1764,Presentation Mastery,Soft Skills,2023-06-09,72.9,Certified
+1835,1765,Negotiation Skills,Soft Skills,2025-09-04,87.5,In Progress
+1836,1768,Data Privacy Essentials,Compliance,2023-01-06,82.6,Certified
+1837,1768,Machine Learning Operations,Technical,2024-02-02,97.9,Certified
+1838,1768,Workplace Safety,Compliance,2023-03-26,90.1,In Progress
+1839,1769,Data Visualization with BI Tools,Technical,2023-02-07,65.0,Not Certified
+1840,1769,Coaching for Managers,Leadership,2024-01-09,82.5,Certified
+1841,1769,Advanced System Design,Technical,2024-03-20,94.1,Certified
+1842,1769,Anti-Bribery & Compliance,Compliance,2024-12-07,85.8,Certified
+1843,1770,Leading Through Change,Leadership,2025-09-04,89.4,Certified
+1844,1770,Data Visualization with BI Tools,Technical,2024-12-28,80.1,In Progress
+1845,1770,Time Management,Soft Skills,2023-02-06,83.6,Certified
+1846,1771,Presentation Mastery,Soft Skills,2024-01-22,85.9,Certified
+1847,1771,Workplace Safety,Compliance,2025-06-18,90.5,Certified
+1848,1772,Negotiation Skills,Soft Skills,2023-07-31,78.5,Certified
+1849,1772,Machine Learning Operations,Technical,2024-03-29,82.7,In Progress
+1850,1772,Effective Communication,Soft Skills,2023-02-26,86.1,Certified
+1851,1772,Leading Through Change,Leadership,2023-10-28,94.3,Certified
+1852,1773,Anti-Bribery & Compliance,Compliance,2024-08-03,68.0,In Progress
+1853,1773,HR Business Partnering,Leadership,2023-09-02,76.4,Certified
+1854,1773,Machine Learning Operations,Technical,2024-07-30,75.9,Certified
+1855,1773,Negotiation Skills,Soft Skills,2024-11-07,95.6,Certified
+1856,1773,Data Visualization with BI Tools,Technical,2024-05-07,86.4,Certified
+1857,1774,Data Visualization with BI Tools,Technical,2024-12-20,73.6,Certified
+1858,1776,HR Business Partnering,Leadership,2024-05-14,75.5,In Progress
+1859,1776,Machine Learning Operations,Technical,2024-03-16,79.7,Certified
+1860,1776,Coaching for Managers,Leadership,2024-10-25,84.7,Certified
+1861,1776,Cloud Architecture Fundamentals,Technical,2025-09-15,87.8,Certified
+1862,1777,Advanced System Design,Technical,2025-06-07,87.5,Certified
+1863,1777,Data Visualization with BI Tools,Technical,2024-02-02,87.2,Certified
+1864,1777,Workplace Safety,Compliance,2024-10-20,74.0,Certified
+1865,1777,HR Business Partnering,Leadership,2025-02-20,83.9,Certified
+1866,1778,Workplace Safety,Compliance,2023-06-23,85.1,Certified
+1867,1778,Advanced System Design,Technical,2023-04-18,89.8,Certified
+1868,1778,Cloud Architecture Fundamentals,Technical,2024-02-20,82.1,Certified
+1869,1779,Presentation Mastery,Soft Skills,2024-04-12,90.1,Certified
+1870,1779,Workplace Safety,Compliance,2023-05-03,71.1,Certified
+1871,1779,Machine Learning Operations,Technical,2024-02-04,93.5,Certified
+1872,1780,Anti-Bribery & Compliance,Compliance,2023-10-15,75.6,Certified
+1873,1780,Presentation Mastery,Soft Skills,2024-11-08,68.5,Not Certified
+1874,1780,Negotiation Skills,Soft Skills,2024-11-20,91.7,Certified
+1875,1780,Leading Through Change,Leadership,2023-07-20,75.7,Certified
+1876,1781,Negotiation Skills,Soft Skills,2024-07-04,74.7,In Progress
+1877,1781,Coaching for Managers,Leadership,2025-03-14,93.8,In Progress
+1878,1781,Leading Through Change,Leadership,2023-01-11,70.9,Certified
+1879,1782,Advanced System Design,Technical,2023-03-24,81.1,In Progress
+1880,1783,Presentation Mastery,Soft Skills,2023-08-21,99.0,Certified
+1881,1783,Data Visualization with BI Tools,Technical,2023-04-01,80.3,Certified
+1882,1783,Coaching for Managers,Leadership,2023-10-26,89.6,Certified
+1883,1783,Negotiation Skills,Soft Skills,2023-04-28,84.8,In Progress
+1884,1784,Workplace Safety,Compliance,2023-08-12,69.5,In Progress
+1885,1784,Anti-Bribery & Compliance,Compliance,2023-12-30,88.2,Certified
+1886,1784,HR Business Partnering,Leadership,2025-09-07,84.6,Certified
+1887,1786,Advanced System Design,Technical,2025-01-06,70.2,In Progress
+1888,1786,Presentation Mastery,Soft Skills,2023-11-09,69.7,In Progress
+1889,1786,Cloud Architecture Fundamentals,Technical,2025-07-22,60.8,In Progress
+1890,1787,Cloud Architecture Fundamentals,Technical,2023-07-28,86.0,Certified
+1891,1787,Time Management,Soft Skills,2024-08-02,79.0,Certified
+1892,1787,Anti-Bribery & Compliance,Compliance,2023-09-25,83.8,Certified
+1893,1787,Presentation Mastery,Soft Skills,2023-09-28,76.9,Certified
+1894,1787,Workplace Safety,Compliance,2024-11-11,92.3,In Progress
+1895,1788,Advanced System Design,Technical,2024-03-26,85.1,Certified
+1896,1789,Anti-Bribery & Compliance,Compliance,2025-03-14,86.3,Certified
+1897,1790,Cloud Architecture Fundamentals,Technical,2024-11-07,77.3,Certified
+1898,1790,Presentation Mastery,Soft Skills,2023-07-12,87.5,Certified
+1899,1792,Machine Learning Operations,Technical,2024-07-13,77.1,Certified
+1900,1794,HR Business Partnering,Leadership,2023-09-30,83.6,Certified
+1901,1794,Machine Learning Operations,Technical,2025-09-27,80.4,Certified
+1902,1794,Anti-Bribery & Compliance,Compliance,2024-09-20,78.8,In Progress
+1903,1796,HR Business Partnering,Leadership,2023-08-05,85.9,Certified
+1904,1796,Data Privacy Essentials,Compliance,2024-09-25,85.4,In Progress
+1905,1796,Cloud Architecture Fundamentals,Technical,2025-03-31,79.5,Certified
+1906,1796,Time Management,Soft Skills,2024-10-29,79.3,In Progress
+1907,1797,Leading Through Change,Leadership,2023-10-19,83.9,In Progress
+1908,1797,Coaching for Managers,Leadership,2023-10-12,84.1,In Progress
+1909,1797,Machine Learning Operations,Technical,2024-01-21,79.2,In Progress
+1910,1798,Data Privacy Essentials,Compliance,2024-01-27,67.0,In Progress
+1911,1799,Advanced System Design,Technical,2025-02-01,65.0,Not Certified
+1912,1800,Negotiation Skills,Soft Skills,2023-12-31,75.9,Certified
+1913,1800,HR Business Partnering,Leadership,2024-06-10,80.6,Certified
+1914,1800,Data Visualization with BI Tools,Technical,2023-05-03,82.3,In Progress
+1915,1802,Negotiation Skills,Soft Skills,2024-06-25,82.4,Certified
+1916,1802,Leading Through Change,Leadership,2023-11-27,78.2,Certified
+1917,1803,Cloud Architecture Fundamentals,Technical,2023-12-12,89.2,In Progress
+1918,1803,Advanced System Design,Technical,2024-07-03,98.8,Certified
+1919,1803,Data Visualization with BI Tools,Technical,2025-03-08,82.3,Certified
+1920,1804,Data Privacy Essentials,Compliance,2025-05-20,77.9,Certified
+1921,1804,Data Visualization with BI Tools,Technical,2024-05-15,85.4,In Progress
+1922,1805,Advanced System Design,Technical,2025-04-11,78.0,Certified
+1923,1807,Data Privacy Essentials,Compliance,2024-04-20,88.7,In Progress
+1924,1807,HR Business Partnering,Leadership,2024-08-29,87.2,In Progress
+1925,1807,Advanced System Design,Technical,2024-08-18,89.7,Certified
+1926,1808,Machine Learning Operations,Technical,2025-05-14,91.5,Certified
+1927,1808,Effective Communication,Soft Skills,2023-02-05,78.3,In Progress
+1928,1808,Advanced System Design,Technical,2025-09-28,82.2,Certified
+1929,1808,Leading Through Change,Leadership,2023-12-23,60.7,In Progress
+1930,1809,HR Business Partnering,Leadership,2023-09-11,84.0,Certified
+1931,1809,Advanced System Design,Technical,2023-08-01,67.7,In Progress
+1932,1809,Coaching for Managers,Leadership,2023-09-09,81.1,Certified
+1933,1809,Workplace Safety,Compliance,2025-02-01,91.1,Certified
+1934,1809,Machine Learning Operations,Technical,2024-02-28,90.2,Certified
+1935,1810,Workplace Safety,Compliance,2024-07-30,74.8,Certified
+1936,1810,Leading Through Change,Leadership,2023-07-04,76.8,In Progress
+1937,1811,Data Visualization with BI Tools,Technical,2025-08-28,77.2,Certified
+1938,1811,Cloud Architecture Fundamentals,Technical,2024-05-15,82.7,Certified
+1939,1811,Effective Communication,Soft Skills,2024-08-07,82.2,Certified
+1940,1812,Advanced System Design,Technical,2025-02-22,76.8,In Progress
+1941,1812,Leading Through Change,Leadership,2025-08-04,75.7,Certified
+1942,1812,Coaching for Managers,Leadership,2023-03-06,95.1,Certified
+1943,1813,HR Business Partnering,Leadership,2023-06-03,88.3,Certified
+1944,1813,Data Visualization with BI Tools,Technical,2024-01-29,77.0,In Progress
+1945,1813,Advanced System Design,Technical,2023-02-04,85.7,In Progress
+1946,1814,Time Management,Soft Skills,2024-04-27,72.7,Certified
+1947,1814,Effective Communication,Soft Skills,2023-07-10,83.2,Certified
+1948,1814,Negotiation Skills,Soft Skills,2024-03-14,77.4,Certified
+1949,1814,Machine Learning Operations,Technical,2024-04-18,82.0,Certified
+1950,1814,Workplace Safety,Compliance,2024-06-30,73.4,Certified
+1951,1816,Machine Learning Operations,Technical,2023-03-18,75.8,Certified
+1952,1817,Presentation Mastery,Soft Skills,2025-01-02,81.0,In Progress
+1953,1818,Coaching for Managers,Leadership,2023-03-08,82.0,Certified
+1954,1819,HR Business Partnering,Leadership,2024-01-26,77.6,In Progress
+1955,1821,Cloud Architecture Fundamentals,Technical,2025-01-20,73.1,Certified
+1956,1821,Advanced System Design,Technical,2023-11-16,84.2,Certified
+1957,1821,Anti-Bribery & Compliance,Compliance,2025-08-12,92.8,Certified
+1958,1821,Data Visualization with BI Tools,Technical,2025-03-23,92.3,Certified
+1959,1821,HR Business Partnering,Leadership,2025-07-13,96.8,In Progress
+1960,1822,Data Visualization with BI Tools,Technical,2024-08-29,75.5,Certified
+1961,1822,Machine Learning Operations,Technical,2024-10-14,85.6,In Progress
+1962,1822,Negotiation Skills,Soft Skills,2023-01-15,89.3,Certified
+1963,1822,Time Management,Soft Skills,2023-08-17,70.9,Certified
+1964,1822,Coaching for Managers,Leadership,2023-02-16,78.7,Certified
+1965,1823,Data Privacy Essentials,Compliance,2024-02-19,77.5,Certified
+1966,1824,Coaching for Managers,Leadership,2025-06-30,74.1,Certified
+1967,1824,Advanced System Design,Technical,2024-06-04,73.6,Certified
+1968,1825,Advanced System Design,Technical,2023-10-16,64.7,Not Certified
+1969,1825,Time Management,Soft Skills,2024-07-23,80.3,Certified
+1970,1825,Negotiation Skills,Soft Skills,2024-03-18,89.9,Certified
+1971,1827,Effective Communication,Soft Skills,2023-08-11,68.8,In Progress
+1972,1828,Coaching for Managers,Leadership,2024-12-07,94.8,Certified
+1973,1828,Data Visualization with BI Tools,Technical,2025-07-21,84.8,In Progress
+1974,1828,Machine Learning Operations,Technical,2025-02-20,83.9,Certified
+1975,1828,HR Business Partnering,Leadership,2023-11-09,89.6,Certified
+1976,1829,Negotiation Skills,Soft Skills,2025-03-05,92.7,Certified
+1977,1829,Data Visualization with BI Tools,Technical,2023-10-11,89.8,Certified
+1978,1830,Negotiation Skills,Soft Skills,2024-05-16,76.2,Certified
+1979,1830,Machine Learning Operations,Technical,2023-07-22,73.0,In Progress
+1980,1830,Coaching for Managers,Leadership,2024-07-22,87.5,In Progress
+1981,1831,Data Visualization with BI Tools,Technical,2024-10-12,72.1,Certified
+1982,1831,Presentation Mastery,Soft Skills,2025-04-09,68.5,In Progress
+1983,1831,Effective Communication,Soft Skills,2024-01-08,78.6,Certified
+1984,1831,Anti-Bribery & Compliance,Compliance,2025-07-08,72.4,Certified
+1985,1832,Workplace Safety,Compliance,2023-02-04,86.8,Certified
+1986,1833,Machine Learning Operations,Technical,2023-02-22,93.2,In Progress
+1987,1833,Data Visualization with BI Tools,Technical,2023-03-16,78.5,Certified
+1988,1833,Coaching for Managers,Leadership,2025-02-16,77.1,In Progress
+1989,1833,Anti-Bribery & Compliance,Compliance,2024-06-07,73.9,Certified
+1990,1833,Presentation Mastery,Soft Skills,2023-11-14,80.9,In Progress
+1991,1834,Advanced System Design,Technical,2024-06-27,71.5,Certified
+1992,1834,Anti-Bribery & Compliance,Compliance,2023-01-04,88.3,Certified
+1993,1834,Cloud Architecture Fundamentals,Technical,2024-03-03,81.0,Certified
+1994,1835,Machine Learning Operations,Technical,2024-03-30,83.7,Certified
+1995,1835,Cloud Architecture Fundamentals,Technical,2025-07-16,77.6,Certified
+1996,1836,Data Visualization with BI Tools,Technical,2025-09-15,78.4,Certified
+1997,1836,Time Management,Soft Skills,2024-10-23,86.9,In Progress
+1998,1836,Advanced System Design,Technical,2023-10-08,80.7,Certified
+1999,1837,Leading Through Change,Leadership,2024-08-27,77.0,In Progress
+2000,1837,Data Visualization with BI Tools,Technical,2023-09-06,78.7,Certified
+2001,1838,Time Management,Soft Skills,2023-04-12,72.1,In Progress
+2002,1838,Cloud Architecture Fundamentals,Technical,2023-12-15,71.2,Certified
+2003,1838,Advanced System Design,Technical,2023-08-25,66.7,Not Certified
+2004,1838,Anti-Bribery & Compliance,Compliance,2025-04-17,89.0,Certified
+2005,1838,Presentation Mastery,Soft Skills,2023-03-08,78.8,Certified
+2006,1839,HR Business Partnering,Leadership,2023-03-28,73.2,Certified
+2007,1839,Coaching for Managers,Leadership,2024-07-28,78.1,Certified
+2008,1839,Anti-Bribery & Compliance,Compliance,2023-09-19,99.0,Certified
+2009,1840,Machine Learning Operations,Technical,2023-02-08,98.7,Certified
+2010,1841,Data Visualization with BI Tools,Technical,2023-11-11,81.1,In Progress
+2011,1841,Time Management,Soft Skills,2025-04-15,73.9,Certified
+2012,1841,Coaching for Managers,Leadership,2024-07-11,81.8,In Progress
+2013,1841,Cloud Architecture Fundamentals,Technical,2024-05-06,75.8,Certified
+2014,1841,HR Business Partnering,Leadership,2025-04-02,73.9,Certified
+2015,1842,Time Management,Soft Skills,2024-09-17,90.2,Certified
+2016,1842,Anti-Bribery & Compliance,Compliance,2024-10-17,83.3,Certified
+2017,1842,Presentation Mastery,Soft Skills,2024-03-12,87.4,Certified
+2018,1842,Coaching for Managers,Leadership,2025-03-02,84.4,Certified
+2019,1843,Machine Learning Operations,Technical,2025-09-08,73.4,Certified
+2020,1843,Effective Communication,Soft Skills,2024-02-19,87.3,In Progress
+2021,1844,Data Visualization with BI Tools,Technical,2023-12-29,79.1,Certified
+2022,1844,Negotiation Skills,Soft Skills,2023-12-17,83.7,Certified
+2023,1844,Presentation Mastery,Soft Skills,2025-06-29,72.9,In Progress
+2024,1844,Anti-Bribery & Compliance,Compliance,2024-07-30,83.0,Certified
+2025,1844,Leading Through Change,Leadership,2024-06-01,89.1,Certified
+2026,1845,Machine Learning Operations,Technical,2024-03-26,90.4,Certified
+2027,1846,Data Privacy Essentials,Compliance,2025-02-15,94.3,Certified
+2028,1847,Coaching for Managers,Leadership,2023-10-03,69.8,Not Certified
+2029,1847,Advanced System Design,Technical,2025-05-02,81.9,Certified
+2030,1847,HR Business Partnering,Leadership,2024-05-23,82.7,In Progress
+2031,1848,Cloud Architecture Fundamentals,Technical,2025-03-19,83.9,Certified
+2032,1848,Machine Learning Operations,Technical,2025-07-24,77.4,Certified
+2033,1848,Anti-Bribery & Compliance,Compliance,2025-09-12,78.9,Certified
+2034,1849,Effective Communication,Soft Skills,2023-08-02,84.3,In Progress
+2035,1850,Workplace Safety,Compliance,2023-11-08,86.8,Certified
+2036,1850,HR Business Partnering,Leadership,2024-05-17,73.8,Certified
+2037,1850,Advanced System Design,Technical,2024-09-17,81.6,In Progress
+2038,1850,Data Visualization with BI Tools,Technical,2024-06-08,93.2,Certified
+2039,1851,Leading Through Change,Leadership,2024-09-21,90.2,Certified
+2040,1851,Presentation Mastery,Soft Skills,2025-07-28,82.8,In Progress
+2041,1851,Machine Learning Operations,Technical,2024-10-01,97.9,Certified
+2042,1852,Negotiation Skills,Soft Skills,2023-02-03,80.1,Certified
+2043,1852,Machine Learning Operations,Technical,2024-08-25,86.5,Certified
+2044,1852,Data Visualization with BI Tools,Technical,2023-07-05,89.8,Certified
+2045,1852,Cloud Architecture Fundamentals,Technical,2024-01-18,80.5,In Progress
+2046,1853,Leading Through Change,Leadership,2023-11-05,83.8,In Progress
+2047,1853,Presentation Mastery,Soft Skills,2024-07-22,76.5,Certified
+2048,1856,Anti-Bribery & Compliance,Compliance,2023-03-02,81.3,In Progress
+2049,1856,Negotiation Skills,Soft Skills,2024-05-05,87.0,Certified
+2050,1856,Effective Communication,Soft Skills,2024-06-19,76.8,Certified
+2051,1856,Advanced System Design,Technical,2023-04-29,79.2,Certified
+2052,1856,Leading Through Change,Leadership,2024-08-08,68.7,Not Certified
+2053,1857,Time Management,Soft Skills,2024-02-22,81.6,Certified
+2054,1857,Advanced System Design,Technical,2024-11-06,63.6,Not Certified
+2055,1858,Machine Learning Operations,Technical,2023-10-28,80.8,Certified
+2056,1858,Anti-Bribery & Compliance,Compliance,2024-12-11,83.1,Certified
+2057,1859,Workplace Safety,Compliance,2023-10-28,81.0,Certified
+2058,1859,Anti-Bribery & Compliance,Compliance,2023-08-24,78.7,Certified
+2059,1860,Presentation Mastery,Soft Skills,2023-09-27,78.6,Certified
+2060,1860,Coaching for Managers,Leadership,2025-03-15,88.3,In Progress
+2061,1860,Workplace Safety,Compliance,2025-03-04,92.1,Certified
+2062,1860,Anti-Bribery & Compliance,Compliance,2024-03-03,83.1,Certified
+2063,1862,Presentation Mastery,Soft Skills,2024-09-14,77.4,Certified
+2064,1863,Coaching for Managers,Leadership,2025-01-13,81.3,In Progress
+2065,1863,Workplace Safety,Compliance,2024-06-10,93.9,Certified
+2066,1863,Presentation Mastery,Soft Skills,2025-02-14,85.9,In Progress
+2067,1864,Data Privacy Essentials,Compliance,2023-07-17,80.4,Certified
+2068,1864,Advanced System Design,Technical,2025-10-01,88.4,In Progress
+2069,1865,HR Business Partnering,Leadership,2023-05-22,75.9,Certified
+2070,1866,Coaching for Managers,Leadership,2024-09-19,81.0,In Progress
+2071,1866,Machine Learning Operations,Technical,2025-06-19,86.5,Certified
+2072,1866,Workplace Safety,Compliance,2024-09-07,83.7,Certified
+2073,1866,Data Visualization with BI Tools,Technical,2025-08-24,78.0,Certified
+2074,1867,Negotiation Skills,Soft Skills,2023-12-05,76.7,Certified
+2075,1867,Cloud Architecture Fundamentals,Technical,2025-07-30,87.3,Certified
+2076,1867,Machine Learning Operations,Technical,2024-05-01,72.5,Certified
+2077,1867,Data Visualization with BI Tools,Technical,2023-05-15,85.2,In Progress
+2078,1867,HR Business Partnering,Leadership,2023-02-28,89.4,Certified
+2079,1868,Data Visualization with BI Tools,Technical,2024-03-28,72.7,Certified
+2080,1868,Coaching for Managers,Leadership,2024-10-24,95.0,Certified
+2081,1869,Machine Learning Operations,Technical,2024-04-11,80.7,In Progress
+2082,1869,Time Management,Soft Skills,2025-09-04,87.7,In Progress
+2083,1869,Advanced System Design,Technical,2025-04-03,75.3,Certified
+2084,1870,Effective Communication,Soft Skills,2025-01-06,88.3,Certified
+2085,1870,Negotiation Skills,Soft Skills,2024-05-05,88.1,In Progress
+2086,1870,Data Visualization with BI Tools,Technical,2024-04-24,80.1,Certified
+2087,1872,Leading Through Change,Leadership,2025-04-08,83.9,Certified
+2088,1872,Presentation Mastery,Soft Skills,2023-01-31,71.6,Certified
+2089,1873,HR Business Partnering,Leadership,2025-07-12,86.7,Certified
+2090,1873,Leading Through Change,Leadership,2023-07-28,82.7,Certified
+2091,1873,Presentation Mastery,Soft Skills,2024-01-22,69.8,Not Certified
+2092,1873,Negotiation Skills,Soft Skills,2024-02-18,77.2,In Progress
+2093,1874,Machine Learning Operations,Technical,2025-05-11,74.9,In Progress
+2094,1874,Data Visualization with BI Tools,Technical,2024-09-08,88.0,In Progress
+2095,1874,Negotiation Skills,Soft Skills,2024-06-14,88.7,In Progress
+2096,1875,Workplace Safety,Compliance,2023-05-06,75.0,Certified
+2097,1875,Machine Learning Operations,Technical,2025-02-02,76.3,Certified
+2098,1876,Workplace Safety,Compliance,2024-12-04,80.6,Certified
+2099,1876,HR Business Partnering,Leadership,2023-10-13,80.7,In Progress
+2100,1876,Presentation Mastery,Soft Skills,2024-04-14,88.5,Certified
+2101,1878,HR Business Partnering,Leadership,2024-07-28,80.2,In Progress
+2102,1879,Advanced System Design,Technical,2023-09-16,94.7,Certified
+2103,1879,Workplace Safety,Compliance,2023-10-11,70.8,In Progress
+2104,1880,Anti-Bribery & Compliance,Compliance,2025-08-11,84.9,Certified
+2105,1880,Leading Through Change,Leadership,2024-04-04,81.8,Certified
+2106,1880,Machine Learning Operations,Technical,2024-07-26,96.3,Certified
+2107,1880,Workplace Safety,Compliance,2024-02-28,83.9,Certified
+2108,1880,Data Visualization with BI Tools,Technical,2024-11-23,81.3,Certified
+2109,1881,Data Privacy Essentials,Compliance,2024-01-02,73.1,In Progress
+2110,1881,Negotiation Skills,Soft Skills,2023-04-19,82.3,Certified
+2111,1881,Time Management,Soft Skills,2025-05-08,86.2,Certified
+2112,1881,Leading Through Change,Leadership,2023-11-27,92.9,Certified
+2113,1881,Presentation Mastery,Soft Skills,2024-12-09,66.7,In Progress
+2114,1882,Time Management,Soft Skills,2025-02-20,94.1,Certified
+2115,1882,Negotiation Skills,Soft Skills,2024-06-15,95.8,Certified
+2116,1882,Coaching for Managers,Leadership,2023-07-05,80.5,In Progress
+2117,1882,Data Visualization with BI Tools,Technical,2023-03-13,71.2,In Progress
+2118,1883,Data Visualization with BI Tools,Technical,2025-02-22,89.2,Certified
+2119,1883,Time Management,Soft Skills,2023-09-05,76.9,Certified
+2120,1885,Effective Communication,Soft Skills,2023-05-13,79.9,In Progress
+2121,1886,Presentation Mastery,Soft Skills,2024-02-17,75.2,Certified
+2122,1886,Workplace Safety,Compliance,2024-01-11,81.3,In Progress
+2123,1887,HR Business Partnering,Leadership,2023-11-01,88.8,In Progress
+2124,1887,Workplace Safety,Compliance,2025-09-13,83.3,Certified
+2125,1887,Anti-Bribery & Compliance,Compliance,2025-09-15,87.8,Certified
+2126,1887,Effective Communication,Soft Skills,2023-10-22,80.3,Certified
+2127,1888,Machine Learning Operations,Technical,2025-07-15,77.5,Certified
+2128,1889,Advanced System Design,Technical,2025-06-03,75.6,Certified
+2129,1889,Machine Learning Operations,Technical,2025-07-28,76.1,Certified
+2130,1891,Data Privacy Essentials,Compliance,2025-03-19,80.8,Certified
+2131,1891,Advanced System Design,Technical,2023-12-30,79.8,Certified
+2132,1892,Coaching for Managers,Leadership,2023-01-27,77.8,Certified
+2133,1893,Leading Through Change,Leadership,2024-09-05,75.2,In Progress
+2134,1895,Workplace Safety,Compliance,2023-05-17,87.0,Certified
+2135,1895,Cloud Architecture Fundamentals,Technical,2025-07-02,82.5,Certified
+2136,1895,Data Visualization with BI Tools,Technical,2025-08-08,80.7,Certified
+2137,1895,Effective Communication,Soft Skills,2024-12-12,78.6,Certified
+2138,1895,Machine Learning Operations,Technical,2024-04-18,90.1,Certified
+2139,1896,Coaching for Managers,Leadership,2025-04-13,79.1,In Progress
+2140,1896,Machine Learning Operations,Technical,2025-04-03,78.0,Certified
+2141,1897,Data Visualization with BI Tools,Technical,2025-07-15,86.1,Certified
+2142,1898,Machine Learning Operations,Technical,2023-09-20,74.5,Certified
+2143,1899,Anti-Bribery & Compliance,Compliance,2025-06-24,69.2,Not Certified
+2144,1899,Coaching for Managers,Leadership,2023-02-24,89.7,Certified
+2145,1899,Time Management,Soft Skills,2023-08-07,81.2,Certified
+2146,1899,Machine Learning Operations,Technical,2024-07-01,75.5,Certified
+2147,1900,Negotiation Skills,Soft Skills,2024-11-15,99.0,Certified
+2148,1900,Presentation Mastery,Soft Skills,2024-10-15,72.6,Certified
+2149,1901,Presentation Mastery,Soft Skills,2024-01-14,84.7,In Progress
+2150,1901,Cloud Architecture Fundamentals,Technical,2023-10-16,93.0,Certified
+2151,1902,Machine Learning Operations,Technical,2025-02-18,88.0,Certified
+2152,1902,Cloud Architecture Fundamentals,Technical,2025-01-25,68.9,In Progress
+2153,1903,Anti-Bribery & Compliance,Compliance,2024-12-23,81.2,Certified
+2154,1903,Negotiation Skills,Soft Skills,2025-07-03,84.5,Certified
+2155,1903,Cloud Architecture Fundamentals,Technical,2023-08-06,80.3,Certified
+2156,1903,Coaching for Managers,Leadership,2025-06-16,87.2,Certified
+2157,1903,HR Business Partnering,Leadership,2023-12-18,84.5,Certified
+2158,1904,Presentation Mastery,Soft Skills,2025-04-05,76.3,In Progress
+2159,1904,Coaching for Managers,Leadership,2025-05-05,82.0,Certified
+2160,1904,Cloud Architecture Fundamentals,Technical,2025-03-11,81.5,Certified
+2161,1905,Data Privacy Essentials,Compliance,2025-03-04,85.4,Certified
+2162,1905,HR Business Partnering,Leadership,2024-04-19,77.1,Certified
+2163,1905,Effective Communication,Soft Skills,2023-01-19,76.8,Certified
+2164,1905,Anti-Bribery & Compliance,Compliance,2024-12-16,72.2,Certified
+2165,1905,Leading Through Change,Leadership,2024-11-16,93.9,Certified
+2166,1906,Time Management,Soft Skills,2024-11-18,70.4,Certified
+2167,1907,Time Management,Soft Skills,2024-11-08,87.5,Certified
+2168,1907,HR Business Partnering,Leadership,2023-04-22,87.9,In Progress
+2169,1907,Coaching for Managers,Leadership,2025-02-28,98.0,Certified
+2170,1907,Leading Through Change,Leadership,2023-08-12,93.0,In Progress
+2171,1907,Machine Learning Operations,Technical,2025-03-20,79.0,Certified
+2172,1909,Data Privacy Essentials,Compliance,2024-01-23,78.4,Certified
+2173,1910,Time Management,Soft Skills,2024-07-14,83.3,Certified
+2174,1910,Workplace Safety,Compliance,2024-12-05,75.8,Certified
+2175,1911,Negotiation Skills,Soft Skills,2023-04-21,99.0,Certified
+2176,1911,Advanced System Design,Technical,2025-08-14,91.1,Certified
+2177,1912,Anti-Bribery & Compliance,Compliance,2024-08-18,87.4,Certified
+2178,1912,Data Privacy Essentials,Compliance,2025-05-19,77.0,Certified
+2179,1912,Presentation Mastery,Soft Skills,2025-08-26,95.1,Certified
+2180,1912,Data Visualization with BI Tools,Technical,2025-02-02,85.2,Certified
+2181,1912,Advanced System Design,Technical,2023-01-26,70.2,Certified
+2182,1913,Negotiation Skills,Soft Skills,2025-08-19,70.5,Certified
+2183,1913,Leading Through Change,Leadership,2025-06-28,99.0,Certified
+2184,1913,Effective Communication,Soft Skills,2024-09-13,71.1,Certified
+2185,1913,Time Management,Soft Skills,2025-01-20,74.1,Certified
+2186,1914,Data Privacy Essentials,Compliance,2024-09-08,82.1,Certified
+2187,1914,Effective Communication,Soft Skills,2023-01-31,76.2,Certified
+2188,1914,Data Visualization with BI Tools,Technical,2023-03-23,78.8,Certified
+2189,1914,Time Management,Soft Skills,2025-02-19,91.3,Certified
+2190,1914,Workplace Safety,Compliance,2024-07-14,80.3,In Progress
+2191,1915,Cloud Architecture Fundamentals,Technical,2024-11-26,95.9,Certified
+2192,1915,Time Management,Soft Skills,2024-05-08,69.1,In Progress
+2193,1916,Presentation Mastery,Soft Skills,2024-06-14,84.9,In Progress
+2194,1917,Negotiation Skills,Soft Skills,2024-07-28,76.8,Certified
+2195,1918,Coaching for Managers,Leadership,2024-02-18,72.2,Certified
+2196,1918,Leading Through Change,Leadership,2025-05-02,69.6,Not Certified
+2197,1918,Negotiation Skills,Soft Skills,2023-06-11,75.7,In Progress
+2198,1920,Negotiation Skills,Soft Skills,2023-01-04,84.0,In Progress
+2199,1920,Effective Communication,Soft Skills,2023-04-12,96.0,In Progress
+2200,1920,Coaching for Managers,Leadership,2024-01-01,71.3,In Progress
+2201,1921,Presentation Mastery,Soft Skills,2024-11-11,91.9,Certified
+2202,1921,Leading Through Change,Leadership,2023-02-05,85.5,Certified
+2203,1922,Negotiation Skills,Soft Skills,2025-06-26,89.8,Certified
+2204,1922,Cloud Architecture Fundamentals,Technical,2025-10-01,84.3,In Progress
+2205,1923,Workplace Safety,Compliance,2025-07-30,90.0,Certified
+2206,1924,Anti-Bribery & Compliance,Compliance,2024-09-20,83.1,Certified
+2207,1924,Presentation Mastery,Soft Skills,2025-04-24,84.2,Certified
+2208,1925,HR Business Partnering,Leadership,2024-10-12,86.0,Certified
+2209,1925,Advanced System Design,Technical,2023-05-04,89.4,Certified
+2210,1925,Negotiation Skills,Soft Skills,2023-07-05,87.5,Certified
+2211,1925,Anti-Bribery & Compliance,Compliance,2024-05-15,86.9,In Progress
+2212,1926,Workplace Safety,Compliance,2025-08-08,83.9,Certified
+2213,1926,Negotiation Skills,Soft Skills,2024-03-01,88.0,In Progress
+2214,1926,Time Management,Soft Skills,2023-10-09,88.0,In Progress
+2215,1926,Machine Learning Operations,Technical,2024-12-12,57.6,In Progress
+2216,1926,Coaching for Managers,Leadership,2023-12-21,84.6,Certified
+2217,1927,Leading Through Change,Leadership,2024-07-10,78.2,Certified
+2218,1928,Negotiation Skills,Soft Skills,2023-01-12,84.1,Certified
+2219,1929,Machine Learning Operations,Technical,2023-07-02,96.0,Certified
+2220,1929,Effective Communication,Soft Skills,2023-12-05,89.7,Certified
+2221,1929,Coaching for Managers,Leadership,2023-03-02,87.7,Certified
+2222,1930,Anti-Bribery & Compliance,Compliance,2024-12-29,90.7,In Progress
+2223,1930,HR Business Partnering,Leadership,2024-07-17,80.2,Certified
+2224,1930,Machine Learning Operations,Technical,2023-01-25,76.8,In Progress
+2225,1930,Coaching for Managers,Leadership,2023-04-09,83.5,Certified
+2226,1931,Cloud Architecture Fundamentals,Technical,2025-05-21,77.7,Certified
+2227,1931,Data Visualization with BI Tools,Technical,2023-10-15,89.8,Certified
+2228,1932,Advanced System Design,Technical,2025-03-20,81.6,Certified
+2229,1932,Coaching for Managers,Leadership,2024-05-18,75.3,Certified
+2230,1933,Data Privacy Essentials,Compliance,2023-05-06,87.3,Certified
+2231,1933,Presentation Mastery,Soft Skills,2023-06-14,79.8,In Progress
+2232,1933,Workplace Safety,Compliance,2024-05-30,81.4,Certified
+2233,1933,Cloud Architecture Fundamentals,Technical,2025-01-13,77.2,Certified
+2234,1933,Machine Learning Operations,Technical,2024-11-02,74.4,Certified
+2235,1936,Coaching for Managers,Leadership,2025-01-27,66.2,In Progress
+2236,1936,HR Business Partnering,Leadership,2024-07-06,85.5,Certified
+2237,1937,Anti-Bribery & Compliance,Compliance,2025-04-04,80.4,Certified
+2238,1937,Time Management,Soft Skills,2024-02-13,82.5,Certified
+2239,1937,Leading Through Change,Leadership,2024-10-10,70.8,Certified
+2240,1938,Effective Communication,Soft Skills,2025-05-03,70.3,Certified
+2241,1938,HR Business Partnering,Leadership,2025-01-30,96.6,Certified
+2242,1938,Anti-Bribery & Compliance,Compliance,2024-06-25,79.5,In Progress
+2243,1939,Effective Communication,Soft Skills,2025-02-28,86.2,Certified
+2244,1942,Data Visualization with BI Tools,Technical,2025-06-17,76.5,Certified
+2245,1942,Presentation Mastery,Soft Skills,2023-01-27,83.5,Certified
+2246,1943,Presentation Mastery,Soft Skills,2024-02-07,88.1,Certified
+2247,1943,Advanced System Design,Technical,2023-09-26,90.6,Certified
+2248,1943,Time Management,Soft Skills,2023-12-22,79.4,In Progress
+2249,1943,Effective Communication,Soft Skills,2025-04-04,85.7,In Progress
+2250,1944,Effective Communication,Soft Skills,2025-08-29,94.0,Certified
+2251,1945,Data Privacy Essentials,Compliance,2025-04-19,80.0,Certified
+2252,1945,Cloud Architecture Fundamentals,Technical,2023-02-23,85.1,Certified
+2253,1946,Time Management,Soft Skills,2025-03-31,79.2,In Progress
+2254,1947,Coaching for Managers,Leadership,2025-03-12,85.9,Certified
+2255,1947,Data Visualization with BI Tools,Technical,2024-07-02,98.9,Certified
+2256,1947,Negotiation Skills,Soft Skills,2025-06-20,76.0,In Progress
+2257,1947,Time Management,Soft Skills,2024-05-29,80.7,Certified
+2258,1947,Advanced System Design,Technical,2023-11-06,78.4,Certified
+2259,1948,Data Visualization with BI Tools,Technical,2025-08-02,76.4,In Progress
+2260,1948,Advanced System Design,Technical,2023-05-10,86.2,In Progress
+2261,1950,Machine Learning Operations,Technical,2024-08-01,79.2,Certified
+2262,1951,Machine Learning Operations,Technical,2024-03-01,72.8,In Progress
+2263,1951,Negotiation Skills,Soft Skills,2023-05-12,99.0,Certified
+2264,1953,Coaching for Managers,Leadership,2023-07-26,69.3,In Progress
+2265,1954,Anti-Bribery & Compliance,Compliance,2024-06-30,81.1,In Progress
+2266,1954,Machine Learning Operations,Technical,2024-06-22,82.3,In Progress
+2267,1954,Time Management,Soft Skills,2023-04-14,78.1,Certified
+2268,1954,Advanced System Design,Technical,2024-04-29,76.9,Certified
+2269,1955,Leading Through Change,Leadership,2023-10-26,75.1,In Progress
+2270,1955,Workplace Safety,Compliance,2023-12-18,79.8,Certified
+2271,1955,HR Business Partnering,Leadership,2024-07-05,86.2,In Progress
+2272,1955,Coaching for Managers,Leadership,2025-01-04,89.8,In Progress
+2273,1956,Time Management,Soft Skills,2024-02-02,77.6,Certified
+2274,1956,Data Visualization with BI Tools,Technical,2023-02-04,72.5,In Progress
+2275,1957,Cloud Architecture Fundamentals,Technical,2025-01-27,93.5,In Progress
+2276,1958,Machine Learning Operations,Technical,2024-12-30,80.1,Certified
+2277,1958,HR Business Partnering,Leadership,2025-03-26,80.3,In Progress
+2278,1958,Negotiation Skills,Soft Skills,2023-12-26,79.7,Certified
+2279,1958,Advanced System Design,Technical,2025-01-15,73.6,In Progress
+2280,1959,Effective Communication,Soft Skills,2023-03-01,71.2,Certified
+2281,1959,Data Visualization with BI Tools,Technical,2023-06-04,76.6,In Progress
+2282,1959,Cloud Architecture Fundamentals,Technical,2025-01-04,74.5,Certified
+2283,1960,Machine Learning Operations,Technical,2024-12-04,68.7,In Progress
+2284,1960,Effective Communication,Soft Skills,2023-08-24,97.8,Certified
+2285,1960,Presentation Mastery,Soft Skills,2023-04-04,85.2,Certified
+2286,1961,Time Management,Soft Skills,2024-03-20,73.1,Certified
+2287,1961,Negotiation Skills,Soft Skills,2023-11-25,87.2,Certified
+2288,1962,Effective Communication,Soft Skills,2024-11-08,94.0,Certified
+2289,1962,Coaching for Managers,Leadership,2025-09-20,90.3,Certified
+2290,1962,Time Management,Soft Skills,2023-12-26,66.6,Not Certified
+2291,1963,Negotiation Skills,Soft Skills,2023-09-13,80.4,In Progress
+2292,1963,Data Privacy Essentials,Compliance,2024-03-21,92.2,Certified
+2293,1963,Data Visualization with BI Tools,Technical,2024-03-29,69.9,In Progress
+2294,1963,HR Business Partnering,Leadership,2023-10-19,79.9,Certified
+2295,1963,Effective Communication,Soft Skills,2023-04-07,75.3,Certified
+2296,1964,Anti-Bribery & Compliance,Compliance,2025-03-30,82.5,Certified
+2297,1964,Coaching for Managers,Leadership,2023-01-22,69.1,Not Certified
+2298,1964,Cloud Architecture Fundamentals,Technical,2023-10-20,79.0,In Progress
+2299,1965,Cloud Architecture Fundamentals,Technical,2025-01-16,79.2,Certified
+2300,1965,Workplace Safety,Compliance,2024-06-19,78.6,Certified
+2301,1966,Workplace Safety,Compliance,2023-04-17,86.7,Certified
+2302,1966,Effective Communication,Soft Skills,2024-11-19,80.5,In Progress
+2303,1967,Effective Communication,Soft Skills,2023-09-29,73.4,Certified
+2304,1968,Cloud Architecture Fundamentals,Technical,2024-03-24,76.6,Certified
+2305,1968,Coaching for Managers,Leadership,2025-06-01,76.6,Certified
+2306,1969,Leading Through Change,Leadership,2024-02-07,82.8,In Progress
+2307,1969,Data Privacy Essentials,Compliance,2023-09-20,87.6,Certified
+2308,1969,Machine Learning Operations,Technical,2024-09-29,81.4,Certified
+2309,1969,Cloud Architecture Fundamentals,Technical,2023-09-25,67.0,In Progress
+2310,1969,Time Management,Soft Skills,2024-03-11,87.7,In Progress
+2311,1970,Cloud Architecture Fundamentals,Technical,2024-06-12,87.6,In Progress
+2312,1970,Time Management,Soft Skills,2025-08-20,87.9,Certified
+2313,1971,Coaching for Managers,Leadership,2023-09-11,78.9,Certified
+2314,1971,Workplace Safety,Compliance,2024-12-05,82.5,Certified
+2315,1971,Cloud Architecture Fundamentals,Technical,2023-12-02,75.8,Certified
+2316,1971,Machine Learning Operations,Technical,2024-10-19,72.6,Certified
+2317,1972,Effective Communication,Soft Skills,2023-12-29,82.5,Certified
+2318,1972,Negotiation Skills,Soft Skills,2023-09-24,81.2,In Progress
+2319,1973,Effective Communication,Soft Skills,2024-06-14,73.7,In Progress
+2320,1973,Data Privacy Essentials,Compliance,2023-04-28,82.8,Certified
+2321,1973,Advanced System Design,Technical,2023-07-03,83.8,Certified
+2322,1974,Advanced System Design,Technical,2023-07-21,93.7,Certified
+2323,1974,Anti-Bribery & Compliance,Compliance,2024-10-14,78.1,Certified
+2324,1975,Time Management,Soft Skills,2025-04-25,87.3,Certified
+2325,1975,Cloud Architecture Fundamentals,Technical,2024-02-01,94.9,Certified
+2326,1975,HR Business Partnering,Leadership,2024-11-10,78.1,Certified
+2327,1975,Leading Through Change,Leadership,2023-11-13,84.8,Certified
+2328,1975,Presentation Mastery,Soft Skills,2024-05-13,89.1,Certified
+2329,1976,Presentation Mastery,Soft Skills,2023-04-12,80.6,Certified
+2330,1976,Leading Through Change,Leadership,2024-10-22,85.5,Certified
+2331,1977,Negotiation Skills,Soft Skills,2025-06-04,91.7,In Progress
+2332,1977,Machine Learning Operations,Technical,2024-08-04,89.0,Certified
+2333,1977,Advanced System Design,Technical,2024-10-06,74.3,Certified
+2334,1977,Presentation Mastery,Soft Skills,2025-04-28,72.6,Certified
+2335,1978,Presentation Mastery,Soft Skills,2023-10-16,88.5,Certified
+2336,1978,Negotiation Skills,Soft Skills,2024-11-21,79.5,Certified
+2337,1978,Data Visualization with BI Tools,Technical,2023-05-19,89.2,Certified
+2338,1979,Anti-Bribery & Compliance,Compliance,2024-10-24,87.2,In Progress
+2339,1979,Effective Communication,Soft Skills,2025-05-03,74.7,Certified
+2340,1979,Machine Learning Operations,Technical,2024-11-28,81.9,Certified
+2341,1979,Leading Through Change,Leadership,2023-01-15,75.9,Certified
+2342,1980,Advanced System Design,Technical,2023-06-20,83.9,Certified
+2343,1980,Negotiation Skills,Soft Skills,2023-09-25,79.8,In Progress
+2344,1980,Data Visualization with BI Tools,Technical,2024-09-11,81.0,Certified
+2345,1980,Presentation Mastery,Soft Skills,2023-02-03,76.1,Certified
+2346,1980,Data Privacy Essentials,Compliance,2024-12-12,76.6,Certified
+2347,1981,Anti-Bribery & Compliance,Compliance,2024-07-22,75.5,Certified
+2348,1981,Coaching for Managers,Leadership,2025-09-16,95.4,In Progress
+2349,1981,HR Business Partnering,Leadership,2023-09-01,82.9,Certified
+2350,1982,Coaching for Managers,Leadership,2024-02-28,83.0,Certified
+2351,1982,Leading Through Change,Leadership,2024-01-09,83.3,Certified
+2352,1982,Presentation Mastery,Soft Skills,2024-11-16,82.4,Certified
+2353,1983,Presentation Mastery,Soft Skills,2023-01-01,94.4,Certified
+2354,1983,Data Privacy Essentials,Compliance,2025-08-08,83.1,Certified
+2355,1983,Time Management,Soft Skills,2025-06-05,85.4,In Progress
+2356,1983,Effective Communication,Soft Skills,2024-10-06,91.4,In Progress
+2357,1984,Effective Communication,Soft Skills,2025-07-19,75.7,Certified
+2358,1985,Data Visualization with BI Tools,Technical,2025-05-29,72.7,Certified
+2359,1985,Advanced System Design,Technical,2024-08-07,65.5,In Progress
+2360,1985,Anti-Bribery & Compliance,Compliance,2025-08-20,77.5,Certified
+2361,1985,Machine Learning Operations,Technical,2024-01-23,90.2,In Progress
+2362,1986,Coaching for Managers,Leadership,2023-12-23,96.1,Certified
+2363,1986,Cloud Architecture Fundamentals,Technical,2024-04-01,89.3,Certified
+2364,1986,Machine Learning Operations,Technical,2025-05-08,72.1,Certified
+2365,1986,Leading Through Change,Leadership,2025-01-21,85.0,In Progress
+2366,1986,HR Business Partnering,Leadership,2024-09-26,65.3,Not Certified
+2367,1987,Presentation Mastery,Soft Skills,2024-11-09,76.7,Certified
+2368,1987,Effective Communication,Soft Skills,2023-08-10,95.9,In Progress
+2369,1987,Workplace Safety,Compliance,2023-11-10,75.2,Certified
+2370,1988,Effective Communication,Soft Skills,2024-10-22,93.9,In Progress
+2371,1988,Coaching for Managers,Leadership,2024-09-15,75.8,Certified
+2372,1988,Data Visualization with BI Tools,Technical,2023-02-24,72.8,Certified
+2373,1989,Time Management,Soft Skills,2025-05-19,82.8,Certified
+2374,1989,Presentation Mastery,Soft Skills,2024-04-11,87.9,Certified
+2375,1989,Effective Communication,Soft Skills,2023-09-26,84.6,Certified
+2376,1990,Data Visualization with BI Tools,Technical,2025-06-27,78.3,Certified
+2377,1990,Negotiation Skills,Soft Skills,2023-12-25,71.2,Certified
+2378,1991,Data Privacy Essentials,Compliance,2023-08-01,86.7,Certified
+2379,1991,Anti-Bribery & Compliance,Compliance,2023-03-30,93.3,In Progress
+2380,1992,Workplace Safety,Compliance,2025-10-01,83.3,Certified
+2381,1993,Negotiation Skills,Soft Skills,2024-10-29,72.7,Certified
+2382,1993,Workplace Safety,Compliance,2023-07-11,86.5,Certified
+2383,1993,HR Business Partnering,Leadership,2023-10-09,68.4,Not Certified
+2384,1993,Machine Learning Operations,Technical,2025-05-21,85.1,Certified
+2385,1994,Data Privacy Essentials,Compliance,2024-04-29,84.7,Certified
+2386,1995,Data Privacy Essentials,Compliance,2024-07-02,83.5,Certified
+2387,1995,HR Business Partnering,Leadership,2023-02-13,81.5,Certified
+2388,1995,Leading Through Change,Leadership,2024-08-13,75.7,Certified
+2389,1996,Coaching for Managers,Leadership,2025-09-30,89.3,Certified
+2390,1996,Cloud Architecture Fundamentals,Technical,2024-11-03,80.6,In Progress
+2391,1996,Data Privacy Essentials,Compliance,2024-07-24,82.7,Certified
+2392,1996,Effective Communication,Soft Skills,2023-12-31,83.5,Certified
+2393,1997,Advanced System Design,Technical,2025-09-14,73.5,Certified
+2394,1997,Machine Learning Operations,Technical,2024-04-02,78.0,Certified
+2395,1998,Cloud Architecture Fundamentals,Technical,2025-04-18,85.5,Certified
+2396,1998,Negotiation Skills,Soft Skills,2025-06-13,79.7,Certified
+2397,1999,Data Privacy Essentials,Compliance,2023-01-02,79.6,Certified
+2398,1999,Advanced System Design,Technical,2023-12-14,76.2,Certified
+2399,1999,Effective Communication,Soft Skills,2025-03-10,78.5,Certified
+2400,2000,Presentation Mastery,Soft Skills,2023-10-07,72.3,Certified

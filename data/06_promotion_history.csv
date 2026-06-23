@@ -1,0 +1,383 @@
+promotion_id,employee_id,previous_job_level,new_job_level,promotion_date,promotion_reason
+1,1001,Mid,Senior,2023-08-30,Outstanding business results two years running
+2,1003,Mid,Senior,2023-01-14,Recognized leadership and mentorship
+3,1006,Mid,Senior,2018-11-12,Consistent high KPI and technical leadership
+4,1007,Junior,Mid,2013-03-06,Promoted to lead expanding team
+5,1009,Senior,Manager,2024-09-21,Outstanding business results two years running
+6,1010,Mid,Senior,2017-08-27,Outstanding business results two years running
+7,1011,Junior,Mid,2022-09-16,Outstanding business results two years running
+8,1015,Mid,Senior,2024-08-11,Recognized leadership and mentorship
+9,1019,Mid,Senior,2019-09-02,Strong delivery and ownership of strategic projects
+10,1021,Senior,Manager,2021-06-19,Demonstrated readiness during stretch assignment
+11,1023,Senior,Manager,2022-01-27,Demonstrated readiness during stretch assignment
+12,1024,Junior,Mid,2025-04-25,Consistent high KPI and technical leadership
+13,1025,Senior,Manager,2019-09-05,Demonstrated readiness during stretch assignment
+14,1029,Junior,Mid,2020-11-22,Strong delivery and ownership of strategic projects
+15,1033,Senior,Manager,2025-01-09,Demonstrated readiness during stretch assignment
+16,1035,Senior,Manager,2021-12-17,Consistent high KPI and technical leadership
+17,1036,Senior,Manager,2024-11-21,Promoted to lead expanding team
+18,1047,Junior,Mid,2024-03-04,Demonstrated readiness during stretch assignment
+19,1051,Senior,Manager,2022-02-11,Consistent high KPI and technical leadership
+20,1054,Mid,Senior,2023-06-18,Outstanding business results two years running
+21,1055,Mid,Senior,2020-08-12,Outstanding business results two years running
+22,1056,Junior,Mid,2021-11-16,Outstanding business results two years running
+23,1058,Junior,Mid,2021-02-16,Promoted to lead expanding team
+24,1062,Junior,Mid,2024-02-07,Consistent high KPI and technical leadership
+25,1064,Junior,Mid,2024-12-24,Consistent high KPI and technical leadership
+26,1065,Junior,Mid,2023-10-07,Demonstrated readiness during stretch assignment
+27,1068,Senior,Manager,2021-06-08,Strong delivery and ownership of strategic projects
+28,1071,Senior,Manager,2020-09-11,Outstanding business results two years running
+29,1072,Mid,Senior,2019-02-15,Consistent high KPI and technical leadership
+30,1074,Junior,Mid,2024-07-07,Promoted to lead expanding team
+31,1075,Senior,Manager,2021-05-07,Promoted to lead expanding team
+32,1081,Senior,Manager,2024-10-23,Strong delivery and ownership of strategic projects
+33,1088,Junior,Mid,2024-04-30,Strong delivery and ownership of strategic projects
+34,1089,Senior,Manager,2025-01-05,Strong delivery and ownership of strategic projects
+35,1091,Junior,Mid,2023-02-16,Recognized leadership and mentorship
+36,1094,Junior,Mid,2023-09-03,Outstanding business results two years running
+37,1099,Mid,Senior,2019-02-01,Consistent high KPI and technical leadership
+38,1100,Senior,Manager,2022-07-29,Demonstrated readiness during stretch assignment
+39,1103,Mid,Senior,2023-09-26,Promoted to lead expanding team
+40,1104,Junior,Mid,2019-05-11,Demonstrated readiness during stretch assignment
+41,1106,Junior,Mid,2022-07-29,Outstanding business results two years running
+42,1108,Junior,Mid,2023-09-26,Promoted to lead expanding team
+43,1112,Junior,Mid,2025-07-18,Promoted to lead expanding team
+44,1115,Junior,Mid,2024-02-06,Consistent high KPI and technical leadership
+45,1118,Mid,Senior,2019-12-05,Strong delivery and ownership of strategic projects
+46,1120,Junior,Mid,2024-07-22,Strong delivery and ownership of strategic projects
+47,1125,Junior,Mid,2024-10-28,Strong delivery and ownership of strategic projects
+48,1129,Junior,Mid,2025-04-14,Promoted to lead expanding team
+49,1130,Senior,Manager,2024-08-24,Promoted to lead expanding team
+50,1135,Mid,Senior,2023-03-16,Outstanding business results two years running
+51,1137,Mid,Senior,2023-03-27,Consistent high KPI and technical leadership
+52,1139,Senior,Manager,2017-06-18,Recognized leadership and mentorship
+53,1141,Junior,Mid,2021-05-05,Strong delivery and ownership of strategic projects
+54,1142,Senior,Manager,2020-01-05,Consistent high KPI and technical leadership
+55,1149,Junior,Mid,2024-12-24,Outstanding business results two years running
+56,1157,Senior,Manager,2020-12-24,Outstanding business results two years running
+57,1159,Junior,Mid,2024-08-16,Outstanding business results two years running
+58,1160,Mid,Senior,2025-02-21,Outstanding business results two years running
+59,1161,Junior,Mid,2024-04-09,Recognized leadership and mentorship
+60,1170,Mid,Senior,2021-06-27,Promoted to lead expanding team
+61,1171,Junior,Mid,2023-02-04,Strong delivery and ownership of strategic projects
+62,1173,Junior,Mid,2024-10-26,Outstanding business results two years running
+63,1174,Junior,Mid,2024-01-17,Outstanding business results two years running
+64,1175,Senior,Manager,2024-04-26,Demonstrated readiness during stretch assignment
+65,1176,Junior,Mid,2019-04-22,Demonstrated readiness during stretch assignment
+66,1178,Mid,Senior,2021-10-16,Strong delivery and ownership of strategic projects
+67,1182,Junior,Mid,2025-08-18,Strong delivery and ownership of strategic projects
+68,1184,Mid,Senior,2022-09-29,Promoted to lead expanding team
+69,1187,Mid,Senior,2024-12-16,Strong delivery and ownership of strategic projects
+70,1188,Senior,Manager,2023-02-12,Consistent high KPI and technical leadership
+71,1193,Mid,Senior,2022-08-05,Consistent high KPI and technical leadership
+72,1194,Junior,Mid,2025-07-02,Demonstrated readiness during stretch assignment
+73,1197,Senior,Manager,2020-03-22,Promoted to lead expanding team
+74,1198,Senior,Manager,2024-08-02,Outstanding business results two years running
+75,1200,Junior,Mid,2025-02-04,Consistent high KPI and technical leadership
+76,1201,Mid,Senior,2023-08-06,Recognized leadership and mentorship
+77,1202,Mid,Senior,2024-11-12,Demonstrated readiness during stretch assignment
+78,1204,Junior,Mid,2023-06-10,Outstanding business results two years running
+79,1205,Junior,Mid,2024-05-24,Promoted to lead expanding team
+80,1207,Junior,Mid,2025-01-04,Demonstrated readiness during stretch assignment
+81,1210,Mid,Senior,2020-01-05,Outstanding business results two years running
+82,1211,Junior,Mid,2023-09-25,Demonstrated readiness during stretch assignment
+83,1220,Junior,Mid,2023-05-20,Outstanding business results two years running
+84,1222,Junior,Mid,2024-09-21,Outstanding business results two years running
+85,1224,Junior,Mid,2024-01-03,Consistent high KPI and technical leadership
+86,1225,Mid,Senior,2024-09-21,Recognized leadership and mentorship
+87,1229,Junior,Mid,2022-02-09,Recognized leadership and mentorship
+88,1235,Junior,Mid,2024-06-07,Recognized leadership and mentorship
+89,1239,Junior,Mid,2022-09-04,Strong delivery and ownership of strategic projects
+90,1246,Senior,Manager,2021-01-18,Strong delivery and ownership of strategic projects
+91,1247,Senior,Manager,2020-01-29,Recognized leadership and mentorship
+92,1248,Junior,Mid,2017-07-27,Consistent high KPI and technical leadership
+93,1249,Senior,Manager,2022-02-12,Demonstrated readiness during stretch assignment
+94,1250,Junior,Mid,2025-03-20,Strong delivery and ownership of strategic projects
+95,1256,Senior,Manager,2023-12-11,Strong delivery and ownership of strategic projects
+96,1257,Mid,Senior,2022-03-21,Demonstrated readiness during stretch assignment
+97,1260,Junior,Mid,2020-02-20,Outstanding business results two years running
+98,1261,Senior,Manager,2022-01-15,Outstanding business results two years running
+99,1265,Senior,Manager,2020-06-29,Strong delivery and ownership of strategic projects
+100,1268,Junior,Mid,2022-03-14,Strong delivery and ownership of strategic projects
+101,1270,Junior,Mid,2024-02-11,Promoted to lead expanding team
+102,1272,Junior,Mid,2025-06-20,Consistent high KPI and technical leadership
+103,1274,Mid,Senior,2017-10-15,Promoted to lead expanding team
+104,1275,Junior,Mid,2018-06-13,Recognized leadership and mentorship
+105,1276,Junior,Mid,2023-11-04,Recognized leadership and mentorship
+106,1278,Senior,Manager,2022-12-21,Recognized leadership and mentorship
+107,1280,Junior,Mid,2023-02-10,Consistent high KPI and technical leadership
+108,1281,Junior,Mid,2024-02-03,Outstanding business results two years running
+109,1287,Mid,Senior,2023-10-06,Promoted to lead expanding team
+110,1288,Junior,Mid,2021-02-10,Outstanding business results two years running
+111,1292,Junior,Mid,2021-06-09,Demonstrated readiness during stretch assignment
+112,1294,Mid,Senior,2018-08-04,Outstanding business results two years running
+113,1299,Senior,Manager,2025-01-11,Demonstrated readiness during stretch assignment
+114,1303,Mid,Senior,2024-05-24,Recognized leadership and mentorship
+115,1307,Mid,Senior,2022-01-14,Outstanding business results two years running
+116,1308,Senior,Manager,2024-08-14,Recognized leadership and mentorship
+117,1311,Mid,Senior,2021-03-11,Promoted to lead expanding team
+118,1319,Senior,Manager,2018-11-14,Outstanding business results two years running
+119,1325,Mid,Senior,2021-07-20,Demonstrated readiness during stretch assignment
+120,1327,Mid,Senior,2023-07-02,Demonstrated readiness during stretch assignment
+121,1330,Junior,Mid,2020-10-11,Recognized leadership and mentorship
+122,1337,Senior,Manager,2019-06-01,Outstanding business results two years running
+123,1338,Junior,Mid,2024-11-20,Consistent high KPI and technical leadership
+124,1339,Junior,Mid,2024-12-04,Strong delivery and ownership of strategic projects
+125,1351,Junior,Mid,2022-09-24,Promoted to lead expanding team
+126,1352,Junior,Mid,2025-08-16,Demonstrated readiness during stretch assignment
+127,1357,Junior,Mid,2025-02-16,Outstanding business results two years running
+128,1358,Senior,Manager,2024-08-01,Consistent high KPI and technical leadership
+129,1364,Mid,Senior,2022-06-08,Demonstrated readiness during stretch assignment
+130,1365,Senior,Manager,2024-08-03,Outstanding business results two years running
+131,1366,Mid,Senior,2019-01-01,Demonstrated readiness during stretch assignment
+132,1367,Junior,Mid,2024-11-28,Strong delivery and ownership of strategic projects
+133,1370,Junior,Mid,2024-11-04,Outstanding business results two years running
+134,1371,Junior,Mid,2023-02-04,Strong delivery and ownership of strategic projects
+135,1374,Mid,Senior,2021-09-18,Recognized leadership and mentorship
+136,1375,Senior,Manager,2024-04-16,Strong delivery and ownership of strategic projects
+137,1376,Junior,Mid,2023-02-21,Consistent high KPI and technical leadership
+138,1379,Junior,Mid,2025-04-24,Outstanding business results two years running
+139,1383,Junior,Mid,2025-01-05,Promoted to lead expanding team
+140,1394,Junior,Mid,2024-01-29,Strong delivery and ownership of strategic projects
+141,1395,Junior,Mid,2025-03-19,Promoted to lead expanding team
+142,1397,Junior,Mid,2025-07-17,Recognized leadership and mentorship
+143,1399,Junior,Mid,2020-08-07,Consistent high KPI and technical leadership
+144,1405,Junior,Mid,2025-08-24,Strong delivery and ownership of strategic projects
+145,1406,Senior,Manager,2024-09-20,Demonstrated readiness during stretch assignment
+146,1408,Mid,Senior,2023-03-27,Consistent high KPI and technical leadership
+147,1410,Senior,Manager,2019-11-07,Recognized leadership and mentorship
+148,1412,Junior,Mid,2021-09-09,Promoted to lead expanding team
+149,1414,Senior,Manager,2021-05-27,Demonstrated readiness during stretch assignment
+150,1415,Junior,Mid,2019-05-26,Recognized leadership and mentorship
+151,1417,Junior,Mid,2025-03-29,Outstanding business results two years running
+152,1418,Senior,Manager,2023-02-11,Outstanding business results two years running
+153,1421,Senior,Manager,2021-09-25,Outstanding business results two years running
+154,1422,Mid,Senior,2024-02-05,Outstanding business results two years running
+155,1424,Junior,Mid,2025-05-22,Recognized leadership and mentorship
+156,1428,Mid,Senior,2021-07-15,Consistent high KPI and technical leadership
+157,1429,Junior,Mid,2025-03-30,Strong delivery and ownership of strategic projects
+158,1431,Junior,Mid,2018-02-10,Demonstrated readiness during stretch assignment
+159,1432,Junior,Mid,2025-03-29,Promoted to lead expanding team
+160,1436,Senior,Manager,2020-10-01,Outstanding business results two years running
+161,1440,Junior,Mid,2024-11-03,Consistent high KPI and technical leadership
+162,1442,Mid,Senior,2022-07-27,Strong delivery and ownership of strategic projects
+163,1444,Mid,Senior,2024-01-11,Outstanding business results two years running
+164,1445,Senior,Manager,2024-04-23,Demonstrated readiness during stretch assignment
+165,1446,Senior,Manager,2023-04-03,Recognized leadership and mentorship
+166,1447,Junior,Mid,2024-10-03,Outstanding business results two years running
+167,1448,Junior,Mid,2019-08-24,Promoted to lead expanding team
+168,1449,Junior,Mid,2020-04-22,Promoted to lead expanding team
+169,1451,Junior,Mid,2025-03-21,Demonstrated readiness during stretch assignment
+170,1452,Senior,Manager,2023-02-23,Outstanding business results two years running
+171,1457,Senior,Manager,2019-09-06,Demonstrated readiness during stretch assignment
+172,1462,Junior,Mid,2024-04-01,Consistent high KPI and technical leadership
+173,1468,Mid,Senior,2024-03-09,Outstanding business results two years running
+174,1472,Junior,Mid,2025-01-02,Demonstrated readiness during stretch assignment
+175,1473,Senior,Manager,2021-08-29,Demonstrated readiness during stretch assignment
+176,1474,Junior,Mid,2018-11-09,Consistent high KPI and technical leadership
+177,1479,Senior,Manager,2018-05-26,Strong delivery and ownership of strategic projects
+178,1480,Mid,Senior,2022-03-16,Strong delivery and ownership of strategic projects
+179,1484,Mid,Senior,2024-10-12,Promoted to lead expanding team
+180,1486,Junior,Mid,2019-01-19,Demonstrated readiness during stretch assignment
+181,1490,Junior,Mid,2018-08-23,Demonstrated readiness during stretch assignment
+182,1493,Junior,Mid,2024-12-28,Outstanding business results two years running
+183,1496,Junior,Mid,2025-01-27,Recognized leadership and mentorship
+184,1497,Senior,Manager,2023-07-11,Demonstrated readiness during stretch assignment
+185,1500,Junior,Mid,2025-02-17,Outstanding business results two years running
+186,1503,Senior,Manager,2024-06-17,Consistent high KPI and technical leadership
+187,1505,Mid,Senior,2019-09-26,Promoted to lead expanding team
+188,1510,Junior,Mid,2024-01-23,Promoted to lead expanding team
+189,1512,Mid,Senior,2020-12-28,Outstanding business results two years running
+190,1513,Junior,Mid,2025-03-29,Recognized leadership and mentorship
+191,1514,Junior,Mid,2024-03-06,Demonstrated readiness during stretch assignment
+192,1521,Junior,Mid,2022-02-28,Outstanding business results two years running
+193,1522,Junior,Mid,2023-02-23,Demonstrated readiness during stretch assignment
+194,1523,Senior,Manager,2019-09-14,Consistent high KPI and technical leadership
+195,1524,Junior,Mid,2024-12-29,Outstanding business results two years running
+196,1527,Senior,Manager,2024-01-27,Outstanding business results two years running
+197,1528,Junior,Mid,2024-10-26,Demonstrated readiness during stretch assignment
+198,1529,Senior,Manager,2024-10-01,Recognized leadership and mentorship
+199,1535,Junior,Mid,2024-03-25,Demonstrated readiness during stretch assignment
+200,1537,Junior,Mid,2024-12-15,Recognized leadership and mentorship
+201,1538,Junior,Mid,2022-04-07,Consistent high KPI and technical leadership
+202,1543,Junior,Mid,2019-07-22,Demonstrated readiness during stretch assignment
+203,1546,Senior,Manager,2023-02-09,Outstanding business results two years running
+204,1547,Senior,Manager,2024-12-02,Recognized leadership and mentorship
+205,1549,Senior,Manager,2024-12-30,Consistent high KPI and technical leadership
+206,1550,Junior,Mid,2025-01-04,Strong delivery and ownership of strategic projects
+207,1552,Junior,Mid,2023-03-10,Strong delivery and ownership of strategic projects
+208,1555,Senior,Manager,2021-09-02,Recognized leadership and mentorship
+209,1557,Junior,Mid,2024-10-10,Strong delivery and ownership of strategic projects
+210,1561,Mid,Senior,2021-02-25,Recognized leadership and mentorship
+211,1564,Junior,Mid,2025-05-17,Promoted to lead expanding team
+212,1572,Senior,Manager,2023-10-11,Strong delivery and ownership of strategic projects
+213,1573,Mid,Senior,2024-01-19,Recognized leadership and mentorship
+214,1575,Senior,Manager,2016-02-19,Outstanding business results two years running
+215,1576,Junior,Mid,2022-03-21,Promoted to lead expanding team
+216,1578,Junior,Mid,2022-05-13,Outstanding business results two years running
+217,1579,Mid,Senior,2022-07-17,Strong delivery and ownership of strategic projects
+218,1582,Junior,Mid,2025-02-01,Strong delivery and ownership of strategic projects
+219,1583,Senior,Manager,2022-09-27,Recognized leadership and mentorship
+220,1588,Junior,Mid,2023-07-11,Strong delivery and ownership of strategic projects
+221,1590,Junior,Mid,2024-04-13,Demonstrated readiness during stretch assignment
+222,1595,Mid,Senior,2024-11-28,Promoted to lead expanding team
+223,1596,Senior,Manager,2020-05-22,Outstanding business results two years running
+224,1603,Mid,Senior,2023-08-13,Strong delivery and ownership of strategic projects
+225,1604,Junior,Mid,2025-01-27,Outstanding business results two years running
+226,1610,Junior,Mid,2021-09-09,Demonstrated readiness during stretch assignment
+227,1612,Mid,Senior,2024-09-20,Outstanding business results two years running
+228,1616,Mid,Senior,2025-01-06,Outstanding business results two years running
+229,1618,Junior,Mid,2023-11-10,Outstanding business results two years running
+230,1620,Mid,Senior,2018-11-17,Promoted to lead expanding team
+231,1622,Senior,Manager,2024-04-14,Outstanding business results two years running
+232,1629,Mid,Senior,2022-06-15,Recognized leadership and mentorship
+233,1634,Junior,Mid,2022-08-23,Strong delivery and ownership of strategic projects
+234,1639,Junior,Mid,2022-05-17,Promoted to lead expanding team
+235,1640,Senior,Manager,2025-02-07,Outstanding business results two years running
+236,1641,Senior,Manager,2021-11-07,Strong delivery and ownership of strategic projects
+237,1642,Senior,Manager,2022-06-07,Strong delivery and ownership of strategic projects
+238,1643,Junior,Mid,2024-12-06,Strong delivery and ownership of strategic projects
+239,1645,Junior,Mid,2024-11-26,Strong delivery and ownership of strategic projects
+240,1646,Junior,Mid,2024-06-07,Recognized leadership and mentorship
+241,1654,Mid,Senior,2022-03-30,Consistent high KPI and technical leadership
+242,1656,Senior,Manager,2020-12-30,Demonstrated readiness during stretch assignment
+243,1661,Mid,Senior,2022-11-18,Outstanding business results two years running
+244,1663,Junior,Mid,2017-07-08,Recognized leadership and mentorship
+245,1664,Mid,Senior,2025-04-08,Promoted to lead expanding team
+246,1666,Mid,Senior,2020-07-22,Outstanding business results two years running
+247,1669,Mid,Senior,2024-08-27,Promoted to lead expanding team
+248,1670,Junior,Mid,2024-12-14,Promoted to lead expanding team
+249,1671,Junior,Mid,2025-02-14,Promoted to lead expanding team
+250,1676,Junior,Mid,2025-05-23,Recognized leadership and mentorship
+251,1689,Junior,Mid,2024-11-11,Recognized leadership and mentorship
+252,1690,Junior,Mid,2025-01-15,Promoted to lead expanding team
+253,1692,Junior,Mid,2023-05-13,Demonstrated readiness during stretch assignment
+254,1693,Senior,Manager,2020-10-18,Promoted to lead expanding team
+255,1696,Junior,Mid,2024-09-30,Consistent high KPI and technical leadership
+256,1697,Senior,Manager,2023-10-16,Consistent high KPI and technical leadership
+257,1701,Junior,Mid,2023-06-14,Recognized leadership and mentorship
+258,1702,Senior,Manager,2021-04-25,Strong delivery and ownership of strategic projects
+259,1704,Senior,Manager,2023-04-09,Strong delivery and ownership of strategic projects
+260,1707,Mid,Senior,2025-03-31,Strong delivery and ownership of strategic projects
+261,1710,Senior,Manager,2023-07-03,Consistent high KPI and technical leadership
+262,1711,Mid,Senior,2022-02-28,Strong delivery and ownership of strategic projects
+263,1713,Mid,Senior,2024-03-22,Consistent high KPI and technical leadership
+264,1720,Mid,Senior,2022-11-20,Recognized leadership and mentorship
+265,1721,Junior,Mid,2023-11-16,Strong delivery and ownership of strategic projects
+266,1722,Mid,Senior,2019-04-16,Strong delivery and ownership of strategic projects
+267,1724,Junior,Mid,2025-03-28,Strong delivery and ownership of strategic projects
+268,1729,Mid,Senior,2023-05-14,Strong delivery and ownership of strategic projects
+269,1730,Mid,Senior,2018-09-05,Consistent high KPI and technical leadership
+270,1733,Junior,Mid,2023-03-07,Strong delivery and ownership of strategic projects
+271,1736,Senior,Manager,2018-08-05,Consistent high KPI and technical leadership
+272,1738,Senior,Manager,2024-06-08,Outstanding business results two years running
+273,1739,Junior,Mid,2025-08-04,Strong delivery and ownership of strategic projects
+274,1745,Mid,Senior,2024-03-31,Strong delivery and ownership of strategic projects
+275,1747,Junior,Mid,2024-09-11,Outstanding business results two years running
+276,1750,Senior,Manager,2024-04-05,Demonstrated readiness during stretch assignment
+277,1751,Senior,Manager,2022-06-12,Demonstrated readiness during stretch assignment
+278,1752,Junior,Mid,2025-02-11,Demonstrated readiness during stretch assignment
+279,1753,Junior,Mid,2024-12-24,Recognized leadership and mentorship
+280,1758,Junior,Mid,2023-10-04,Recognized leadership and mentorship
+281,1760,Mid,Senior,2022-03-16,Promoted to lead expanding team
+282,1762,Junior,Mid,2022-10-20,Consistent high KPI and technical leadership
+283,1763,Junior,Mid,2024-05-18,Recognized leadership and mentorship
+284,1765,Senior,Manager,2024-01-24,Outstanding business results two years running
+285,1768,Senior,Manager,2023-06-27,Promoted to lead expanding team
+286,1770,Junior,Mid,2023-11-22,Strong delivery and ownership of strategic projects
+287,1771,Mid,Senior,2020-05-04,Consistent high KPI and technical leadership
+288,1775,Junior,Mid,2022-07-01,Demonstrated readiness during stretch assignment
+289,1778,Senior,Manager,2024-05-20,Demonstrated readiness during stretch assignment
+290,1780,Junior,Mid,2025-02-05,Promoted to lead expanding team
+291,1781,Senior,Manager,2016-10-29,Strong delivery and ownership of strategic projects
+292,1782,Senior,Manager,2021-05-12,Demonstrated readiness during stretch assignment
+293,1785,Mid,Senior,2022-02-20,Promoted to lead expanding team
+294,1788,Mid,Senior,2020-05-15,Consistent high KPI and technical leadership
+295,1789,Junior,Mid,2020-12-28,Demonstrated readiness during stretch assignment
+296,1792,Mid,Senior,2021-10-05,Strong delivery and ownership of strategic projects
+297,1794,Junior,Mid,2024-07-30,Consistent high KPI and technical leadership
+298,1799,Senior,Manager,2016-04-26,Outstanding business results two years running
+299,1800,Junior,Mid,2023-10-15,Recognized leadership and mentorship
+300,1801,Junior,Mid,2025-04-08,Demonstrated readiness during stretch assignment
+301,1803,Junior,Mid,2024-07-07,Outstanding business results two years running
+302,1807,Senior,Manager,2025-01-07,Outstanding business results two years running
+303,1809,Mid,Senior,2018-10-11,Outstanding business results two years running
+304,1812,Mid,Senior,2024-07-21,Promoted to lead expanding team
+305,1813,Senior,Manager,2020-07-26,Promoted to lead expanding team
+306,1814,Junior,Mid,2024-03-21,Recognized leadership and mentorship
+307,1815,Mid,Senior,2019-07-15,Recognized leadership and mentorship
+308,1821,Junior,Mid,2022-07-15,Consistent high KPI and technical leadership
+309,1822,Junior,Mid,2023-05-24,Promoted to lead expanding team
+310,1829,Junior,Mid,2024-09-07,Recognized leadership and mentorship
+311,1830,Mid,Senior,2025-02-28,Recognized leadership and mentorship
+312,1832,Mid,Senior,2023-03-11,Consistent high KPI and technical leadership
+313,1833,Mid,Senior,2021-05-30,Consistent high KPI and technical leadership
+314,1835,Junior,Mid,2021-08-19,Outstanding business results two years running
+315,1836,Junior,Mid,2022-11-10,Promoted to lead expanding team
+316,1840,Senior,Manager,2018-10-25,Promoted to lead expanding team
+317,1841,Junior,Mid,2025-08-09,Outstanding business results two years running
+318,1842,Junior,Mid,2025-01-26,Promoted to lead expanding team
+319,1843,Senior,Manager,2019-06-30,Outstanding business results two years running
+320,1844,Junior,Mid,2022-10-04,Demonstrated readiness during stretch assignment
+321,1847,Junior,Mid,2020-05-25,Demonstrated readiness during stretch assignment
+322,1849,Senior,Manager,2019-12-10,Promoted to lead expanding team
+323,1850,Junior,Mid,2022-02-20,Consistent high KPI and technical leadership
+324,1851,Senior,Manager,2024-07-02,Outstanding business results two years running
+325,1852,Mid,Senior,2024-01-21,Outstanding business results two years running
+326,1853,Junior,Mid,2025-04-14,Promoted to lead expanding team
+327,1854,Mid,Senior,2021-03-30,Demonstrated readiness during stretch assignment
+328,1856,Senior,Manager,2017-11-04,Consistent high KPI and technical leadership
+329,1857,Junior,Mid,2022-07-16,Strong delivery and ownership of strategic projects
+330,1859,Senior,Manager,2016-09-11,Consistent high KPI and technical leadership
+331,1860,Senior,Manager,2022-09-14,Outstanding business results two years running
+332,1862,Mid,Senior,2022-10-20,Promoted to lead expanding team
+333,1865,Senior,Manager,2022-10-04,Consistent high KPI and technical leadership
+334,1868,Junior,Mid,2025-02-26,Demonstrated readiness during stretch assignment
+335,1873,Junior,Mid,2025-01-30,Consistent high KPI and technical leadership
+336,1875,Junior,Mid,2024-06-12,Recognized leadership and mentorship
+337,1876,Junior,Mid,2024-11-20,Outstanding business results two years running
+338,1884,Senior,Manager,2025-01-02,Demonstrated readiness during stretch assignment
+339,1885,Junior,Mid,2020-06-24,Recognized leadership and mentorship
+340,1887,Junior,Mid,2024-02-07,Consistent high KPI and technical leadership
+341,1888,Senior,Manager,2019-06-11,Demonstrated readiness during stretch assignment
+342,1890,Senior,Manager,2017-06-26,Demonstrated readiness during stretch assignment
+343,1891,Senior,Manager,2020-11-10,Consistent high KPI and technical leadership
+344,1892,Mid,Senior,2023-06-27,Recognized leadership and mentorship
+345,1895,Junior,Mid,2024-09-08,Demonstrated readiness during stretch assignment
+346,1897,Senior,Manager,2024-08-07,Promoted to lead expanding team
+347,1900,Senior,Manager,2024-08-20,Demonstrated readiness during stretch assignment
+348,1901,Junior,Mid,2022-12-11,Promoted to lead expanding team
+349,1903,Junior,Mid,2020-08-04,Outstanding business results two years running
+350,1904,Senior,Manager,2017-04-17,Outstanding business results two years running
+351,1907,Mid,Senior,2024-01-25,Strong delivery and ownership of strategic projects
+352,1912,Junior,Mid,2023-09-19,Recognized leadership and mentorship
+353,1918,Mid,Senior,2024-04-05,Outstanding business results two years running
+354,1919,Mid,Senior,2016-05-11,Outstanding business results two years running
+355,1921,Mid,Senior,2022-05-07,Strong delivery and ownership of strategic projects
+356,1923,Junior,Mid,2025-03-26,Demonstrated readiness during stretch assignment
+357,1928,Junior,Mid,2022-10-20,Promoted to lead expanding team
+358,1929,Mid,Senior,2020-06-25,Strong delivery and ownership of strategic projects
+359,1933,Junior,Mid,2024-04-27,Strong delivery and ownership of strategic projects
+360,1941,Junior,Mid,2023-03-25,Recognized leadership and mentorship
+361,1951,Mid,Senior,2024-06-16,Consistent high KPI and technical leadership
+362,1953,Junior,Mid,2023-10-03,Outstanding business results two years running
+363,1956,Junior,Mid,2020-11-18,Promoted to lead expanding team
+364,1958,Junior,Mid,2024-12-14,Promoted to lead expanding team
+365,1959,Senior,Manager,2017-02-01,Outstanding business results two years running
+366,1960,Junior,Mid,2023-11-11,Recognized leadership and mentorship
+367,1968,Mid,Senior,2024-12-01,Strong delivery and ownership of strategic projects
+368,1971,Senior,Manager,2022-02-26,Promoted to lead expanding team
+369,1972,Junior,Mid,2024-11-26,Strong delivery and ownership of strategic projects
+370,1977,Senior,Manager,2017-04-12,Strong delivery and ownership of strategic projects
+371,1986,Junior,Mid,2025-03-18,Outstanding business results two years running
+372,1988,Junior,Mid,2021-12-25,Consistent high KPI and technical leadership
+373,1989,Mid,Senior,2023-11-16,Strong delivery and ownership of strategic projects
+374,1990,Senior,Manager,2019-10-02,Strong delivery and ownership of strategic projects
+375,1991,Junior,Mid,2024-03-01,Recognized leadership and mentorship
+376,1992,Senior,Manager,2024-01-10,Strong delivery and ownership of strategic projects
+377,1993,Junior,Mid,2024-12-06,Promoted to lead expanding team
+378,1994,Junior,Mid,2018-12-24,Strong delivery and ownership of strategic projects
+379,1996,Senior,Manager,2020-01-20,Recognized leadership and mentorship
+380,1997,Mid,Senior,2019-03-13,Demonstrated readiness during stretch assignment
+381,1998,Junior,Mid,2025-03-22,Demonstrated readiness during stretch assignment
+382,2000,Senior,Manager,2024-10-22,Strong delivery and ownership of strategic projects

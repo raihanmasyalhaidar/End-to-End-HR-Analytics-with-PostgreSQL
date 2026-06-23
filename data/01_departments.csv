@@ -1,0 +1,11 @@
+department_id,department_name,division,director_name
+1,Engineering,Technology,Rangga Pratama
+2,Data & Analytics,Technology,Rangga Pratama
+3,Product,Technology,Rangga Pratama
+4,Sales,Commercial,Sari Wijaya
+5,Marketing,Commercial,Sari Wijaya
+6,Customer Success,Commercial,Sari Wijaya
+7,Finance,Corporate,Budi Santoso
+8,Human Resources,Corporate,Budi Santoso
+9,Operations,Operations,Lestari Hakim
+10,Legal & Compliance,Corporate,Budi Santoso

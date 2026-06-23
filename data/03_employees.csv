@@ -1,0 +1,1001 @@
+employee_id,full_name,gender,age,date_of_birth,marital_status,education_level,domicile_city,domicile_province,hire_date,employment_status,department_id,job_id,manager_id,work_location,employee_type
+1001,Bagas Setiawan,Male,41,1984-04-05,Married,Master,Jakarta,DKI Jakarta,2018-04-05,Active,1,3,,Jakarta HQ,Permanent
+1002,Naufal Sutanto,Male,38,1987-01-03,Married,Bachelor,Jakarta,DKI Jakarta,2012-06-14,Active,2,5,,Jakarta HQ,Permanent
+1003,Satria Hutapea,Male,44,1981-04-15,Married,Bachelor,Jakarta,DKI Jakarta,2016-08-10,Active,3,3,,Jakarta HQ,Permanent
+1004,Wahyu Sutanto,Male,43,1982-05-05,Married,Bachelor,Jakarta,DKI Jakarta,2012-05-31,Active,4,7,,Jakarta HQ,Permanent
+1005,Yuni Nasution,Female,42,1983-01-24,Married,Master,Surabaya,Jawa Timur,2015-02-25,Active,5,12,,Surabaya Office,Permanent
+1006,Leo Rahmawati,Male,51,1974-11-20,Married,Bachelor,Surabaya,Jawa Timur,2014-01-21,Active,6,14,,Surabaya Office,Permanent
+1007,Teguh Handayani,Male,51,1974-04-28,Married,Master,Bandung,Jawa Barat,2011-02-18,Active,7,10,,Bandung Office,Permanent
+1008,Kirana Iskandar,Female,43,1982-04-22,Married,Bachelor,Jakarta,DKI Jakarta,2012-12-29,Active,8,9,,Jakarta HQ,Permanent
+1009,Kurnia Salim,Male,44,1981-05-21,Married,Bachelor,Surabaya,Jawa Timur,2017-09-19,Active,9,17,,Surabaya Office,Permanent
+1010,Oki Wijaya,Male,50,1975-06-13,Married,Master,Jakarta,DKI Jakarta,2013-01-01,Active,10,18,,Jakarta HQ,Permanent
+1011,Hendra Cahyani,Male,36,1989-08-05,Married,Master,Jakarta,DKI Jakarta,2020-08-23,Active,8,9,1008,Jakarta HQ,Permanent
+1012,Farhan Anggraini,Male,27,1998-03-21,Married,Bachelor,Bekasi,Jawa Barat,2024-03-30,Active,1,2,1001,Jakarta HQ,Permanent
+1013,Karina Setiawan,Female,27,1998-02-10,Single,Bachelor,Bandung,Jawa Barat,2022-08-14,Active,9,16,1009,Bandung Office,Permanent
+1014,Ika Nasution,Female,41,1984-03-12,Married,Bachelor,Makassar,Sulawesi Selatan,2020-01-31,Active,9,17,1009,Jakarta HQ,Permanent
+1015,Putra Manurung,Male,32,1993-02-24,Married,Master,Denpasar,Bali,2015-09-30,Terminated,3,3,1003,Jakarta HQ,Permanent
+1016,Karina Santoso,Female,37,1988-05-13,Single,High School,Yogyakarta,DI Yogyakarta,2019-03-24,Active,4,8,1004,Jakarta HQ,Permanent
+1017,Reza Anggraini,Male,25,2000-02-02,Married,Bachelor,Bandung,Jawa Barat,2023-09-27,Active,4,7,1004,Bandung Office,Contract
+1018,Cantika Santoso,Female,23,2002-02-22,Married,Doctorate,Bandung,Jawa Barat,2022-05-05,Active,4,7,1004,Bandung Office,Permanent
+1019,Gita Hartono,Female,36,1989-04-18,Married,Bachelor,Bandung,Jawa Barat,2015-08-25,Active,3,3,1003,Bandung Office,Contract
+1020,Karina Nugroho,Female,23,2002-04-06,Single,High School,Bandung,Jawa Barat,2022-02-27,Active,4,7,1004,Bandung Office,Permanent
+1021,Wahyu Simanjuntak,Male,50,1975-03-07,Married,Diploma,Makassar,Sulawesi Selatan,2018-07-15,Active,9,17,1009,Jakarta HQ,Permanent
+1022,Indra Handayani,Male,24,2001-02-20,Married,High School,Bandung,Jawa Barat,2025-07-04,Active,4,7,1004,Bandung Office,Permanent
+1023,Nadia Hidayat,Female,42,1983-05-13,Single,Bachelor,Bandung,Jawa Barat,2020-06-02,Active,5,12,1005,Bandung Office,Permanent
+1024,Irfan Pangestu,Male,27,1998-04-12,Divorced,Master,Bandung,Jawa Barat,2023-08-14,Active,1,2,1001,Bandung Office,Permanent
+1025,Gita Maulana,Female,43,1982-02-04,Single,Bachelor,Jakarta,DKI Jakarta,2014-08-17,Active,5,12,1005,Jakarta HQ,Permanent
+1026,Doni Setiawan,Male,22,2003-01-11,Married,Diploma,Jakarta,DKI Jakarta,2024-06-20,Active,4,7,1004,Jakarta HQ,Contract
+1027,Zaki Sinaga,Male,30,1995-03-14,Married,Master,Jakarta,DKI Jakarta,2024-10-11,Active,6,13,1006,Jakarta HQ,Permanent
+1028,Leo Wardhana,Male,24,2001-04-28,Single,Master,Yogyakarta,DI Yogyakarta,2024-08-03,Active,2,5,1002,Remote,Contract
+1029,Wahyu Ramadhan,Male,32,1993-01-28,Married,Master,Jakarta,DKI Jakarta,2017-07-13,Active,8,9,1008,Jakarta HQ,Permanent
+1030,Eko Setiawan,Male,46,1979-11-17,Single,Bachelor,Jakarta,DKI Jakarta,2016-02-03,Active,5,12,1005,Remote,Intern
+1031,Vino Sutanto,Male,38,1987-07-19,Married,Bachelor,Jakarta,DKI Jakarta,2019-06-26,Active,1,4,1001,Jakarta HQ,Contract
+1032,Eko Sari,Male,27,1998-11-28,Married,Bachelor,Bandung,Jawa Barat,2025-06-01,Active,6,13,1006,Bandung Office,Permanent
+1033,Larasati Harahap,Female,44,1981-07-18,Married,Bachelor,Jakarta,DKI Jakarta,2022-05-31,Active,5,12,1005,Jakarta HQ,Permanent
+1034,Kirana Handayani,Female,44,1981-09-22,Single,Master,Jakarta,DKI Jakarta,2013-05-17,Active,1,4,1001,Jakarta HQ,Permanent
+1035,Elsa Salim,Female,48,1977-11-19,Single,Bachelor,Bandung,Jawa Barat,2019-04-21,Active,1,4,1001,Bandung Office,Permanent
+1036,Wahyu Siregar,Male,49,1976-01-18,Divorced,Bachelor,Bandung,Jawa Barat,2019-09-02,Active,1,4,1001,Bandung Office,Contract
+1037,Lestari Anwar,Female,28,1997-12-28,Married,Bachelor,Jakarta,DKI Jakarta,2021-03-17,Active,8,9,1008,Jakarta HQ,Permanent
+1038,Putri Setiawan,Female,27,1998-06-18,Single,Bachelor,Jakarta,DKI Jakarta,2025-08-23,Active,2,5,1002,Jakarta HQ,Permanent
+1039,Cahyo Mahendra,Male,22,2003-10-13,Married,Master,Makassar,Sulawesi Selatan,2022-10-30,Active,4,7,1004,Jakarta HQ,Permanent
+1040,Surya Sutanto,Male,29,1996-01-13,Divorced,Bachelor,Surabaya,Jawa Timur,2023-04-09,Active,6,13,1006,Surabaya Office,Contract
+1041,Doni Maulana,Male,29,1996-03-02,Married,Bachelor,Jakarta,DKI Jakarta,2023-04-22,Active,4,7,1004,Jakarta HQ,Contract
+1042,Krisna Anggraini,Male,27,1998-04-21,Single,Diploma,Surabaya,Jawa Timur,2025-10-12,Active,4,7,1004,Surabaya Office,Permanent
+1043,Rangga Iskandar,Male,24,2001-10-20,Single,Bachelor,Makassar,Sulawesi Selatan,2025-08-10,Resigned,5,11,1005,Remote,Contract
+1044,Wahyu Hartono,Male,27,1998-12-25,Married,Bachelor,Surabaya,Jawa Timur,2023-09-02,Resigned,3,2,1003,Surabaya Office,Permanent
+1045,Hesti Ramadhan,Female,28,1997-06-21,Single,Master,Bandung,Jawa Barat,2022-08-16,Active,5,11,1005,Bandung Office,Permanent
+1046,Novi Setiawan,Female,31,1994-04-27,Married,Bachelor,Yogyakarta,DI Yogyakarta,2024-06-12,Active,4,8,1004,Jakarta HQ,Permanent
+1047,Yoga Kusuma,Male,31,1994-05-20,Single,Bachelor,Bekasi,Jawa Barat,2019-06-15,Active,7,10,1007,Jakarta HQ,Permanent
+1048,Hesti Anwar,Female,38,1987-01-03,Single,Bachelor,Bandung,Jawa Barat,2020-07-12,Active,2,6,1002,Bandung Office,Permanent
+1049,Faisal Setiawan,Male,39,1986-05-08,Married,Diploma,Jakarta,DKI Jakarta,2021-07-27,Active,10,18,1010,Jakarta HQ,Permanent
+1050,Maya Rahmawati,Female,29,1996-06-06,Single,Bachelor,Tangerang,Banten,2022-10-26,Resigned,2,6,1002,Remote,Contract
+1051,Adi Manurung,Male,44,1981-08-16,Married,Master,Jakarta,DKI Jakarta,2015-05-14,Active,5,12,1005,Remote,Permanent
+1052,Mario Putri,Male,23,2002-04-04,Single,Bachelor,Surabaya,Jawa Timur,2022-07-10,Active,1,1,1001,Surabaya Office,Permanent
+1053,Gita Permana,Female,25,2000-05-22,Single,Bachelor,Jakarta,DKI Jakarta,2025-08-13,Active,4,7,1004,Jakarta HQ,Permanent
+1054,Winda Salim,Female,32,1993-11-08,Married,Master,Bandung,Jawa Barat,2018-07-25,Active,1,3,1001,Bandung Office,Permanent
+1055,Mira Rahmawati,Female,44,1981-02-15,Single,High School,Makassar,Sulawesi Selatan,2018-04-11,Active,1,3,1001,Jakarta HQ,Permanent
+1056,Oki Manurung,Male,35,1990-01-25,Married,Master,Jakarta,DKI Jakarta,2020-01-12,Active,2,6,1002,Jakarta HQ,Permanent
+1057,Gladys Pangestu,Female,32,1993-06-11,Married,Master,Jakarta,DKI Jakarta,2023-08-12,Active,4,8,1004,Jakarta HQ,Permanent
+1058,Hadi Cahyani,Male,34,1991-01-22,Married,Bachelor,Bandung,Jawa Barat,2016-03-12,Active,4,8,1004,Bandung Office,Permanent
+1059,Erika Tanjung,Female,27,1998-01-21,Single,Bachelor,Tangerang,Banten,2022-07-03,Resigned,1,2,1001,Jakarta HQ,Contract
+1060,Jelita Tanjung,Female,26,1999-09-23,Married,Bachelor,Semarang,Jawa Tengah,2023-04-04,Active,1,1,1001,Jakarta HQ,Contract
+1061,Sari Wardhana,Female,27,1998-09-09,Married,Master,Surabaya,Jawa Timur,2025-06-10,Active,4,7,1004,Surabaya Office,Permanent
+1062,Karina Mahendra,Female,33,1992-06-28,Single,Bachelor,Bekasi,Jawa Barat,2021-07-03,Active,4,8,1004,Jakarta HQ,Permanent
+1063,Salsabila Susilo,Female,33,1992-01-05,Married,Bachelor,Yogyakarta,DI Yogyakarta,2016-05-18,Active,7,10,1007,Jakarta HQ,Permanent
+1064,Rangga Sari,Male,35,1990-12-13,Single,Bachelor,Yogyakarta,DI Yogyakarta,2023-05-18,Active,3,2,1003,Jakarta HQ,Permanent
+1065,Putri Rahmawati,Female,29,1996-12-03,Single,Bachelor,Surabaya,Jawa Timur,2021-09-13,Resigned,8,9,1008,Surabaya Office,Permanent
+1066,Zaki Sutanto,Male,24,2001-04-17,Married,Bachelor,Tangerang,Banten,2022-01-17,Active,2,5,1002,Jakarta HQ,Permanent
+1067,Reza Kusuma,Male,29,1996-05-22,Single,Bachelor,Medan,Sumatera Utara,2025-03-08,Active,4,7,1004,Medan Office,Permanent
+1068,Farah Putri,Female,41,1984-07-28,Divorced,Bachelor,Jakarta,DKI Jakarta,2015-09-11,Active,5,12,1005,Jakarta HQ,Intern
+1069,Yudi Anggraini,Male,50,1975-05-25,Married,Bachelor,Jakarta,DKI Jakarta,2019-05-07,Active,5,12,1005,Jakarta HQ,Permanent
+1070,Salsabila Wijaya,Female,26,1999-08-02,Single,Diploma,Jakarta,DKI Jakarta,2023-08-27,Active,1,1,1001,Jakarta HQ,Permanent
+1071,Ratih Halim,Female,44,1981-12-28,Single,Bachelor,Bandung,Jawa Barat,2017-09-06,Active,9,17,1009,Remote,Permanent
+1072,Bambang Nugroho,Male,38,1987-09-04,Married,Master,Tangerang,Banten,2015-04-30,Active,3,3,1003,Jakarta HQ,Permanent
+1073,Lestari Hidayat,Female,25,2000-11-03,Single,Doctorate,Depok,Jawa Barat,2022-06-01,Resigned,1,1,1001,Remote,Permanent
+1074,Zaki Hutapea,Male,32,1993-10-24,Married,Bachelor,Tangerang,Banten,2022-04-04,Active,1,2,1001,Jakarta HQ,Permanent
+1075,Zahra Ramadhan,Female,46,1979-09-21,Married,Bachelor,Jakarta,DKI Jakarta,2017-10-03,Terminated,1,4,1001,Jakarta HQ,Permanent
+1076,Wisnu Hartono,Male,24,2001-10-07,Single,Diploma,Jakarta,DKI Jakarta,2025-01-22,Active,5,11,1005,Jakarta HQ,Contract
+1077,Karina Kusuma,Female,38,1987-03-04,Single,Diploma,Jakarta,DKI Jakarta,2024-08-26,Active,1,2,1001,Jakarta HQ,Permanent
+1078,Gladys Anwar,Female,27,1998-09-19,Married,Master,Bandung,Jawa Barat,2025-03-15,Resigned,6,13,1006,Bandung Office,Permanent
+1079,Galih Cahyani,Male,28,1997-11-04,Single,Bachelor,Jakarta,DKI Jakarta,2022-03-20,Active,4,7,1004,Remote,Permanent
+1080,Oka Siregar,Male,30,1995-08-17,Married,Bachelor,Jakarta,DKI Jakarta,2020-03-27,Active,4,8,1004,Jakarta HQ,Permanent
+1081,Cantika Sari,Female,49,1976-07-14,Single,Master,Bandung,Jawa Barat,2021-05-26,Active,1,4,1001,Bandung Office,Permanent
+1082,Zaki Maulana,Male,34,1991-01-19,Married,Bachelor,Jakarta,DKI Jakarta,2016-01-21,Active,7,10,1007,Remote,Contract
+1083,Yuni Ramadhan,Female,36,1989-03-22,Single,Bachelor,Semarang,Jawa Tengah,2015-07-13,Active,6,14,1006,Jakarta HQ,Permanent
+1084,Tania Setiawan,Female,22,2003-03-09,Married,Diploma,Jakarta,DKI Jakarta,2023-05-13,Active,4,7,1004,Jakarta HQ,Permanent
+1085,Nadia Mahendra,Female,28,1997-08-11,Married,Master,Jakarta,DKI Jakarta,2024-04-26,Active,9,16,1009,Jakarta HQ,Permanent
+1086,Sari Anwar,Female,28,1997-08-20,Single,Bachelor,Jakarta,DKI Jakarta,2022-04-04,Terminated,6,13,1006,Jakarta HQ,Permanent
+1087,Bambang Nasution,Male,26,1999-01-07,Single,Bachelor,Surabaya,Jawa Timur,2023-07-17,Active,4,8,1004,Surabaya Office,Permanent
+1088,Taufik Pangestu,Male,27,1998-07-28,Single,Bachelor,Bandung,Jawa Barat,2022-10-12,Resigned,1,2,1001,Bandung Office,Permanent
+1089,Bagas Hidayat,Male,40,1985-10-15,Single,Diploma,Bandung,Jawa Barat,2017-09-19,Active,5,12,1005,Remote,Contract
+1090,Kurnia Saputra,Male,30,1995-11-04,Single,Diploma,Jakarta,DKI Jakarta,2024-05-07,Active,6,13,1006,Jakarta HQ,Permanent
+1091,Salsabila Saputra,Female,28,1997-11-16,Married,Bachelor,Surabaya,Jawa Timur,2021-01-18,Active,1,2,1001,Surabaya Office,Permanent
+1092,Eko Halim,Male,33,1992-11-10,Single,Bachelor,Jakarta,DKI Jakarta,2020-10-05,Active,8,9,1008,Remote,Permanent
+1093,Ika Mahendra,Female,29,1996-10-18,Married,Bachelor,Medan,Sumatera Utara,2025-03-16,Active,5,11,1005,Medan Office,Contract
+1094,Fitri Lubis,Female,36,1989-03-02,Single,Master,Balikpapan,Kalimantan Timur,2021-03-23,Active,4,8,1004,Jakarta HQ,Permanent
+1095,Salsabila Sari,Female,27,1998-06-04,Married,Master,Jakarta,DKI Jakarta,2022-04-19,Active,7,10,1007,Jakarta HQ,Permanent
+1096,Umi Cahyani,Female,24,2001-10-23,Single,Bachelor,Bekasi,Jawa Barat,2025-05-27,Active,4,7,1004,Jakarta HQ,Contract
+1097,Dinda Lubis,Female,41,1984-01-12,Single,Doctorate,Makassar,Sulawesi Selatan,2018-08-03,Active,10,18,1010,Jakarta HQ,Permanent
+1098,Krisna Siregar,Male,22,2003-11-11,Married,Master,Jakarta,DKI Jakarta,2024-04-23,Active,2,5,1002,Jakarta HQ,Permanent
+1099,Putri Anwar,Female,39,1986-12-26,Married,Master,Bekasi,Jawa Barat,2015-07-08,Active,1,3,1001,Jakarta HQ,Permanent
+1100,Teguh Mahendra,Male,48,1977-03-27,Single,Master,Yogyakarta,DI Yogyakarta,2019-08-25,Active,9,17,1009,Remote,Permanent
+1101,Kurnia Setiawan,Male,29,1996-09-05,Single,High School,Makassar,Sulawesi Selatan,2022-09-17,Active,4,7,1004,Jakarta HQ,Permanent
+1102,Farhan Iskandar,Male,25,2000-01-11,Married,Bachelor,Surabaya,Jawa Timur,2025-05-14,Active,4,7,1004,Remote,Permanent
+1103,Fitri Lestari,Female,38,1987-04-27,Married,Bachelor,Makassar,Sulawesi Selatan,2020-01-27,Active,6,14,1006,Jakarta HQ,Permanent
+1104,Hendra Nasution,Male,34,1991-01-21,Married,Bachelor,Jakarta,DKI Jakarta,2016-01-14,Active,2,6,1002,Remote,Permanent
+1105,Zaki Saputra,Male,30,1995-09-17,Single,Bachelor,Yogyakarta,DI Yogyakarta,2025-04-16,Active,5,11,1005,Remote,Permanent
+1106,Rina Ramadhan,Female,38,1987-10-24,Single,Bachelor,Jakarta,DKI Jakarta,2019-08-27,Active,1,2,1001,Jakarta HQ,Permanent
+1107,Elsa Salim,Female,22,2003-05-07,Single,Master,Yogyakarta,DI Yogyakarta,2025-07-22,Active,6,13,1006,Jakarta HQ,Permanent
+1108,Dimas Sari,Male,30,1995-02-26,Single,Master,Yogyakarta,DI Yogyakarta,2022-03-24,Active,1,2,1001,Jakarta HQ,Permanent
+1109,Dinda Handayani,Female,32,1993-10-27,Single,Bachelor,Jakarta,DKI Jakarta,2022-01-27,Active,4,8,1004,Remote,Permanent
+1110,Candra Pangestu,Male,48,1977-05-21,Married,Diploma,Tangerang,Banten,2022-09-25,Active,1,4,1001,Jakarta HQ,Permanent
+1111,Eko Hartono,Male,38,1987-11-12,Single,Bachelor,Makassar,Sulawesi Selatan,2019-04-21,Active,7,10,1007,Remote,Permanent
+1112,Bambang Hidayat,Male,36,1989-05-08,Married,Bachelor,Surabaya,Jawa Timur,2023-10-20,Active,1,2,1001,Surabaya Office,Permanent
+1113,Hesti Santoso,Female,27,1998-03-28,Married,Master,Jakarta,DKI Jakarta,2024-03-15,Active,4,8,1004,Jakarta HQ,Intern
+1114,Teguh Putri,Male,24,2001-12-23,Single,Bachelor,Bandung,Jawa Barat,2024-04-30,Active,5,11,1005,Remote,Permanent
+1115,Leo Maulana,Male,35,1990-02-03,Married,Master,Balikpapan,Kalimantan Timur,2020-04-13,Active,4,8,1004,Jakarta HQ,Permanent
+1116,Yudi Siregar,Male,27,1998-03-27,Single,Diploma,Bandung,Jawa Barat,2024-08-27,Resigned,9,16,1009,Bandung Office,Permanent
+1117,Jefri Rahmawati,Male,23,2002-05-07,Married,Bachelor,Depok,Jawa Barat,2023-08-30,Resigned,2,5,1002,Jakarta HQ,Permanent
+1118,Mira Wijaya,Female,30,1995-02-02,Married,High School,Jakarta,DKI Jakarta,2017-01-12,Active,1,3,1001,Jakarta HQ,Contract
+1119,Yudi Cahyani,Male,30,1995-08-03,Single,Diploma,Jakarta,DKI Jakarta,2019-10-04,Active,4,8,1004,Jakarta HQ,Contract
+1120,Indah Iskandar,Female,34,1991-09-04,Single,Bachelor,Bandung,Jawa Barat,2019-07-03,Active,2,6,1002,Bandung Office,Permanent
+1121,Kirana Hidayat,Female,27,1998-04-25,Married,Diploma,Balikpapan,Kalimantan Timur,2024-02-20,Active,5,11,1005,Jakarta HQ,Permanent
+1122,Yoga Anggraini,Male,22,2003-05-16,Married,Bachelor,Bekasi,Jawa Barat,2022-06-09,Active,4,7,1004,Jakarta HQ,Permanent
+1123,Leo Santoso,Male,31,1994-09-10,Divorced,Bachelor,Bandung,Jawa Barat,2024-04-18,Active,3,15,1003,Bandung Office,Permanent
+1124,Wisnu Simanjuntak,Male,46,1979-03-07,Married,Master,Bandung,Jawa Barat,2013-02-17,Resigned,9,17,1009,Remote,Permanent
+1125,Pandu Hidayat,Male,28,1997-07-20,Married,Bachelor,Bandung,Jawa Barat,2022-05-14,Active,1,2,1001,Bandung Office,Permanent
+1126,Novi Putri,Female,22,2003-10-16,Single,Bachelor,Bekasi,Jawa Barat,2023-01-10,Active,2,5,1002,Jakarta HQ,Permanent
+1127,Putri Wijaya,Female,35,1990-12-04,Single,Bachelor,Bandung,Jawa Barat,2021-10-24,Active,7,10,1007,Bandung Office,Permanent
+1128,Jihan Permana,Female,30,1995-06-22,Married,Bachelor,Jakarta,DKI Jakarta,2022-02-06,Active,4,7,1004,Jakarta HQ,Permanent
+1129,Maya Hartono,Female,30,1995-09-10,Married,Bachelor,Surabaya,Jawa Timur,2023-06-03,Active,8,9,1008,Surabaya Office,Permanent
+1130,Mario Hutapea,Male,47,1978-07-27,Single,Bachelor,Jakarta,DKI Jakarta,2017-08-21,Active,9,17,1009,Jakarta HQ,Permanent
+1131,Sari Simanjuntak,Female,26,1999-03-04,Single,Diploma,Jakarta,DKI Jakarta,2024-06-30,Active,4,7,1004,Jakarta HQ,Permanent
+1132,Leo Pratama,Male,28,1997-11-16,Single,Bachelor,Surabaya,Jawa Timur,2022-07-23,Active,4,7,1004,Surabaya Office,Permanent
+1133,Larasati Wardhana,Female,24,2001-01-27,Single,High School,Jakarta,DKI Jakarta,2022-02-22,Active,1,1,1001,Jakarta HQ,Permanent
+1134,Satria Hutapea,Male,50,1975-03-28,Married,Bachelor,Jakarta,DKI Jakarta,2014-03-10,Active,5,12,1005,Jakarta HQ,Permanent
+1135,Mira Santoso,Female,35,1990-10-28,Single,Diploma,Bandung,Jawa Barat,2016-03-30,Active,1,3,1001,Remote,Permanent
+1136,Edwin Setiawan,Male,31,1994-05-19,Single,Diploma,Jakarta,DKI Jakarta,2019-01-14,Active,2,6,1002,Jakarta HQ,Permanent
+1137,Rina Rahmawati,Female,41,1984-10-08,Single,Bachelor,Bandung,Jawa Barat,2019-08-27,Active,3,3,1003,Bandung Office,Contract
+1138,Yuliana Nasution,Female,23,2002-09-15,Married,Bachelor,Medan,Sumatera Utara,2023-09-24,Active,6,13,1006,Remote,Permanent
+1139,Nanda Sinaga,Male,50,1975-02-17,Single,Bachelor,Bandung,Jawa Barat,2015-10-07,Active,1,4,1001,Bandung Office,Contract
+1140,Adi Permana,Male,32,1993-01-14,Divorced,Bachelor,Bekasi,Jawa Barat,2017-10-02,Active,6,14,1006,Remote,Permanent
+1141,Salsabila Wardhana,Female,31,1994-07-15,Married,Bachelor,Jakarta,DKI Jakarta,2018-04-24,Active,1,2,1001,Jakarta HQ,Permanent
+1142,Oki Nugroho,Male,35,1990-05-15,Single,Bachelor,Bekasi,Jawa Barat,2014-04-01,Active,1,4,1001,Jakarta HQ,Contract
+1143,Taufik Wardhana,Male,22,2003-04-07,Married,Bachelor,Bekasi,Jawa Barat,2025-09-11,Active,6,13,1006,Jakarta HQ,Permanent
+1144,Dewi Maulana,Female,30,1995-05-08,Single,Diploma,Bekasi,Jawa Barat,2023-01-11,Active,4,7,1004,Jakarta HQ,Permanent
+1145,Leo Sinaga,Male,35,1990-11-22,Married,Bachelor,Bandung,Jawa Barat,2016-01-24,Active,1,3,1001,Bandung Office,Permanent
+1146,Lukman Hutapea,Male,29,1996-04-28,Single,Bachelor,Yogyakarta,DI Yogyakarta,2024-06-01,Active,4,7,1004,Remote,Permanent
+1147,Nanda Sari,Male,36,1989-02-15,Single,Bachelor,Bekasi,Jawa Barat,2019-09-17,Resigned,4,8,1004,Jakarta HQ,Permanent
+1148,Wisnu Putri,Male,26,1999-04-07,Single,Bachelor,Medan,Sumatera Utara,2024-03-01,Active,1,2,1001,Medan Office,Permanent
+1149,Yoga Putri,Male,30,1995-06-17,Married,Master,Jakarta,DKI Jakarta,2021-03-09,Active,2,6,1002,Jakarta HQ,Permanent
+1150,Bunga Kusuma,Female,30,1995-10-19,Married,Bachelor,Jakarta,DKI Jakarta,2022-06-04,Active,4,7,1004,Jakarta HQ,Permanent
+1151,Hesti Tanjung,Female,44,1981-03-24,Married,Doctorate,Jakarta,DKI Jakarta,2017-08-09,Active,6,14,1006,Jakarta HQ,Contract
+1152,Tania Anggraini,Female,22,2003-07-05,Single,Bachelor,Tangerang,Banten,2024-09-28,Active,4,7,1004,Remote,Permanent
+1153,Bunga Nugroho,Female,48,1977-01-01,Married,Bachelor,Bekasi,Jawa Barat,2014-06-17,Active,5,12,1005,Jakarta HQ,Contract
+1154,Putra Santoso,Male,30,1995-05-27,Married,Bachelor,Surabaya,Jawa Timur,2023-06-19,Active,1,1,1001,Remote,Permanent
+1155,Salsabila Wijaya,Female,23,2002-07-13,Single,Master,Bandung,Jawa Barat,2022-01-24,Active,2,5,1002,Bandung Office,Permanent
+1156,Citra Wibowo,Female,25,2000-12-19,Married,Bachelor,Jakarta,DKI Jakarta,2022-06-17,Active,2,5,1002,Remote,Permanent
+1157,Nanda Sinaga,Male,39,1986-12-27,Married,Bachelor,Jakarta,DKI Jakarta,2016-09-25,Active,9,17,1009,Jakarta HQ,Permanent
+1158,Winda Handayani,Female,34,1991-12-12,Married,Master,Bandung,Jawa Barat,2024-09-12,Active,3,2,1003,Bandung Office,Permanent
+1159,Erika Tanjung,Female,29,1996-06-18,Married,Bachelor,Jakarta,DKI Jakarta,2021-03-26,Active,7,10,1007,Jakarta HQ,Permanent
+1160,Reza Susilo,Male,42,1983-06-12,Single,Diploma,Jakarta,DKI Jakarta,2021-09-17,Active,1,3,1001,Jakarta HQ,Permanent
+1161,Farhan Pangestu,Male,34,1991-02-20,Married,Bachelor,Yogyakarta,DI Yogyakarta,2015-05-22,Active,4,8,1004,Remote,Permanent
+1162,Kirana Mahendra,Female,35,1990-03-09,Single,Bachelor,Bandung,Jawa Barat,2018-06-19,Active,10,18,1010,Remote,Permanent
+1163,Hesti Nasution,Female,25,2000-08-04,Single,Master,Jakarta,DKI Jakarta,2024-05-30,Active,2,5,1002,Jakarta HQ,Permanent
+1164,Oka Santoso,Male,29,1996-06-06,Married,Bachelor,Jakarta,DKI Jakarta,2022-05-23,Active,4,7,1004,Jakarta HQ,Permanent
+1165,Mario Santoso,Male,35,1990-09-06,Single,Bachelor,Makassar,Sulawesi Selatan,2016-10-21,Active,7,10,1007,Jakarta HQ,Permanent
+1166,Indah Putri,Female,29,1996-05-22,Married,Bachelor,Surabaya,Jawa Timur,2023-03-31,Active,7,10,1007,Remote,Permanent
+1167,Zaki Hutapea,Male,37,1988-02-25,Married,Bachelor,Jakarta,DKI Jakarta,2019-05-06,Active,9,17,1009,Jakarta HQ,Intern
+1168,Gilang Kusuma,Male,29,1996-09-24,Single,Bachelor,Bekasi,Jawa Barat,2020-01-22,Active,2,6,1002,Jakarta HQ,Permanent
+1169,Gladys Ramadhan,Female,30,1995-07-03,Married,Bachelor,Jakarta,DKI Jakarta,2024-08-21,Active,4,8,1004,Jakarta HQ,Permanent
+1170,Umar Wijaya,Male,33,1992-01-28,Single,Diploma,Tangerang,Banten,2017-09-09,Active,6,14,1006,Remote,Permanent
+1171,Bambang Hakim,Male,28,1997-11-22,Married,Bachelor,Jakarta,DKI Jakarta,2021-04-14,Active,4,8,1004,Jakarta HQ,Permanent
+1172,Karina Hakim,Female,27,1998-06-07,Married,Bachelor,Jakarta,DKI Jakarta,2022-09-05,Active,1,1,1001,Jakarta HQ,Permanent
+1173,Faisal Harahap,Male,28,1997-11-23,Single,Bachelor,Tangerang,Banten,2022-09-20,Active,4,8,1004,Jakarta HQ,Permanent
+1174,Dinda Hakim,Female,33,1992-11-18,Married,Bachelor,Jakarta,DKI Jakarta,2022-01-22,Active,3,2,1003,Jakarta HQ,Contract
+1175,Anto Simanjuntak,Male,50,1975-07-22,Married,Bachelor,Surabaya,Jawa Timur,2015-04-06,Active,9,17,1009,Surabaya Office,Permanent
+1176,Kurnia Salim,Male,35,1990-12-25,Married,Doctorate,Bandung,Jawa Barat,2017-01-26,Active,1,2,1001,Bandung Office,Permanent
+1177,Doni Ramadhan,Male,37,1988-05-28,Married,Diploma,Jakarta,DKI Jakarta,2022-03-17,Resigned,6,14,1006,Jakarta HQ,Contract
+1178,Pertiwi Sutanto,Female,35,1990-10-05,Married,Diploma,Semarang,Jawa Tengah,2019-07-21,Active,1,3,1001,Jakarta HQ,Intern
+1179,Ika Ramadhan,Female,28,1997-07-02,Single,Bachelor,Tangerang,Banten,2022-08-30,Active,2,6,1002,Remote,Contract
+1180,Sari Wardhana,Female,32,1993-08-03,Single,Master,Bandung,Jawa Barat,2023-04-10,Active,3,2,1003,Bandung Office,Permanent
+1181,Farah Pangestu,Female,23,2002-09-13,Single,Bachelor,Semarang,Jawa Tengah,2024-03-27,Active,1,1,1001,Jakarta HQ,Permanent
+1182,Dewi Wijaya,Female,27,1998-11-26,Single,Master,Jakarta,DKI Jakarta,2023-10-25,Active,7,10,1007,Jakarta HQ,Permanent
+1183,Umi Pratama,Female,26,1999-02-21,Single,Bachelor,Jakarta,DKI Jakarta,2023-06-27,Active,6,13,1006,Jakarta HQ,Permanent
+1184,Gita Nugroho,Female,36,1989-08-03,Single,Diploma,Bandung,Jawa Barat,2020-07-10,Resigned,6,14,1006,Bandung Office,Contract
+1185,Anto Handayani,Male,33,1992-02-11,Single,Doctorate,Jakarta,DKI Jakarta,2017-06-03,Active,6,14,1006,Jakarta HQ,Permanent
+1186,Kirana Anwar,Female,27,1998-12-07,Married,Diploma,Depok,Jawa Barat,2024-04-05,Active,4,7,1004,Jakarta HQ,Permanent
+1187,Vania Maulana,Female,37,1988-05-21,Married,Bachelor,Bekasi,Jawa Barat,2021-06-28,Active,6,14,1006,Jakarta HQ,Contract
+1188,Oka Lubis,Male,41,1984-12-13,Single,Bachelor,Surabaya,Jawa Timur,2018-10-07,Active,5,12,1005,Surabaya Office,Permanent
+1189,Vania Maulana,Female,28,1997-10-14,Married,High School,Tangerang,Banten,2023-01-27,Active,1,1,1001,Jakarta HQ,Permanent
+1190,Bella Lubis,Female,26,1999-11-23,Married,Bachelor,Tangerang,Banten,2022-03-31,Active,2,5,1002,Remote,Permanent
+1191,Jelita Hutapea,Female,27,1998-07-19,Single,Diploma,Tangerang,Banten,2025-05-27,Active,4,7,1004,Jakarta HQ,Permanent
+1192,Taufik Hakim,Male,23,2002-01-23,Married,Bachelor,Jakarta,DKI Jakarta,2024-10-27,Active,4,7,1004,Jakarta HQ,Permanent
+1193,Hana Lestari,Female,40,1985-07-09,Married,Bachelor,Jakarta,DKI Jakarta,2014-10-03,Active,1,3,1001,Jakarta HQ,Permanent
+1194,Rangga Ramadhan,Male,35,1990-11-24,Single,High School,Surabaya,Jawa Timur,2023-07-09,Active,8,9,1008,Remote,Permanent
+1195,Citra Simanjuntak,Female,28,1997-04-11,Married,Diploma,Medan,Sumatera Utara,2024-04-02,Active,9,16,1009,Medan Office,Permanent
+1196,Citra Cahyani,Female,27,1998-08-28,Single,Bachelor,Jakarta,DKI Jakarta,2023-05-27,Resigned,1,2,1001,Jakarta HQ,Permanent
+1197,Hendra Santoso,Male,42,1983-03-01,Married,Master,Jakarta,DKI Jakarta,2016-10-22,Active,5,12,1005,Jakarta HQ,Permanent
+1198,Jefri Hartono,Male,48,1977-08-02,Married,Bachelor,Jakarta,DKI Jakarta,2020-06-12,Active,5,12,1005,Jakarta HQ,Permanent
+1199,Ika Maulana,Female,28,1997-02-19,Married,Master,Tangerang,Banten,2025-03-24,Active,9,16,1009,Remote,Permanent
+1200,Surya Wibowo,Male,27,1998-04-05,Single,Bachelor,Jakarta,DKI Jakarta,2022-09-08,Active,7,10,1007,Remote,Intern
+1201,Hadi Handayani,Male,35,1990-11-10,Married,Master,Jakarta,DKI Jakarta,2013-10-15,Active,1,3,1001,Jakarta HQ,Permanent
+1202,Lukman Lestari,Male,42,1983-08-18,Single,Diploma,Jakarta,DKI Jakarta,2014-06-30,Active,1,3,1001,Remote,Contract
+1203,Zahra Handayani,Female,35,1990-10-09,Married,Diploma,Balikpapan,Kalimantan Timur,2023-10-22,Active,1,2,1001,Jakarta HQ,Contract
+1204,Faisal Anggraini,Male,28,1997-10-14,Single,Diploma,Jakarta,DKI Jakarta,2021-02-21,Active,7,10,1007,Jakarta HQ,Permanent
+1205,Pertiwi Hartono,Female,36,1989-05-16,Single,Bachelor,Bandung,Jawa Barat,2018-01-26,Active,8,9,1008,Remote,Contract
+1206,Yuni Halim,Female,30,1995-08-12,Single,Master,Jakarta,DKI Jakarta,2023-04-18,Active,2,5,1002,Remote,Permanent
+1207,Naufal Wibowo,Male,28,1997-02-08,Married,Master,Bekasi,Jawa Barat,2023-06-19,Active,7,10,1007,Jakarta HQ,Permanent
+1208,Lukman Hakim,Male,37,1988-10-11,Single,Master,Tangerang,Banten,2017-10-20,Active,10,18,1010,Jakarta HQ,Contract
+1209,Lukman Tanjung,Male,26,1999-02-02,Married,Master,Jakarta,DKI Jakarta,2024-07-12,Active,7,10,1007,Jakarta HQ,Permanent
+1210,Joko Sinaga,Male,34,1991-02-28,Single,Diploma,Makassar,Sulawesi Selatan,2014-05-02,Active,1,3,1001,Jakarta HQ,Permanent
+1211,Dinda Tanjung,Female,36,1989-06-06,Single,Bachelor,Jakarta,DKI Jakarta,2016-05-05,Active,1,2,1001,Jakarta HQ,Permanent
+1212,Mira Wijaya,Female,35,1990-10-11,Single,Diploma,Depok,Jawa Barat,2013-07-14,Active,6,14,1006,Remote,Permanent
+1213,Tania Sari,Female,29,1996-01-09,Married,High School,Tangerang,Banten,2024-06-27,Active,2,5,1002,Jakarta HQ,Permanent
+1214,Hesti Mahendra,Female,27,1998-09-13,Single,Bachelor,Surabaya,Jawa Timur,2025-03-01,Active,4,7,1004,Surabaya Office,Contract
+1215,Gilang Saputra,Male,27,1998-03-13,Married,Bachelor,Bekasi,Jawa Barat,2024-09-24,Resigned,1,1,1001,Jakarta HQ,Permanent
+1216,Dinda Pratama,Female,26,1999-02-11,Married,Bachelor,Bandung,Jawa Barat,2024-07-27,Active,1,2,1001,Bandung Office,Permanent
+1217,Hesti Susilo,Female,36,1989-06-01,Single,High School,Jakarta,DKI Jakarta,2016-09-20,Active,1,4,1001,Jakarta HQ,Permanent
+1218,Hadi Putri,Male,28,1997-08-16,Single,Diploma,Depok,Jawa Barat,2023-09-17,Active,2,5,1002,Jakarta HQ,Permanent
+1219,Surya Manurung,Male,26,1999-03-25,Married,Bachelor,Tangerang,Banten,2024-09-19,Active,4,8,1004,Jakarta HQ,Permanent
+1220,Yuliana Halim,Female,35,1990-04-16,Married,Bachelor,Jakarta,DKI Jakarta,2020-09-23,Resigned,3,15,1003,Jakarta HQ,Permanent
+1221,Edwin Hakim,Male,35,1990-04-26,Single,Master,Jakarta,DKI Jakarta,2019-08-31,Active,10,18,1010,Remote,Permanent
+1222,Elsa Handayani,Female,32,1993-09-13,Married,Bachelor,Bandung,Jawa Barat,2019-06-15,Resigned,4,8,1004,Bandung Office,Contract
+1223,Naufal Sinaga,Male,38,1987-02-04,Married,Bachelor,Surabaya,Jawa Timur,2015-09-14,Active,1,2,1001,Surabaya Office,Permanent
+1224,Surya Cahyani,Male,28,1997-10-20,Single,Bachelor,Jakarta,DKI Jakarta,2021-10-14,Active,4,8,1004,Jakarta HQ,Permanent
+1225,Umi Putri,Female,38,1987-08-28,Married,Bachelor,Jakarta,DKI Jakarta,2021-07-09,Active,3,3,1003,Jakarta HQ,Permanent
+1226,Cahyo Tanjung,Male,30,1995-06-27,Single,Bachelor,Surabaya,Jawa Timur,2025-02-11,Active,5,11,1005,Remote,Permanent
+1227,Made Anggraini,Male,25,2000-01-15,Married,Bachelor,Tangerang,Banten,2025-05-01,Active,4,7,1004,Jakarta HQ,Permanent
+1228,Edwin Hakim,Male,45,1980-10-18,Married,Bachelor,Jakarta,DKI Jakarta,2017-05-11,Active,1,3,1001,Jakarta HQ,Permanent
+1229,Salsabila Wibowo,Female,36,1989-04-09,Single,Master,Jakarta,DKI Jakarta,2018-02-14,Active,1,2,1001,Jakarta HQ,Permanent
+1230,Oka Putri,Male,26,1999-07-13,Married,Bachelor,Jakarta,DKI Jakarta,2023-03-12,Active,5,11,1005,Jakarta HQ,Permanent
+1231,Oktavia Nasution,Female,30,1995-05-22,Married,Bachelor,Jakarta,DKI Jakarta,2024-02-29,Active,4,8,1004,Jakarta HQ,Permanent
+1232,Jefri Hartono,Male,26,1999-10-13,Single,Bachelor,Surabaya,Jawa Timur,2023-08-23,Active,8,9,1008,Surabaya Office,Permanent
+1233,Oki Hutapea,Male,36,1989-08-22,Married,Bachelor,Jakarta,DKI Jakarta,2019-02-17,Active,1,2,1001,Remote,Permanent
+1234,Wulan Handayani,Female,25,2000-06-08,Single,Master,Surabaya,Jawa Timur,2023-04-01,Active,6,13,1006,Surabaya Office,Permanent
+1235,Made Lubis,Male,27,1998-11-13,Divorced,Bachelor,Bandung,Jawa Barat,2022-06-03,Active,8,9,1008,Bandung Office,Intern
+1236,Lukman Handayani,Male,33,1992-06-21,Married,Diploma,Depok,Jawa Barat,2022-05-26,Active,8,9,1008,Remote,Permanent
+1237,Doni Sutanto,Male,28,1997-07-16,Single,Bachelor,Jakarta,DKI Jakarta,2022-10-31,Active,4,7,1004,Jakarta HQ,Contract
+1238,Putri Wibowo,Female,27,1998-05-05,Single,Master,Bandung,Jawa Barat,2025-04-19,Resigned,1,1,1001,Bandung Office,Permanent
+1239,Yudi Maulana,Male,31,1994-08-12,Single,Bachelor,Jakarta,DKI Jakarta,2018-07-30,Active,4,8,1004,Jakarta HQ,Intern
+1240,Kirana Pertiwi,Female,27,1998-12-21,Single,Doctorate,Yogyakarta,DI Yogyakarta,2025-04-23,Active,1,1,1001,Jakarta HQ,Permanent
+1241,Hadi Wardhana,Male,29,1996-07-04,Single,Bachelor,Tangerang,Banten,2023-03-05,Active,5,11,1005,Jakarta HQ,Permanent
+1242,Gilang Lubis,Male,23,2002-05-04,Married,Bachelor,Jakarta,DKI Jakarta,2025-02-20,Active,4,7,1004,Jakarta HQ,Permanent
+1243,Nanda Halim,Male,27,1998-04-01,Single,Diploma,Medan,Sumatera Utara,2025-09-17,Active,2,5,1002,Medan Office,Permanent
+1244,Salsabila Wibowo,Female,29,1996-05-09,Single,Master,Jakarta,DKI Jakarta,2022-10-08,Resigned,6,13,1006,Remote,Permanent
+1245,Citra Nugroho,Female,24,2001-11-21,Married,Diploma,Jakarta,DKI Jakarta,2024-05-17,Active,6,13,1006,Jakarta HQ,Contract
+1246,Faisal Setiawan,Male,47,1978-12-28,Married,Diploma,Depok,Jawa Barat,2015-04-03,Terminated,1,4,1001,Jakarta HQ,Contract
+1247,Gladys Manurung,Female,49,1976-03-20,Married,Master,Depok,Jawa Barat,2016-05-04,Active,1,4,1001,Jakarta HQ,Permanent
+1248,Eko Kusuma,Male,36,1989-06-01,Married,Bachelor,Surabaya,Jawa Timur,2016-01-13,Active,4,8,1004,Surabaya Office,Permanent
+1249,Putri Halim,Female,46,1979-11-22,Single,Bachelor,Semarang,Jawa Tengah,2016-08-19,Active,5,12,1005,Jakarta HQ,Permanent
+1250,Elsa Tanjung,Female,31,1994-04-11,Married,Diploma,Bandung,Jawa Barat,2022-10-08,Active,7,10,1007,Bandung Office,Permanent
+1251,Erika Hidayat,Female,23,2002-08-24,Married,Bachelor,Bandung,Jawa Barat,2025-09-10,Active,4,7,1004,Remote,Intern
+1252,Farah Sari,Female,27,1998-01-27,Married,Bachelor,Jakarta,DKI Jakarta,2024-03-14,Active,5,11,1005,Jakarta HQ,Permanent
+1253,Yoga Rahmawati,Male,34,1991-09-12,Married,Bachelor,Yogyakarta,DI Yogyakarta,2023-10-10,Active,1,2,1001,Jakarta HQ,Permanent
+1254,Bella Permana,Female,29,1996-04-23,Married,Diploma,Surabaya,Jawa Timur,2023-09-08,Active,1,1,1001,Remote,Contract
+1255,Adinda Siregar,Female,22,2003-09-14,Single,Master,Surabaya,Jawa Timur,2022-02-15,Active,4,7,1004,Surabaya Office,Permanent
+1256,Anto Wardhana,Male,42,1983-05-13,Married,Bachelor,Bandung,Jawa Barat,2017-06-06,Active,5,12,1005,Remote,Permanent
+1257,Lestari Permana,Female,36,1989-04-20,Divorced,Diploma,Medan,Sumatera Utara,2018-05-11,Active,6,14,1006,Remote,Permanent
+1258,Lestari Halim,Female,28,1997-11-24,Single,Bachelor,Semarang,Jawa Tengah,2023-03-31,Resigned,5,11,1005,Jakarta HQ,Permanent
+1259,Yuliana Kusuma,Female,24,2001-01-23,Single,Master,Surabaya,Jawa Timur,2023-07-21,Active,6,13,1006,Remote,Permanent
+1260,Wahyu Rahmawati,Male,37,1988-11-02,Divorced,Diploma,Bandung,Jawa Barat,2018-04-19,Active,8,9,1008,Bandung Office,Permanent
+1261,Rina Iskandar,Female,41,1984-12-07,Single,Bachelor,Jakarta,DKI Jakarta,2018-03-19,Active,1,4,1001,Jakarta HQ,Permanent
+1262,Naufal Kusuma,Male,26,1999-06-15,Married,Bachelor,Jakarta,DKI Jakarta,2024-10-12,Resigned,4,8,1004,Jakarta HQ,Permanent
+1263,Vino Siregar,Male,29,1996-03-17,Single,Master,Jakarta,DKI Jakarta,2024-02-17,Active,4,8,1004,Jakarta HQ,Permanent
+1264,Pandu Siregar,Male,33,1992-09-27,Married,Bachelor,Tangerang,Banten,2024-09-04,Active,2,6,1002,Jakarta HQ,Contract
+1265,Hadi Mahendra,Male,43,1982-09-24,Married,Bachelor,Medan,Sumatera Utara,2018-10-22,Active,5,12,1005,Medan Office,Permanent
+1266,Farhan Ramadhan,Male,28,1997-09-18,Married,Master,Jakarta,DKI Jakarta,2024-09-29,Active,8,9,1008,Jakarta HQ,Permanent
+1267,Elsa Susilo,Female,26,1999-08-23,Married,Bachelor,Jakarta,DKI Jakarta,2023-10-14,Active,7,10,1007,Remote,Permanent
+1268,Bambang Sutanto,Male,31,1994-01-13,Married,Bachelor,Bekasi,Jawa Barat,2019-09-04,Active,2,6,1002,Jakarta HQ,Permanent
+1269,Yudi Putri,Male,23,2002-05-25,Married,Diploma,Jakarta,DKI Jakarta,2022-04-21,Active,1,1,1001,Jakarta HQ,Permanent
+1270,Jelita Putri,Female,36,1989-12-21,Single,Bachelor,Bekasi,Jawa Barat,2019-10-29,Terminated,7,10,1007,Jakarta HQ,Permanent
+1271,Yoga Permana,Male,48,1977-11-28,Single,Diploma,Jakarta,DKI Jakarta,2014-08-24,Active,9,17,1009,Jakarta HQ,Contract
+1272,Elsa Rahmawati,Female,36,1989-02-09,Single,Bachelor,Surabaya,Jawa Timur,2023-07-24,Active,7,10,1007,Surabaya Office,Permanent
+1273,Edwin Sari,Male,26,1999-12-19,Single,Bachelor,Bekasi,Jawa Barat,2024-01-17,Active,5,11,1005,Jakarta HQ,Contract
+1274,Zaki Maulana,Male,40,1985-08-15,Married,Diploma,Surabaya,Jawa Timur,2015-05-05,Resigned,6,14,1006,Surabaya Office,Permanent
+1275,Reza Saputra,Male,37,1988-02-01,Single,High School,Semarang,Jawa Tengah,2016-10-19,Active,7,10,1007,Jakarta HQ,Permanent
+1276,Jelita Iskandar,Female,32,1993-04-25,Married,Bachelor,Bandung,Jawa Barat,2020-08-26,Active,8,9,1008,Bandung Office,Contract
+1277,Indah Anwar,Female,28,1997-03-19,Single,Bachelor,Medan,Sumatera Utara,2023-02-28,Active,7,10,1007,Remote,Permanent
+1278,Faisal Wijaya,Male,36,1989-11-11,Married,Bachelor,Depok,Jawa Barat,2021-02-09,Active,5,12,1005,Jakarta HQ,Permanent
+1279,Anto Wibowo,Male,30,1995-07-12,Married,Bachelor,Surabaya,Jawa Timur,2023-02-26,Resigned,3,1,1003,Surabaya Office,Permanent
+1280,Lukman Pratama,Male,31,1994-10-23,Single,Bachelor,Tangerang,Banten,2018-09-04,Active,4,8,1004,Jakarta HQ,Permanent
+1281,Candra Maulana,Male,35,1990-10-06,Single,Diploma,Jakarta,DKI Jakarta,2022-02-13,Resigned,4,8,1004,Jakarta HQ,Contract
+1282,Tania Rahmawati,Female,23,2002-04-15,Married,Master,Jakarta,DKI Jakarta,2022-03-01,Active,4,7,1004,Jakarta HQ,Permanent
+1283,Yudi Sari,Male,49,1976-10-19,Married,Master,Jakarta,DKI Jakarta,2021-07-08,Resigned,5,12,1005,Remote,Permanent
+1284,Pandu Nasution,Male,26,1999-09-17,Married,Master,Bandung,Jawa Barat,2024-09-15,Active,7,10,1007,Remote,Permanent
+1285,Candra Siregar,Male,48,1977-04-26,Married,Bachelor,Jakarta,DKI Jakarta,2015-04-23,Active,5,12,1005,Jakarta HQ,Permanent
+1286,Fitri Rahmawati,Female,30,1995-07-09,Single,High School,Tangerang,Banten,2024-10-30,Active,2,5,1002,Jakarta HQ,Permanent
+1287,Gilang Susilo,Male,43,1982-11-19,Single,Bachelor,Yogyakarta,DI Yogyakarta,2018-06-23,Active,6,14,1006,Jakarta HQ,Permanent
+1288,Leo Simanjuntak,Male,33,1992-05-10,Married,Bachelor,Surabaya,Jawa Timur,2019-04-14,Active,3,15,1003,Surabaya Office,Permanent
+1289,Wisnu Simanjuntak,Male,35,1990-12-22,Married,Bachelor,Jakarta,DKI Jakarta,2024-08-11,Active,1,2,1001,Jakarta HQ,Permanent
+1290,Farhan Nasution,Male,31,1994-12-13,Married,Diploma,Jakarta,DKI Jakarta,2019-02-10,Resigned,1,3,1001,Jakarta HQ,Permanent
+1291,Oka Lubis,Male,37,1988-10-06,Divorced,Bachelor,Jakarta,DKI Jakarta,2022-05-02,Active,1,3,1001,Remote,Permanent
+1292,Eko Handayani,Male,34,1991-05-24,Married,Diploma,Jakarta,DKI Jakarta,2016-01-10,Active,3,2,1003,Jakarta HQ,Contract
+1293,Indra Ramadhan,Male,34,1991-02-17,Married,Master,Makassar,Sulawesi Selatan,2020-05-12,Active,4,8,1004,Jakarta HQ,Permanent
+1294,Putri Sari,Female,44,1981-11-15,Married,Bachelor,Bandung,Jawa Barat,2013-10-21,Active,6,14,1006,Bandung Office,Permanent
+1295,Jihan Hutapea,Female,26,1999-12-27,Single,Bachelor,Jakarta,DKI Jakarta,2023-06-28,Active,7,10,1007,Jakarta HQ,Permanent
+1296,Sari Hakim,Female,25,2000-08-24,Single,Bachelor,Surabaya,Jawa Timur,2024-07-04,Active,2,5,1002,Surabaya Office,Permanent
+1297,Farhan Tanjung,Male,22,2003-09-02,Married,Master,Depok,Jawa Barat,2022-04-26,Active,1,1,1001,Jakarta HQ,Permanent
+1298,Mario Maulana,Male,31,1994-09-26,Married,Bachelor,Medan,Sumatera Utara,2019-03-04,Active,10,18,1010,Remote,Permanent
+1299,Adi Nugroho,Male,41,1984-07-19,Single,Bachelor,Jakarta,DKI Jakarta,2021-05-20,Active,1,4,1001,Jakarta HQ,Contract
+1300,Nanda Wardhana,Male,27,1998-06-28,Married,Master,Bandung,Jawa Barat,2022-06-12,Active,2,5,1002,Bandung Office,Permanent
+1301,Maya Susilo,Female,38,1987-12-05,Married,Bachelor,Jakarta,DKI Jakarta,2017-10-30,Active,7,10,1007,Jakarta HQ,Permanent
+1302,Mario Anggraini,Male,32,1993-02-23,Single,Bachelor,Jakarta,DKI Jakarta,2022-10-03,Active,7,10,1007,Jakarta HQ,Permanent
+1303,Cahyo Pertiwi,Male,41,1984-11-20,Married,Bachelor,Bekasi,Jawa Barat,2019-01-12,Active,3,3,1003,Jakarta HQ,Permanent
+1304,Anggita Harahap,Female,30,1995-08-21,Married,Bachelor,Depok,Jawa Barat,2023-08-09,Active,4,8,1004,Jakarta HQ,Contract
+1305,Vino Rahmawati,Male,38,1987-10-21,Married,Bachelor,Yogyakarta,DI Yogyakarta,2016-06-18,Active,1,3,1001,Jakarta HQ,Permanent
+1306,Putra Kusuma,Male,23,2002-04-06,Single,Bachelor,Jakarta,DKI Jakarta,2022-09-11,Active,1,1,1001,Jakarta HQ,Permanent
+1307,Joko Handayani,Male,42,1983-05-08,Single,High School,Bandung,Jawa Barat,2019-06-11,Active,10,18,1010,Remote,Permanent
+1308,Krisna Setiawan,Male,49,1976-03-23,Married,Bachelor,Bekasi,Jawa Barat,2014-08-06,Active,9,17,1009,Jakarta HQ,Permanent
+1309,Oki Handayani,Male,33,1992-05-12,Married,Diploma,Jakarta,DKI Jakarta,2018-06-23,Active,4,8,1004,Remote,Permanent
+1310,Gladys Putri,Female,26,1999-07-26,Married,Bachelor,Surabaya,Jawa Timur,2023-07-07,Active,4,8,1004,Surabaya Office,Permanent
+1311,Olivia Kusuma,Female,32,1993-07-21,Married,Bachelor,Surabaya,Jawa Timur,2019-02-12,Active,6,14,1006,Surabaya Office,Permanent
+1312,Eko Hakim,Male,28,1997-05-04,Single,High School,Jakarta,DKI Jakarta,2021-03-16,Active,7,10,1007,Jakarta HQ,Permanent
+1313,Irfan Anwar,Male,22,2003-04-03,Married,Doctorate,Bandung,Jawa Barat,2024-10-25,Active,1,1,1001,Bandung Office,Permanent
+1314,Joko Anggraini,Male,30,1995-07-03,Single,High School,Jakarta,DKI Jakarta,2020-03-07,Active,7,10,1007,Jakarta HQ,Intern
+1315,Erika Hartono,Female,31,1994-04-15,Married,Bachelor,Bekasi,Jawa Barat,2017-09-16,Active,6,14,1006,Jakarta HQ,Permanent
+1316,Lestari Siregar,Female,23,2002-05-16,Divorced,Bachelor,Jakarta,DKI Jakarta,2023-07-24,Active,5,11,1005,Remote,Permanent
+1317,Bella Hartono,Female,30,1995-01-19,Single,Bachelor,Tangerang,Banten,2017-03-05,Active,1,3,1001,Remote,Permanent
+1318,Satria Susilo,Male,30,1995-02-05,Single,Master,Jakarta,DKI Jakarta,2022-07-06,Active,2,5,1002,Jakarta HQ,Permanent
+1319,Irfan Kusuma,Male,36,1989-08-23,Single,Bachelor,Jakarta,DKI Jakarta,2015-01-22,Active,1,4,1001,Jakarta HQ,Permanent
+1320,Joko Anwar,Male,26,1999-05-18,Single,High School,Jakarta,DKI Jakarta,2023-03-15,Active,2,5,1002,Jakarta HQ,Contract
+1321,Eko Hutapea,Male,32,1993-04-17,Single,Diploma,Jakarta,DKI Jakarta,2017-01-25,Active,7,10,1007,Jakarta HQ,Permanent
+1322,Candra Santoso,Male,27,1998-08-07,Married,Bachelor,Bekasi,Jawa Barat,2024-10-16,Active,1,2,1001,Jakarta HQ,Permanent
+1323,Nanda Tanjung,Male,23,2002-08-26,Single,Bachelor,Bekasi,Jawa Barat,2025-05-01,Active,3,1,1003,Jakarta HQ,Contract
+1324,Umi Saputra,Female,25,2000-09-04,Single,Bachelor,Bekasi,Jawa Barat,2025-07-06,Active,2,5,1002,Jakarta HQ,Permanent
+1325,Rina Manurung,Female,41,1984-11-15,Single,Diploma,Jakarta,DKI Jakarta,2016-09-11,Active,6,14,1006,Jakarta HQ,Intern
+1326,Lestari Hidayat,Female,31,1994-07-25,Married,Bachelor,Semarang,Jawa Tengah,2019-03-28,Active,4,8,1004,Jakarta HQ,Permanent
+1327,Erika Cahyani,Female,30,1995-12-02,Single,Bachelor,Bandung,Jawa Barat,2020-10-25,Active,6,14,1006,Bandung Office,Contract
+1328,Ika Simanjuntak,Female,34,1991-02-02,Single,Bachelor,Jakarta,DKI Jakarta,2015-05-06,Active,1,3,1001,Jakarta HQ,Permanent
+1329,Vania Halim,Female,24,2001-08-27,Married,Master,Jakarta,DKI Jakarta,2025-06-01,Active,4,7,1004,Jakarta HQ,Permanent
+1330,Hadi Wibowo,Male,37,1988-11-28,Married,Bachelor,Depok,Jawa Barat,2015-10-30,Resigned,8,9,1008,Jakarta HQ,Permanent
+1331,Yudi Cahyani,Male,29,1996-10-19,Single,Bachelor,Bandung,Jawa Barat,2025-07-11,Active,2,5,1002,Bandung Office,Permanent
+1332,Indra Sutanto,Male,38,1987-12-05,Single,Bachelor,Bekasi,Jawa Barat,2022-03-01,Active,4,8,1004,Jakarta HQ,Permanent
+1333,Doni Hidayat,Male,23,2002-02-22,Married,Bachelor,Jakarta,DKI Jakarta,2022-03-31,Active,2,5,1002,Jakarta HQ,Permanent
+1334,Erika Wijaya,Female,29,1996-04-22,Single,Master,Surabaya,Jawa Timur,2022-08-15,Terminated,3,15,1003,Surabaya Office,Contract
+1335,Wahyu Pertiwi,Male,30,1995-08-16,Married,Bachelor,Jakarta,DKI Jakarta,2024-05-16,Active,8,9,1008,Jakarta HQ,Permanent
+1336,Tania Lestari,Female,28,1997-10-22,Married,Diploma,Jakarta,DKI Jakarta,2025-06-24,Active,6,13,1006,Jakarta HQ,Permanent
+1337,Tania Iskandar,Female,38,1987-01-10,Married,Bachelor,Denpasar,Bali,2016-07-08,Active,1,4,1001,Jakarta HQ,Permanent
+1338,Faisal Simanjuntak,Male,37,1988-01-02,Single,Bachelor,Jakarta,DKI Jakarta,2021-02-04,Active,1,2,1001,Jakarta HQ,Permanent
+1339,Rina Kusuma,Female,32,1993-01-18,Single,Bachelor,Jakarta,DKI Jakarta,2020-07-10,Active,2,6,1002,Jakarta HQ,Intern
+1340,Mario Susilo,Male,28,1997-05-20,Married,Master,Bekasi,Jawa Barat,2023-03-18,Active,5,11,1005,Jakarta HQ,Contract
+1341,Joko Manurung,Male,24,2001-06-03,Married,Master,Jakarta,DKI Jakarta,2025-07-30,Active,2,5,1002,Jakarta HQ,Permanent
+1342,Rina Setiawan,Female,28,1997-04-04,Married,Bachelor,Jakarta,DKI Jakarta,2023-07-31,Active,3,15,1003,Jakarta HQ,Permanent
+1343,Wahyu Halim,Male,24,2001-09-28,Single,Bachelor,Jakarta,DKI Jakarta,2022-04-25,Active,1,1,1001,Jakarta HQ,Permanent
+1344,Olivia Santoso,Female,41,1984-02-06,Single,Bachelor,Tangerang,Banten,2015-02-27,Active,9,17,1009,Jakarta HQ,Permanent
+1345,Mario Nasution,Male,34,1991-09-21,Married,Bachelor,Jakarta,DKI Jakarta,2024-02-09,Active,7,10,1007,Jakarta HQ,Permanent
+1346,Jihan Anggraini,Female,36,1989-05-15,Single,Master,Surabaya,Jawa Timur,2016-06-01,Active,10,18,1010,Surabaya Office,Permanent
+1347,Erika Handayani,Female,37,1988-09-04,Single,Bachelor,Medan,Sumatera Utara,2022-01-07,Active,8,9,1008,Medan Office,Permanent
+1348,Fitri Kusuma,Female,27,1998-12-21,Single,Bachelor,Jakarta,DKI Jakarta,2024-08-30,Active,4,7,1004,Jakarta HQ,Permanent
+1349,Anto Wijaya,Male,24,2001-06-19,Single,Bachelor,Yogyakarta,DI Yogyakarta,2024-08-10,Active,9,16,1009,Remote,Permanent
+1350,Irfan Santoso,Male,22,2003-10-25,Single,Master,Bandung,Jawa Barat,2023-10-27,Active,4,7,1004,Bandung Office,Permanent
+1351,Edwin Handayani,Male,35,1990-10-01,Single,Diploma,Jakarta,DKI Jakarta,2021-01-26,Active,4,8,1004,Jakarta HQ,Permanent
+1352,Tania Manurung,Female,35,1990-05-11,Single,Bachelor,Jakarta,DKI Jakarta,2023-10-08,Active,3,2,1003,Jakarta HQ,Permanent
+1353,Novi Iskandar,Female,22,2003-02-25,Single,Bachelor,Jakarta,DKI Jakarta,2023-05-21,Resigned,4,7,1004,Jakarta HQ,Permanent
+1354,Cahyo Siregar,Male,36,1989-12-07,Divorced,Bachelor,Jakarta,DKI Jakarta,2013-10-06,Active,1,3,1001,Jakarta HQ,Permanent
+1355,Vino Kusuma,Male,46,1979-03-20,Single,Bachelor,Bandung,Jawa Barat,2013-02-23,Active,9,17,1009,Bandung Office,Permanent
+1356,Faisal Pertiwi,Male,25,2000-10-14,Single,Bachelor,Jakarta,DKI Jakarta,2022-10-10,Active,9,16,1009,Jakarta HQ,Permanent
+1357,Leo Hidayat,Male,38,1987-01-04,Married,Diploma,Jakarta,DKI Jakarta,2019-05-13,Active,7,10,1007,Jakarta HQ,Contract
+1358,Citra Maulana,Female,50,1975-03-21,Married,Diploma,Yogyakarta,DI Yogyakarta,2015-02-03,Active,9,17,1009,Jakarta HQ,Permanent
+1359,Bunga Permana,Female,35,1990-11-11,Divorced,Bachelor,Makassar,Sulawesi Selatan,2019-10-01,Resigned,4,8,1004,Jakarta HQ,Contract
+1360,Hadi Putri,Male,37,1988-06-23,Married,Master,Bandung,Jawa Barat,2024-06-15,Active,4,8,1004,Bandung Office,Permanent
+1361,Candra Santoso,Male,23,2002-08-17,Married,Master,Medan,Sumatera Utara,2025-02-27,Active,2,5,1002,Remote,Permanent
+1362,Jihan Maulana,Female,25,2000-12-02,Married,Bachelor,Surabaya,Jawa Timur,2022-04-18,Resigned,2,5,1002,Surabaya Office,Permanent
+1363,Gita Siregar,Female,44,1981-01-19,Single,Bachelor,Jakarta,DKI Jakarta,2018-07-19,Active,1,4,1001,Jakarta HQ,Permanent
+1364,Pandu Simanjuntak,Male,33,1992-04-18,Single,Bachelor,Jakarta,DKI Jakarta,2017-01-26,Active,1,3,1001,Remote,Permanent
+1365,Dimas Maulana,Male,35,1990-08-22,Married,Master,Jakarta,DKI Jakarta,2022-09-09,Active,5,12,1005,Remote,Permanent
+1366,Umi Sari,Female,36,1989-12-25,Single,Master,Denpasar,Bali,2014-09-25,Active,6,14,1006,Jakarta HQ,Contract
+1367,Satria Salim,Male,33,1992-04-08,Married,Bachelor,Medan,Sumatera Utara,2022-06-23,Active,4,8,1004,Medan Office,Contract
+1368,Hadi Pangestu,Male,29,1996-08-28,Single,Master,Surabaya,Jawa Timur,2024-06-10,Terminated,4,7,1004,Surabaya Office,Contract
+1369,Karina Salim,Female,28,1997-10-14,Single,Master,Bekasi,Jawa Barat,2024-06-30,Active,2,5,1002,Jakarta HQ,Permanent
+1370,Wulan Hutapea,Female,37,1988-04-06,Single,Diploma,Semarang,Jawa Tengah,2023-01-13,Active,7,10,1007,Remote,Permanent
+1371,Gilang Nasution,Male,38,1987-07-11,Married,Bachelor,Jakarta,DKI Jakarta,2017-10-03,Active,2,6,1002,Jakarta HQ,Permanent
+1372,Teguh Mahendra,Male,35,1990-10-15,Married,Bachelor,Tangerang,Banten,2021-07-20,Active,1,2,1001,Jakarta HQ,Contract
+1373,Novi Nugroho,Female,35,1990-09-13,Single,Bachelor,Jakarta,DKI Jakarta,2022-06-05,Active,4,8,1004,Jakarta HQ,Intern
+1374,Putri Sutanto,Female,42,1983-11-11,Married,Diploma,Jakarta,DKI Jakarta,2016-04-10,Active,1,3,1001,Jakarta HQ,Permanent
+1375,Taufik Maulana,Male,39,1986-01-03,Divorced,Diploma,Surabaya,Jawa Timur,2022-08-21,Active,9,17,1009,Surabaya Office,Permanent
+1376,Winda Nasution,Female,32,1993-10-06,Single,Bachelor,Bandung,Jawa Barat,2017-02-16,Active,4,8,1004,Bandung Office,Permanent
+1377,Sari Wardhana,Female,30,1995-10-12,Married,Bachelor,Bekasi,Jawa Barat,2025-10-13,Terminated,4,7,1004,Jakarta HQ,Permanent
+1378,Farhan Siregar,Male,32,1993-04-16,Single,Bachelor,Surabaya,Jawa Timur,2021-01-30,Resigned,6,14,1006,Surabaya Office,Permanent
+1379,Wulan Wardhana,Female,31,1994-05-10,Married,Bachelor,Tangerang,Banten,2023-10-15,Active,4,8,1004,Jakarta HQ,Permanent
+1380,Tika Harahap,Female,22,2003-05-16,Single,Bachelor,Bandung,Jawa Barat,2025-08-29,Active,4,7,1004,Bandung Office,Contract
+1381,Novi Susilo,Female,29,1996-06-26,Married,High School,Surabaya,Jawa Timur,2024-06-21,Active,1,1,1001,Surabaya Office,Intern
+1382,Cantika Mahendra,Female,25,2000-11-15,Single,Master,Bekasi,Jawa Barat,2024-07-17,Resigned,9,16,1009,Jakarta HQ,Permanent
+1383,Krisna Wibowo,Male,32,1993-11-23,Single,Bachelor,Jakarta,DKI Jakarta,2018-03-06,Active,4,8,1004,Jakarta HQ,Permanent
+1384,Krisna Pangestu,Male,28,1997-10-21,Married,Bachelor,Jakarta,DKI Jakarta,2023-05-15,Active,2,5,1002,Jakarta HQ,Permanent
+1385,Yudi Hakim,Male,27,1998-09-01,Single,Bachelor,Jakarta,DKI Jakarta,2025-09-28,Resigned,2,5,1002,Remote,Permanent
+1386,Dewi Nasution,Female,25,2000-10-21,Married,Bachelor,Jakarta,DKI Jakarta,2025-09-01,Active,1,1,1001,Jakarta HQ,Contract
+1387,Ratih Rahmawati,Female,29,1996-11-03,Married,Bachelor,Surabaya,Jawa Timur,2022-06-14,Active,1,1,1001,Surabaya Office,Contract
+1388,Wisnu Anggraini,Male,26,1999-05-06,Single,Bachelor,Bandung,Jawa Barat,2022-09-28,Active,2,5,1002,Bandung Office,Permanent
+1389,Gita Anwar,Female,26,1999-02-02,Married,Diploma,Bekasi,Jawa Barat,2025-09-26,Active,6,13,1006,Jakarta HQ,Permanent
+1390,Wahyu Sari,Male,47,1978-10-01,Married,Diploma,Bandung,Jawa Barat,2014-02-26,Active,9,17,1009,Bandung Office,Permanent
+1391,Krisna Pangestu,Male,31,1994-11-10,Married,Master,Depok,Jawa Barat,2021-10-05,Resigned,3,15,1003,Jakarta HQ,Permanent
+1392,Larasati Simanjuntak,Female,26,1999-07-22,Single,Diploma,Tangerang,Banten,2024-06-01,Active,4,8,1004,Jakarta HQ,Permanent
+1393,Bagas Sinaga,Male,25,2000-08-13,Married,Master,Depok,Jawa Barat,2025-01-29,Active,6,13,1006,Jakarta HQ,Permanent
+1394,Citra Cahyani,Female,27,1998-04-26,Single,Bachelor,Bandung,Jawa Barat,2022-02-08,Active,2,6,1002,Bandung Office,Contract
+1395,Bagas Halim,Male,35,1990-01-08,Married,Bachelor,Jakarta,DKI Jakarta,2022-10-26,Active,1,2,1001,Remote,Permanent
+1396,Oka Harahap,Male,25,2000-02-26,Single,Diploma,Jakarta,DKI Jakarta,2024-03-28,Active,4,7,1004,Jakarta HQ,Permanent
+1397,Nadia Wijaya,Female,35,1990-03-11,Single,Diploma,Jakarta,DKI Jakarta,2023-09-02,Active,4,8,1004,Jakarta HQ,Permanent
+1398,Reza Harahap,Male,28,1997-03-01,Married,Master,Jakarta,DKI Jakarta,2022-09-22,Resigned,4,7,1004,Remote,Permanent
+1399,Nadia Susilo,Female,36,1989-05-17,Married,Bachelor,Jakarta,DKI Jakarta,2017-04-07,Active,7,10,1007,Remote,Permanent
+1400,Adi Simanjuntak,Male,37,1988-04-04,Married,Bachelor,Depok,Jawa Barat,2014-09-17,Active,1,3,1001,Jakarta HQ,Permanent
+1401,Joko Halim,Male,29,1996-03-06,Single,Master,Depok,Jawa Barat,2025-10-05,Active,1,1,1001,Jakarta HQ,Permanent
+1402,Larasati Pratama,Female,22,2003-08-17,Single,Diploma,Yogyakarta,DI Yogyakarta,2025-09-26,Active,1,1,1001,Jakarta HQ,Permanent
+1403,Gilang Hartono,Male,28,1997-04-13,Single,Master,Bandung,Jawa Barat,2024-09-25,Active,2,5,1002,Bandung Office,Permanent
+1404,Made Pangestu,Male,30,1995-04-11,Married,Bachelor,Tangerang,Banten,2023-10-17,Active,3,2,1003,Remote,Permanent
+1405,Rina Harahap,Female,28,1997-10-18,Single,Bachelor,Bandung,Jawa Barat,2023-09-19,Active,2,6,1002,Bandung Office,Permanent
+1406,Putri Hartono,Female,45,1980-07-19,Single,Doctorate,Medan,Sumatera Utara,2019-08-19,Active,1,4,1001,Medan Office,Permanent
+1407,Galih Ramadhan,Male,33,1992-08-08,Single,Bachelor,Surabaya,Jawa Timur,2023-01-21,Active,4,8,1004,Surabaya Office,Permanent
+1408,Umar Pratama,Male,44,1981-10-24,Married,Diploma,Denpasar,Bali,2013-10-23,Active,10,18,1010,Jakarta HQ,Contract
+1409,Elsa Mahendra,Female,27,1998-09-02,Married,Bachelor,Surabaya,Jawa Timur,2023-03-29,Active,5,11,1005,Surabaya Office,Permanent
+1410,Dewi Lubis,Female,46,1979-01-04,Married,Bachelor,Bandung,Jawa Barat,2016-04-30,Active,5,12,1005,Remote,Permanent
+1411,Putri Hutapea,Female,27,1998-11-16,Married,Bachelor,Yogyakarta,DI Yogyakarta,2022-01-09,Active,7,10,1007,Jakarta HQ,Contract
+1412,Eko Iskandar,Male,31,1994-08-16,Married,Master,Semarang,Jawa Tengah,2020-02-07,Active,4,8,1004,Jakarta HQ,Permanent
+1413,Faisal Handayani,Male,23,2002-07-06,Married,Master,Jakarta,DKI Jakarta,2023-09-24,Active,3,1,1003,Jakarta HQ,Permanent
+1414,Yudi Hutapea,Male,39,1986-08-12,Single,Master,Surabaya,Jawa Timur,2016-03-21,Active,5,12,1005,Remote,Contract
+1415,Wisnu Hidayat,Male,33,1992-10-22,Married,Diploma,Bandung,Jawa Barat,2016-01-28,Active,4,8,1004,Bandung Office,Permanent
+1416,Dewi Susilo,Female,31,1994-05-15,Married,Bachelor,Surabaya,Jawa Timur,2023-08-12,Active,4,8,1004,Surabaya Office,Permanent
+1417,Vino Manurung,Male,28,1997-08-09,Divorced,Diploma,Jakarta,DKI Jakarta,2022-07-31,Active,1,2,1001,Jakarta HQ,Permanent
+1418,Bagas Cahyani,Male,50,1975-03-15,Single,Bachelor,Jakarta,DKI Jakarta,2017-08-16,Active,9,17,1009,Jakarta HQ,Permanent
+1419,Erika Sari,Female,23,2002-12-16,Married,Bachelor,Tangerang,Banten,2025-08-22,Resigned,2,5,1002,Remote,Permanent
+1420,Olivia Setiawan,Female,25,2000-01-03,Married,Bachelor,Denpasar,Bali,2022-09-19,Active,2,5,1002,Jakarta HQ,Permanent
+1421,Doni Iskandar,Male,47,1978-06-01,Single,Bachelor,Jakarta,DKI Jakarta,2018-05-11,Active,5,12,1005,Jakarta HQ,Permanent
+1422,Doni Wardhana,Male,34,1991-10-20,Divorced,Diploma,Jakarta,DKI Jakarta,2021-08-21,Active,10,18,1010,Jakarta HQ,Intern
+1423,Reza Setiawan,Male,28,1997-03-18,Single,Bachelor,Surabaya,Jawa Timur,2022-01-16,Active,6,13,1006,Remote,Permanent
+1424,Faisal Wibowo,Male,26,1999-01-05,Married,Master,Makassar,Sulawesi Selatan,2023-06-02,Active,7,10,1007,Jakarta HQ,Permanent
+1425,Surya Tanjung,Male,23,2002-10-24,Married,Master,Bandung,Jawa Barat,2023-01-09,Active,4,7,1004,Bandung Office,Contract
+1426,Kirana Sinaga,Female,22,2003-03-11,Married,Master,Jakarta,DKI Jakarta,2022-08-25,Active,3,1,1003,Remote,Permanent
+1427,Reza Hakim,Male,23,2002-10-25,Married,Bachelor,Jakarta,DKI Jakarta,2024-01-28,Active,2,5,1002,Jakarta HQ,Permanent
+1428,Adinda Maulana,Female,39,1986-06-25,Single,Bachelor,Jakarta,DKI Jakarta,2015-04-08,Resigned,3,3,1003,Jakarta HQ,Permanent
+1429,Eko Pertiwi,Male,28,1997-01-16,Divorced,Bachelor,Tangerang,Banten,2022-05-27,Active,8,9,1008,Remote,Intern
+1430,Hadi Wibowo,Male,34,1991-12-05,Married,Bachelor,Jakarta,DKI Jakarta,2019-05-30,Resigned,1,3,1001,Remote,Permanent
+1431,Gilang Wijaya,Male,38,1987-11-17,Single,High School,Bandung,Jawa Barat,2015-10-05,Resigned,7,10,1007,Bandung Office,Permanent
+1432,Maya Hakim,Female,36,1989-06-01,Single,Diploma,Semarang,Jawa Tengah,2023-08-20,Active,1,2,1001,Jakarta HQ,Permanent
+1433,Eko Ramadhan,Male,22,2003-09-07,Married,Master,Jakarta,DKI Jakarta,2024-06-10,Resigned,6,13,1006,Jakarta HQ,Contract
+1434,Naufal Hakim,Male,33,1992-11-04,Single,Bachelor,Denpasar,Bali,2022-05-05,Active,7,10,1007,Jakarta HQ,Permanent
+1435,Zaki Rahmawati,Male,30,1995-12-02,Married,Bachelor,Bandung,Jawa Barat,2025-05-18,Active,4,7,1004,Bandung Office,Contract
+1436,Doni Santoso,Male,37,1988-08-22,Single,Bachelor,Jakarta,DKI Jakarta,2017-08-04,Active,1,4,1001,Jakarta HQ,Permanent
+1437,Naufal Ramadhan,Male,40,1985-02-12,Single,Bachelor,Jakarta,DKI Jakarta,2019-05-14,Active,1,4,1001,Jakarta HQ,Permanent
+1438,Salsabila Cahyani,Female,41,1984-08-22,Married,Diploma,Denpasar,Bali,2013-04-11,Active,6,14,1006,Jakarta HQ,Permanent
+1439,Dimas Saputra,Male,33,1992-11-01,Married,Bachelor,Depok,Jawa Barat,2022-04-21,Active,1,2,1001,Jakarta HQ,Permanent
+1440,Maya Rahmawati,Female,36,1989-08-16,Single,Bachelor,Bekasi,Jawa Barat,2016-06-23,Active,4,8,1004,Jakarta HQ,Intern
+1441,Vino Mahendra,Male,33,1992-08-02,Married,Bachelor,Bekasi,Jawa Barat,2024-08-03,Active,8,9,1008,Jakarta HQ,Permanent
+1442,Mira Tanjung,Female,45,1980-08-18,Single,Bachelor,Jakarta,DKI Jakarta,2020-02-17,Active,6,14,1006,Jakarta HQ,Permanent
+1443,Candra Maulana,Male,27,1998-06-26,Single,Diploma,Jakarta,DKI Jakarta,2025-05-11,Active,2,5,1002,Jakarta HQ,Permanent
+1444,Winda Saputra,Female,39,1986-02-11,Single,Bachelor,Bekasi,Jawa Barat,2020-10-23,Active,1,3,1001,Remote,Permanent
+1445,Vania Mahendra,Female,47,1978-06-19,Married,Bachelor,Jakarta,DKI Jakarta,2021-02-25,Active,1,4,1001,Jakarta HQ,Permanent
+1446,Maya Tanjung,Female,37,1988-09-07,Single,Bachelor,Jakarta,DKI Jakarta,2018-06-21,Active,5,12,1005,Jakarta HQ,Permanent
+1447,Sari Saputra,Female,35,1990-09-16,Married,Bachelor,Jakarta,DKI Jakarta,2018-07-19,Active,7,10,1007,Remote,Permanent
+1448,Pandu Lubis,Male,33,1992-11-25,Single,Bachelor,Yogyakarta,DI Yogyakarta,2016-08-03,Active,2,6,1002,Jakarta HQ,Permanent
+1449,Reza Hutapea,Male,38,1987-10-28,Married,Bachelor,Surabaya,Jawa Timur,2018-01-18,Active,7,10,1007,Remote,Permanent
+1450,Eko Permana,Male,43,1982-05-27,Single,Diploma,Jakarta,DKI Jakarta,2018-08-13,Active,6,14,1006,Jakarta HQ,Permanent
+1451,Doni Sutanto,Male,36,1989-01-07,Married,Diploma,Jakarta,DKI Jakarta,2022-06-16,Active,7,10,1007,Jakarta HQ,Contract
+1452,Dewi Handayani,Female,45,1980-10-10,Single,Master,Yogyakarta,DI Yogyakarta,2021-04-08,Active,9,17,1009,Jakarta HQ,Contract
+1453,Naufal Siregar,Male,26,1999-08-03,Married,Master,Surabaya,Jawa Timur,2024-08-31,Active,1,1,1001,Surabaya Office,Permanent
+1454,Lukman Permana,Male,26,1999-08-14,Single,Bachelor,Bandung,Jawa Barat,2023-10-05,Active,9,16,1009,Bandung Office,Permanent
+1455,Zaki Putri,Male,22,2003-11-20,Married,Bachelor,Tangerang,Banten,2025-10-05,Active,9,16,1009,Jakarta HQ,Contract
+1456,Putra Anwar,Male,28,1997-01-13,Single,Master,Jakarta,DKI Jakarta,2023-06-01,Active,3,1,1003,Jakarta HQ,Contract
+1457,Sari Handayani,Female,50,1975-08-24,Married,Bachelor,Surabaya,Jawa Timur,2016-05-17,Active,5,12,1005,Surabaya Office,Permanent
+1458,Bagas Anggraini,Male,35,1990-11-15,Single,Diploma,Bandung,Jawa Barat,2020-11-01,Active,3,3,1003,Bandung Office,Permanent
+1459,Yuliana Wardhana,Female,27,1998-08-16,Single,Diploma,Jakarta,DKI Jakarta,2024-06-21,Active,9,16,1009,Jakarta HQ,Permanent
+1460,Mira Wibowo,Female,26,1999-01-18,Single,Bachelor,Denpasar,Bali,2024-09-17,Active,3,15,1003,Jakarta HQ,Permanent
+1461,Kirana Manurung,Female,23,2002-01-23,Single,Master,Semarang,Jawa Tengah,2022-03-15,Active,2,5,1002,Jakarta HQ,Contract
+1462,Doni Permana,Male,35,1990-04-27,Single,Bachelor,Bandung,Jawa Barat,2020-07-29,Active,2,6,1002,Bandung Office,Permanent
+1463,Salsabila Salim,Female,27,1998-01-16,Single,Bachelor,Denpasar,Bali,2024-05-20,Active,8,9,1008,Jakarta HQ,Permanent
+1464,Putra Halim,Male,27,1998-10-22,Single,Bachelor,Jakarta,DKI Jakarta,2025-10-30,Active,1,1,1001,Jakarta HQ,Intern
+1465,Indra Tanjung,Male,27,1998-08-05,Single,Master,Surabaya,Jawa Timur,2025-05-23,Active,4,7,1004,Surabaya Office,Permanent
+1466,Dinda Rahmawati,Female,43,1982-10-27,Divorced,Bachelor,Jakarta,DKI Jakarta,2018-02-12,Active,9,17,1009,Jakarta HQ,Permanent
+1467,Joko Anggraini,Male,29,1996-03-02,Married,Bachelor,Jakarta,DKI Jakarta,2021-06-22,Terminated,7,10,1007,Jakarta HQ,Permanent
+1468,Hadi Susilo,Male,33,1992-06-03,Single,Master,Jakarta,DKI Jakarta,2019-06-11,Active,10,18,1010,Remote,Permanent
+1469,Mario Hakim,Male,28,1997-02-08,Married,Bachelor,Yogyakarta,DI Yogyakarta,2022-09-15,Active,4,7,1004,Remote,Permanent
+1470,Farhan Salim,Male,50,1975-08-21,Married,Master,Jakarta,DKI Jakarta,2018-11-01,Active,9,17,1009,Remote,Intern
+1471,Dimas Rahmawati,Male,31,1994-01-24,Single,Master,Makassar,Sulawesi Selatan,2024-01-26,Active,8,9,1008,Jakarta HQ,Contract
+1472,Bambang Rahmawati,Male,36,1989-11-05,Single,Bachelor,Bandung,Jawa Barat,2023-06-03,Active,1,2,1001,Bandung Office,Permanent
+1473,Hendra Anwar,Male,47,1978-08-09,Single,Bachelor,Jakarta,DKI Jakarta,2013-04-02,Active,5,12,1005,Jakarta HQ,Permanent
+1474,Salsabila Susilo,Female,33,1992-09-21,Married,Diploma,Jakarta,DKI Jakarta,2016-09-22,Active,4,8,1004,Jakarta HQ,Permanent
+1475,Teguh Manurung,Male,26,1999-09-03,Married,Bachelor,Jakarta,DKI Jakarta,2024-02-13,Resigned,8,9,1008,Jakarta HQ,Permanent
+1476,Bunga Pertiwi,Female,29,1996-03-26,Single,Bachelor,Jakarta,DKI Jakarta,2024-04-14,Active,2,5,1002,Jakarta HQ,Permanent
+1477,Lukman Permana,Male,28,1997-02-24,Single,Bachelor,Bandung,Jawa Barat,2022-09-09,Active,4,8,1004,Remote,Permanent
+1478,Pandu Iskandar,Male,37,1988-11-23,Married,Bachelor,Jakarta,DKI Jakarta,2018-06-02,Active,3,15,1003,Remote,Permanent
+1479,Salsabila Hartono,Female,48,1977-11-28,Single,Diploma,Jakarta,DKI Jakarta,2014-07-30,Active,1,4,1001,Jakarta HQ,Contract
+1480,Gladys Lestari,Female,44,1981-10-08,Single,Bachelor,Bekasi,Jawa Barat,2019-06-06,Resigned,6,14,1006,Jakarta HQ,Permanent
+1481,Oktavia Simanjuntak,Female,44,1981-01-16,Married,Master,Bandung,Jawa Barat,2016-02-29,Active,9,17,1009,Bandung Office,Permanent
+1482,Vino Simanjuntak,Male,23,2002-05-21,Single,Bachelor,Jakarta,DKI Jakarta,2022-03-05,Active,1,1,1001,Jakarta HQ,Permanent
+1483,Oki Lubis,Male,37,1988-10-22,Divorced,Master,Jakarta,DKI Jakarta,2017-03-09,Active,6,14,1006,Jakarta HQ,Permanent
+1484,Kirana Harahap,Female,36,1989-05-23,Single,Bachelor,Jakarta,DKI Jakarta,2021-02-28,Active,6,14,1006,Jakarta HQ,Intern
+1485,Bunga Pangestu,Female,26,1999-06-22,Single,Bachelor,Semarang,Jawa Tengah,2024-08-04,Resigned,2,5,1002,Jakarta HQ,Permanent
+1486,Wisnu Pangestu,Male,38,1987-01-25,Married,Diploma,Yogyakarta,DI Yogyakarta,2016-06-20,Active,1,2,1001,Jakarta HQ,Permanent
+1487,Hana Ramadhan,Female,38,1987-09-02,Single,Bachelor,Jakarta,DKI Jakarta,2014-09-12,Active,9,17,1009,Remote,Permanent
+1488,Gita Susilo,Female,41,1984-06-27,Married,Bachelor,Semarang,Jawa Tengah,2020-09-01,Active,6,14,1006,Jakarta HQ,Contract
+1489,Zaki Wardhana,Male,27,1998-11-22,Single,Bachelor,Surabaya,Jawa Timur,2024-08-16,Active,2,5,1002,Surabaya Office,Contract
+1490,Erika Susilo,Female,38,1987-01-23,Single,Diploma,Jakarta,DKI Jakarta,2016-09-29,Active,8,9,1008,Jakarta HQ,Permanent
+1491,Dewi Siregar,Female,26,1999-07-13,Married,Master,Medan,Sumatera Utara,2023-05-26,Active,5,11,1005,Remote,Permanent
+1492,Pertiwi Harahap,Female,29,1996-12-12,Single,Bachelor,Yogyakarta,DI Yogyakarta,2022-07-24,Active,4,7,1004,Remote,Contract
+1493,Indra Simanjuntak,Male,30,1995-09-11,Single,Master,Jakarta,DKI Jakarta,2019-08-14,Active,4,8,1004,Jakarta HQ,Permanent
+1494,Zahra Kusuma,Female,30,1995-06-04,Single,Bachelor,Bandung,Jawa Barat,2025-08-30,Resigned,4,7,1004,Bandung Office,Permanent
+1495,Teguh Manurung,Male,24,2001-12-13,Single,Diploma,Jakarta,DKI Jakarta,2024-09-09,Active,4,7,1004,Jakarta HQ,Permanent
+1496,Doni Maulana,Male,33,1992-04-15,Married,Master,Tangerang,Banten,2023-04-27,Active,7,10,1007,Jakarta HQ,Permanent
+1497,Hesti Wardhana,Female,40,1985-03-17,Married,Diploma,Surabaya,Jawa Timur,2020-02-28,Active,5,12,1005,Remote,Permanent
+1498,Zahra Pertiwi,Female,28,1997-02-04,Single,Bachelor,Jakarta,DKI Jakarta,2023-01-14,Terminated,4,7,1004,Jakarta HQ,Permanent
+1499,Naufal Wardhana,Male,26,1999-05-10,Single,Master,Semarang,Jawa Tengah,2024-07-31,Terminated,1,2,1001,Jakarta HQ,Permanent
+1500,Anggita Halim,Female,37,1988-10-05,Single,Bachelor,Depok,Jawa Barat,2022-02-17,Active,4,8,1004,Jakarta HQ,Permanent
+1501,Bambang Sari,Male,36,1989-11-15,Married,Bachelor,Yogyakarta,DI Yogyakarta,2018-09-19,Active,5,12,1005,Jakarta HQ,Permanent
+1502,Pandu Hutapea,Male,22,2003-10-17,Married,Master,Bandung,Jawa Barat,2024-03-03,Active,1,1,1001,Remote,Permanent
+1503,Krisna Nasution,Male,45,1980-07-19,Single,Master,Yogyakarta,DI Yogyakarta,2022-02-24,Active,1,4,1001,Remote,Permanent
+1504,Karina Pratama,Female,26,1999-03-06,Single,Master,Jakarta,DKI Jakarta,2023-09-18,Active,2,5,1002,Jakarta HQ,Permanent
+1505,Vino Susilo,Male,43,1982-06-09,Single,Bachelor,Jakarta,DKI Jakarta,2016-09-03,Active,6,14,1006,Jakarta HQ,Permanent
+1506,Faisal Simanjuntak,Male,48,1977-02-16,Married,Bachelor,Depok,Jawa Barat,2022-04-08,Resigned,9,17,1009,Jakarta HQ,Permanent
+1507,Cahyo Anwar,Male,23,2002-11-17,Married,Bachelor,Jakarta,DKI Jakarta,2024-08-21,Active,6,13,1006,Jakarta HQ,Contract
+1508,Pertiwi Rahmawati,Female,24,2001-01-02,Single,Bachelor,Bekasi,Jawa Barat,2022-06-16,Active,4,7,1004,Jakarta HQ,Permanent
+1509,Krisna Manurung,Male,23,2002-05-03,Married,Bachelor,Semarang,Jawa Tengah,2022-09-01,Active,4,7,1004,Jakarta HQ,Permanent
+1510,Erika Setiawan,Female,29,1996-11-11,Married,Bachelor,Bandung,Jawa Barat,2022-07-18,Resigned,7,10,1007,Bandung Office,Permanent
+1511,Cantika Simanjuntak,Female,29,1996-07-18,Single,Diploma,Bekasi,Jawa Barat,2025-09-23,Active,4,7,1004,Jakarta HQ,Intern
+1512,Wahyu Nugroho,Male,33,1992-08-12,Married,Bachelor,Jakarta,DKI Jakarta,2019-03-21,Active,3,3,1003,Jakarta HQ,Permanent
+1513,Olivia Wibowo,Female,33,1992-06-02,Single,Master,Medan,Sumatera Utara,2020-02-24,Active,7,10,1007,Medan Office,Permanent
+1514,Made Manurung,Male,36,1989-11-20,Single,Bachelor,Jakarta,DKI Jakarta,2015-08-07,Resigned,8,9,1008,Remote,Permanent
+1515,Yudi Lestari,Male,37,1988-11-18,Single,Bachelor,Tangerang,Banten,2015-06-28,Resigned,4,8,1004,Jakarta HQ,Permanent
+1516,Cahyo Setiawan,Male,27,1998-11-17,Single,Bachelor,Jakarta,DKI Jakarta,2023-02-22,Active,7,10,1007,Jakarta HQ,Permanent
+1517,Wisnu Handayani,Male,22,2003-12-08,Single,Bachelor,Medan,Sumatera Utara,2022-09-25,Active,4,7,1004,Medan Office,Permanent
+1518,Rina Sari,Female,26,1999-04-04,Married,Bachelor,Makassar,Sulawesi Selatan,2022-07-03,Active,4,7,1004,Jakarta HQ,Permanent
+1519,Rina Anwar,Female,35,1990-02-03,Married,Diploma,Jakarta,DKI Jakarta,2024-10-15,Active,4,8,1004,Jakarta HQ,Contract
+1520,Yudi Anggraini,Male,36,1989-05-28,Married,Bachelor,Jakarta,DKI Jakarta,2016-04-12,Active,1,4,1001,Jakarta HQ,Permanent
+1521,Pertiwi Ramadhan,Female,31,1994-11-22,Single,Bachelor,Bandung,Jawa Barat,2018-10-21,Active,3,15,1003,Bandung Office,Permanent
+1522,Indah Lubis,Female,30,1995-06-14,Single,Bachelor,Jakarta,DKI Jakarta,2021-03-20,Resigned,7,10,1007,Remote,Permanent
+1523,Krisna Susilo,Male,39,1986-08-10,Married,Diploma,Jakarta,DKI Jakarta,2013-05-13,Active,5,12,1005,Jakarta HQ,Permanent
+1524,Made Santoso,Male,36,1989-04-26,Married,Bachelor,Jakarta,DKI Jakarta,2023-05-12,Active,7,10,1007,Jakarta HQ,Contract
+1525,Cantika Sari,Female,28,1997-02-15,Single,Bachelor,Jakarta,DKI Jakarta,2024-02-22,Active,4,8,1004,Remote,Permanent
+1526,Anggita Permana,Female,42,1983-03-27,Single,Bachelor,Jakarta,DKI Jakarta,2022-05-01,Active,6,14,1006,Jakarta HQ,Permanent
+1527,Bagas Santoso,Male,41,1984-05-06,Single,High School,Surabaya,Jawa Timur,2019-06-22,Active,9,17,1009,Surabaya Office,Contract
+1528,Indah Mahendra,Female,36,1989-02-11,Single,Bachelor,Bandung,Jawa Barat,2021-05-30,Active,8,9,1008,Bandung Office,Contract
+1529,Elsa Pertiwi,Female,39,1986-03-26,Single,Bachelor,Bekasi,Jawa Barat,2019-07-28,Active,5,12,1005,Jakarta HQ,Contract
+1530,Tika Susilo,Female,27,1998-04-02,Single,Diploma,Yogyakarta,DI Yogyakarta,2023-08-30,Active,6,13,1006,Jakarta HQ,Permanent
+1531,Anto Lubis,Male,27,1998-08-17,Married,Bachelor,Jakarta,DKI Jakarta,2022-08-03,Active,5,11,1005,Jakarta HQ,Permanent
+1532,Made Anwar,Male,25,2000-07-07,Single,Bachelor,Yogyakarta,DI Yogyakarta,2023-03-30,Active,3,1,1003,Jakarta HQ,Permanent
+1533,Oki Sinaga,Male,36,1989-08-17,Married,Bachelor,Bandung,Jawa Barat,2013-05-16,Active,1,4,1001,Bandung Office,Permanent
+1534,Eko Pangestu,Male,27,1998-05-27,Single,Diploma,Bekasi,Jawa Barat,2022-02-13,Active,1,2,1001,Remote,Permanent
+1535,Wisnu Kusuma,Male,30,1995-12-27,Married,Bachelor,Jakarta,DKI Jakarta,2019-06-16,Active,4,8,1004,Jakarta HQ,Permanent
+1536,Yoga Cahyani,Male,32,1993-10-25,Married,Bachelor,Tangerang,Banten,2024-03-05,Active,2,6,1002,Jakarta HQ,Permanent
+1537,Leo Salim,Male,37,1988-08-11,Single,Bachelor,Semarang,Jawa Tengah,2023-05-26,Active,1,2,1001,Jakarta HQ,Contract
+1538,Indah Putri,Female,37,1988-01-16,Married,Bachelor,Jakarta,DKI Jakarta,2019-05-14,Active,1,2,1001,Jakarta HQ,Permanent
+1539,Jelita Sari,Female,28,1997-07-07,Married,Bachelor,Bekasi,Jawa Barat,2022-10-01,Resigned,4,7,1004,Jakarta HQ,Contract
+1540,Larasati Wijaya,Female,29,1996-01-06,Single,Bachelor,Medan,Sumatera Utara,2024-09-27,Active,1,1,1001,Medan Office,Permanent
+1541,Cahyo Cahyani,Male,24,2001-02-05,Single,Master,Surabaya,Jawa Timur,2022-03-03,Active,3,1,1003,Surabaya Office,Permanent
+1542,Mario Putri,Male,35,1990-04-17,Married,Bachelor,Jakarta,DKI Jakarta,2017-06-15,Active,7,10,1007,Jakarta HQ,Permanent
+1543,Mario Wijaya,Male,37,1988-02-10,Married,Master,Tangerang,Banten,2017-05-10,Active,2,6,1002,Jakarta HQ,Permanent
+1544,Taufik Hakim,Male,37,1988-10-04,Married,Bachelor,Jakarta,DKI Jakarta,2018-10-12,Active,2,6,1002,Jakarta HQ,Contract
+1545,Cantika Simanjuntak,Female,23,2002-06-03,Single,Bachelor,Surabaya,Jawa Timur,2025-02-16,Active,6,13,1006,Surabaya Office,Permanent
+1546,Bambang Santoso,Male,47,1978-01-01,Married,Bachelor,Tangerang,Banten,2018-09-06,Active,1,4,1001,Remote,Permanent
+1547,Surya Pratama,Male,40,1985-01-20,Single,Bachelor,Jakarta,DKI Jakarta,2021-08-04,Active,5,12,1005,Jakarta HQ,Permanent
+1548,Candra Hutapea,Male,36,1989-08-23,Single,Bachelor,Depok,Jawa Barat,2022-02-08,Active,1,3,1001,Jakarta HQ,Permanent
+1549,Putri Iskandar,Female,42,1983-04-03,Married,Diploma,Jakarta,DKI Jakarta,2022-04-01,Active,1,4,1001,Remote,Contract
+1550,Citra Wardhana,Female,34,1991-02-27,Married,Master,Bekasi,Jawa Barat,2019-05-22,Active,1,2,1001,Jakarta HQ,Permanent
+1551,Adi Cahyani,Male,40,1985-01-13,Married,High School,Jakarta,DKI Jakarta,2019-03-14,Active,1,3,1001,Jakarta HQ,Contract
+1552,Gita Hutapea,Female,38,1987-10-06,Married,Master,Bekasi,Jawa Barat,2020-09-15,Active,3,15,1003,Jakarta HQ,Permanent
+1553,Tania Halim,Female,27,1998-06-01,Married,Bachelor,Bandung,Jawa Barat,2022-01-07,Active,2,6,1002,Bandung Office,Permanent
+1554,Doni Hartono,Male,23,2002-01-05,Single,Master,Jakarta,DKI Jakarta,2023-02-20,Active,1,1,1001,Remote,Permanent
+1555,Vino Wijaya,Male,48,1977-11-27,Single,Diploma,Jakarta,DKI Jakarta,2018-10-22,Active,9,17,1009,Jakarta HQ,Contract
+1556,Anggita Siregar,Female,40,1985-03-15,Married,Diploma,Yogyakarta,DI Yogyakarta,2022-09-30,Active,10,18,1010,Remote,Permanent
+1557,Farhan Sutanto,Male,37,1988-08-10,Single,Bachelor,Jakarta,DKI Jakarta,2022-07-24,Active,1,2,1001,Remote,Permanent
+1558,Zaki Cahyani,Male,32,1993-03-16,Married,Bachelor,Bandung,Jawa Barat,2017-04-01,Active,2,6,1002,Bandung Office,Permanent
+1559,Umi Nasution,Female,30,1995-03-18,Married,Bachelor,Jakarta,DKI Jakarta,2024-06-23,Active,3,1,1003,Jakarta HQ,Permanent
+1560,Made Nugroho,Male,22,2003-09-24,Married,Bachelor,Bandung,Jawa Barat,2023-02-24,Active,6,13,1006,Bandung Office,Permanent
+1561,Candra Pertiwi,Male,42,1983-10-06,Single,Bachelor,Makassar,Sulawesi Selatan,2019-03-25,Active,10,18,1010,Jakarta HQ,Permanent
+1562,Dinda Hartono,Female,25,2000-08-02,Married,Bachelor,Tangerang,Banten,2023-10-19,Active,3,1,1003,Jakarta HQ,Permanent
+1563,Farhan Mahendra,Male,28,1997-12-19,Single,Bachelor,Medan,Sumatera Utara,2025-02-09,Active,5,11,1005,Medan Office,Permanent
+1564,Cantika Handayani,Female,27,1998-11-19,Married,High School,Jakarta,DKI Jakarta,2023-08-21,Active,4,8,1004,Jakarta HQ,Permanent
+1565,Wahyu Wardhana,Male,30,1995-07-21,Single,Diploma,Jakarta,DKI Jakarta,2023-03-27,Active,4,7,1004,Jakarta HQ,Contract
+1566,Dimas Hakim,Male,25,2000-05-28,Single,Bachelor,Depok,Jawa Barat,2022-03-22,Active,4,7,1004,Jakarta HQ,Permanent
+1567,Putra Halim,Male,33,1992-11-25,Married,Doctorate,Jakarta,DKI Jakarta,2023-10-29,Resigned,2,6,1002,Jakarta HQ,Permanent
+1568,Jefri Setiawan,Male,29,1996-08-25,Single,Bachelor,Jakarta,DKI Jakarta,2023-03-28,Active,4,7,1004,Jakarta HQ,Permanent
+1569,Wulan Ramadhan,Female,22,2003-08-28,Divorced,Bachelor,Jakarta,DKI Jakarta,2022-08-23,Active,3,1,1003,Remote,Permanent
+1570,Taufik Santoso,Male,26,1999-11-27,Married,Bachelor,Depok,Jawa Barat,2023-10-25,Active,4,8,1004,Jakarta HQ,Permanent
+1571,Galih Ramadhan,Male,28,1997-05-20,Married,High School,Yogyakarta,DI Yogyakarta,2024-08-20,Active,4,7,1004,Jakarta HQ,Permanent
+1572,Edwin Pertiwi,Male,50,1975-11-18,Single,Bachelor,Jakarta,DKI Jakarta,2019-07-02,Active,1,4,1001,Jakarta HQ,Permanent
+1573,Sari Wibowo,Female,38,1987-11-16,Married,Bachelor,Medan,Sumatera Utara,2021-08-25,Active,1,3,1001,Medan Office,Permanent
+1574,Anggita Mahendra,Female,30,1995-07-26,Single,Bachelor,Jakarta,DKI Jakarta,2024-07-10,Terminated,4,7,1004,Jakarta HQ,Permanent
+1575,Vino Mahendra,Male,35,1990-05-02,Married,Bachelor,Jakarta,DKI Jakarta,2013-02-03,Active,9,17,1009,Jakarta HQ,Contract
+1576,Adi Hutapea,Male,33,1992-06-05,Single,Bachelor,Bandung,Jawa Barat,2020-07-13,Active,1,2,1001,Bandung Office,Contract
+1577,Wahyu Pertiwi,Male,38,1987-12-19,Divorced,Bachelor,Bandung,Jawa Barat,2015-07-17,Active,6,14,1006,Bandung Office,Contract
+1578,Dewi Hakim,Female,33,1992-12-13,Married,Doctorate,Balikpapan,Kalimantan Timur,2020-08-13,Active,1,2,1001,Jakarta HQ,Permanent
+1579,Made Simanjuntak,Male,42,1983-02-05,Single,Bachelor,Yogyakarta,DI Yogyakarta,2017-01-10,Active,3,3,1003,Remote,Permanent
+1580,Joko Permana,Male,29,1996-12-07,Divorced,Diploma,Surabaya,Jawa Timur,2024-04-30,Active,4,8,1004,Surabaya Office,Contract
+1581,Gita Pangestu,Female,29,1996-03-02,Married,Bachelor,Tangerang,Banten,2025-02-11,Active,4,7,1004,Jakarta HQ,Permanent
+1582,Oka Hakim,Male,36,1989-12-13,Married,Bachelor,Yogyakarta,DI Yogyakarta,2023-03-10,Active,2,6,1002,Jakarta HQ,Permanent
+1583,Ika Wibowo,Female,35,1990-10-19,Single,Bachelor,Jakarta,DKI Jakarta,2013-03-04,Active,1,4,1001,Jakarta HQ,Permanent
+1584,Eko Hutapea,Male,24,2001-07-27,Married,Bachelor,Bekasi,Jawa Barat,2025-04-14,Active,4,7,1004,Jakarta HQ,Permanent
+1585,Nadia Pertiwi,Female,24,2001-10-23,Single,Bachelor,Bekasi,Jawa Barat,2024-10-30,Terminated,6,13,1006,Jakarta HQ,Permanent
+1586,Hadi Lubis,Male,26,1999-06-18,Single,Master,Denpasar,Bali,2024-03-30,Active,4,7,1004,Jakarta HQ,Contract
+1587,Hendra Hidayat,Male,34,1991-06-20,Single,Diploma,Jakarta,DKI Jakarta,2016-02-16,Active,2,6,1002,Remote,Permanent
+1588,Nadia Sinaga,Female,31,1994-05-05,Married,Bachelor,Jakarta,DKI Jakarta,2019-04-01,Active,7,10,1007,Jakarta HQ,Permanent
+1589,Jelita Hutapea,Female,29,1996-02-21,Married,Diploma,Surabaya,Jawa Timur,2022-07-27,Active,2,6,1002,Surabaya Office,Contract
+1590,Oka Hartono,Male,27,1998-05-04,Single,Master,Tangerang,Banten,2022-09-07,Active,2,6,1002,Jakarta HQ,Permanent
+1591,Gilang Mahendra,Male,29,1996-07-04,Married,Diploma,Bekasi,Jawa Barat,2024-08-04,Active,1,2,1001,Jakarta HQ,Permanent
+1592,Oktavia Ramadhan,Female,26,1999-03-11,Married,Bachelor,Jakarta,DKI Jakarta,2023-08-02,Active,4,8,1004,Jakarta HQ,Contract
+1593,Yudi Lubis,Male,24,2001-11-05,Married,Bachelor,Bekasi,Jawa Barat,2024-04-22,Active,4,7,1004,Jakarta HQ,Permanent
+1594,Larasati Anwar,Female,46,1979-08-17,Married,Bachelor,Makassar,Sulawesi Selatan,2018-06-15,Active,5,12,1005,Jakarta HQ,Permanent
+1595,Vino Handayani,Male,32,1993-02-24,Married,Bachelor,Jakarta,DKI Jakarta,2019-09-17,Active,1,3,1001,Remote,Contract
+1596,Indah Halim,Female,50,1975-09-22,Married,Bachelor,Bandung,Jawa Barat,2014-09-02,Active,9,17,1009,Bandung Office,Permanent
+1597,Tania Siregar,Female,22,2003-10-15,Single,Bachelor,Medan,Sumatera Utara,2024-02-07,Active,6,13,1006,Remote,Permanent
+1598,Hadi Sari,Male,25,2000-09-28,Married,Bachelor,Jakarta,DKI Jakarta,2025-06-06,Active,4,7,1004,Jakarta HQ,Permanent
+1599,Pertiwi Tanjung,Female,22,2003-06-01,Married,Bachelor,Jakarta,DKI Jakarta,2022-05-18,Active,2,5,1002,Remote,Permanent
+1600,Indra Susilo,Male,28,1997-02-16,Single,Bachelor,Surabaya,Jawa Timur,2025-08-14,Active,4,7,1004,Surabaya Office,Contract
+1601,Edwin Anwar,Male,28,1997-03-12,Single,High School,Jakarta,DKI Jakarta,2021-10-31,Active,4,8,1004,Jakarta HQ,Permanent
+1602,Made Halim,Male,26,1999-02-14,Married,Bachelor,Bandung,Jawa Barat,2022-01-25,Terminated,6,13,1006,Bandung Office,Permanent
+1603,Gilang Lestari,Male,34,1991-03-12,Single,Master,Surabaya,Jawa Timur,2014-10-29,Active,6,14,1006,Surabaya Office,Permanent
+1604,Farhan Sutanto,Male,29,1996-10-05,Divorced,Bachelor,Jakarta,DKI Jakarta,2020-07-30,Active,4,8,1004,Jakarta HQ,Contract
+1605,Ika Harahap,Female,24,2001-04-28,Single,Diploma,Jakarta,DKI Jakarta,2024-07-07,Active,1,1,1001,Jakarta HQ,Permanent
+1606,Jefri Putri,Male,25,2000-04-11,Single,Bachelor,Jakarta,DKI Jakarta,2022-03-02,Resigned,1,1,1001,Jakarta HQ,Contract
+1607,Dimas Hakim,Male,22,2003-01-02,Single,Bachelor,Jakarta,DKI Jakarta,2023-07-17,Active,6,13,1006,Jakarta HQ,Permanent
+1608,Adi Simanjuntak,Male,24,2001-06-12,Married,Diploma,Depok,Jawa Barat,2023-02-05,Active,2,5,1002,Jakarta HQ,Permanent
+1609,Satria Santoso,Male,25,2000-12-15,Married,Bachelor,Makassar,Sulawesi Selatan,2025-09-24,Active,5,11,1005,Jakarta HQ,Permanent
+1610,Leo Kusuma,Male,38,1987-09-12,Married,Bachelor,Depok,Jawa Barat,2019-03-19,Active,1,2,1001,Remote,Contract
+1611,Winda Maulana,Female,30,1995-01-19,Married,Master,Surabaya,Jawa Timur,2024-07-27,Active,7,10,1007,Surabaya Office,Permanent
+1612,Anggita Cahyani,Female,38,1987-04-06,Married,Bachelor,Bekasi,Jawa Barat,2022-08-13,Resigned,6,14,1006,Jakarta HQ,Permanent
+1613,Oki Rahmawati,Male,38,1987-09-04,Single,Master,Jakarta,DKI Jakarta,2020-07-11,Resigned,6,14,1006,Jakarta HQ,Contract
+1614,Putri Permana,Female,30,1995-02-01,Single,Diploma,Jakarta,DKI Jakarta,2023-04-28,Active,2,5,1002,Jakarta HQ,Contract
+1615,Adinda Pangestu,Female,25,2000-12-09,Married,Bachelor,Denpasar,Bali,2024-06-23,Active,2,5,1002,Jakarta HQ,Permanent
+1616,Ratih Nasution,Female,36,1989-08-08,Single,Bachelor,Jakarta,DKI Jakarta,2017-06-19,Active,6,14,1006,Jakarta HQ,Permanent
+1617,Fitri Tanjung,Female,24,2001-08-06,Single,Bachelor,Bekasi,Jawa Barat,2024-07-28,Active,4,7,1004,Jakarta HQ,Contract
+1618,Eko Sutanto,Male,29,1996-08-21,Single,Diploma,Surabaya,Jawa Timur,2021-09-12,Active,7,10,1007,Remote,Permanent
+1619,Salsabila Wijaya,Female,24,2001-04-25,Divorced,Master,Jakarta,DKI Jakarta,2025-06-17,Resigned,1,1,1001,Jakarta HQ,Permanent
+1620,Fitri Santoso,Female,34,1991-08-25,Single,Bachelor,Semarang,Jawa Tengah,2013-03-22,Active,6,14,1006,Jakarta HQ,Permanent
+1621,Gita Hutapea,Female,26,1999-02-17,Single,Bachelor,Jakarta,DKI Jakarta,2022-08-22,Active,4,7,1004,Jakarta HQ,Permanent
+1622,Hana Tanjung,Female,40,1985-02-08,Married,Master,Jakarta,DKI Jakarta,2021-06-11,Terminated,9,17,1009,Jakarta HQ,Contract
+1623,Wisnu Nasution,Male,24,2001-11-14,Single,Bachelor,Depok,Jawa Barat,2024-05-31,Active,5,11,1005,Jakarta HQ,Permanent
+1624,Jelita Susilo,Female,27,1998-03-13,Married,Diploma,Semarang,Jawa Tengah,2022-03-03,Active,2,5,1002,Remote,Permanent
+1625,Hendra Sutanto,Male,50,1975-12-14,Single,Bachelor,Jakarta,DKI Jakarta,2013-05-18,Active,1,4,1001,Jakarta HQ,Permanent
+1626,Naufal Wardhana,Male,30,1995-10-25,Single,Bachelor,Jakarta,DKI Jakarta,2024-09-18,Active,4,7,1004,Remote,Contract
+1627,Zahra Maulana,Female,26,1999-08-05,Single,Bachelor,Jakarta,DKI Jakarta,2022-07-01,Active,9,16,1009,Jakarta HQ,Permanent
+1628,Wahyu Ramadhan,Male,32,1993-08-27,Single,Master,Jakarta,DKI Jakarta,2020-10-18,Active,6,14,1006,Remote,Permanent
+1629,Jihan Putri,Female,45,1980-07-24,Single,Master,Surabaya,Jawa Timur,2017-03-21,Active,6,14,1006,Surabaya Office,Permanent
+1630,Doni Salim,Male,30,1995-12-27,Single,Master,Bandung,Jawa Barat,2023-01-14,Active,6,13,1006,Bandung Office,Permanent
+1631,Bella Harahap,Female,22,2003-04-13,Married,Bachelor,Depok,Jawa Barat,2024-01-20,Active,9,16,1009,Remote,Permanent
+1632,Salsabila Sutanto,Female,25,2000-05-04,Single,Diploma,Jakarta,DKI Jakarta,2025-09-23,Active,3,1,1003,Jakarta HQ,Permanent
+1633,Umi Santoso,Female,30,1995-04-21,Married,Bachelor,Jakarta,DKI Jakarta,2025-07-01,Active,1,1,1001,Jakarta HQ,Permanent
+1634,Yoga Rahmawati,Male,32,1993-09-07,Single,Bachelor,Surabaya,Jawa Timur,2019-04-17,Active,2,6,1002,Surabaya Office,Permanent
+1635,Anto Halim,Male,35,1990-01-10,Divorced,Bachelor,Tangerang,Banten,2022-08-17,Active,1,2,1001,Remote,Permanent
+1636,Kirana Lubis,Female,30,1995-12-20,Married,Bachelor,Surabaya,Jawa Timur,2023-03-18,Active,5,11,1005,Surabaya Office,Contract
+1637,Pandu Nasution,Male,27,1998-03-19,Single,Master,Jakarta,DKI Jakarta,2022-02-21,Active,7,10,1007,Remote,Contract
+1638,Vino Pratama,Male,30,1995-03-03,Married,Bachelor,Jakarta,DKI Jakarta,2022-01-11,Active,8,9,1008,Remote,Permanent
+1639,Indah Pertiwi,Female,35,1990-08-02,Single,Bachelor,Bandung,Jawa Barat,2019-06-10,Active,2,6,1002,Bandung Office,Contract
+1640,Cahyo Lubis,Male,49,1976-05-22,Single,Master,Surabaya,Jawa Timur,2022-10-04,Active,9,17,1009,Surabaya Office,Permanent
+1641,Olivia Mahendra,Female,49,1976-11-03,Single,Diploma,Bandung,Jawa Barat,2017-03-10,Active,1,4,1001,Bandung Office,Permanent
+1642,Maya Cahyani,Female,45,1980-02-11,Married,Bachelor,Jakarta,DKI Jakarta,2017-02-28,Terminated,9,17,1009,Jakarta HQ,Contract
+1643,Candra Nasution,Male,38,1987-07-02,Single,Bachelor,Denpasar,Bali,2019-03-28,Active,1,2,1001,Jakarta HQ,Permanent
+1644,Eko Setiawan,Male,28,1997-02-10,Married,Diploma,Bekasi,Jawa Barat,2022-04-02,Active,2,5,1002,Jakarta HQ,Contract
+1645,Yoga Wardhana,Male,33,1992-08-18,Single,Bachelor,Jakarta,DKI Jakarta,2022-03-24,Active,2,6,1002,Jakarta HQ,Permanent
+1646,Vino Nugroho,Male,28,1997-08-05,Married,High School,Jakarta,DKI Jakarta,2021-05-24,Active,1,2,1001,Jakarta HQ,Permanent
+1647,Rina Sinaga,Female,27,1998-01-07,Single,Bachelor,Bandung,Jawa Barat,2022-07-29,Active,7,10,1007,Bandung Office,Contract
+1648,Zaki Lestari,Male,26,1999-05-17,Single,Bachelor,Depok,Jawa Barat,2025-02-19,Active,9,16,1009,Jakarta HQ,Permanent
+1649,Farah Sutanto,Female,27,1998-03-18,Married,Bachelor,Bandung,Jawa Barat,2024-01-29,Active,6,13,1006,Bandung Office,Permanent
+1650,Gita Handayani,Female,22,2003-10-14,Married,Bachelor,Surabaya,Jawa Timur,2025-02-20,Active,9,16,1009,Surabaya Office,Contract
+1651,Faisal Simanjuntak,Male,47,1978-02-07,Married,Bachelor,Jakarta,DKI Jakarta,2015-09-02,Active,5,12,1005,Jakarta HQ,Contract
+1652,Ika Rahmawati,Female,38,1987-11-09,Single,High School,Tangerang,Banten,2018-04-05,Active,3,3,1003,Remote,Contract
+1653,Mario Sutanto,Male,29,1996-09-13,Single,Bachelor,Semarang,Jawa Tengah,2023-04-15,Active,7,10,1007,Jakarta HQ,Intern
+1654,Doni Wibowo,Male,33,1992-12-26,Married,Master,Jakarta,DKI Jakarta,2020-02-18,Active,1,3,1001,Jakarta HQ,Contract
+1655,Farhan Lestari,Male,43,1982-01-21,Single,Bachelor,Jakarta,DKI Jakarta,2013-08-18,Active,1,3,1001,Jakarta HQ,Permanent
+1656,Yuni Hakim,Female,42,1983-11-08,Married,Bachelor,Bekasi,Jawa Barat,2018-07-27,Active,1,4,1001,Jakarta HQ,Permanent
+1657,Rina Sinaga,Female,23,2002-02-15,Single,Master,Jakarta,DKI Jakarta,2025-09-08,Active,2,5,1002,Jakarta HQ,Contract
+1658,Bagas Wardhana,Male,23,2002-08-21,Married,Master,Tangerang,Banten,2025-07-17,Active,1,1,1001,Jakarta HQ,Permanent
+1659,Rina Nasution,Female,26,1999-02-11,Married,Bachelor,Balikpapan,Kalimantan Timur,2023-02-28,Resigned,1,2,1001,Jakarta HQ,Permanent
+1660,Joko Permana,Male,27,1998-02-07,Single,Bachelor,Jakarta,DKI Jakarta,2025-05-18,Active,5,11,1005,Remote,Permanent
+1661,Hendra Sutanto,Male,42,1983-04-09,Single,Bachelor,Tangerang,Banten,2020-07-24,Active,1,3,1001,Jakarta HQ,Permanent
+1662,Hesti Sutanto,Female,29,1996-07-20,Married,Bachelor,Depok,Jawa Barat,2023-05-23,Active,2,5,1002,Jakarta HQ,Permanent
+1663,Ika Kusuma,Female,35,1990-07-10,Single,Bachelor,Jakarta,DKI Jakarta,2015-02-06,Active,1,2,1001,Remote,Permanent
+1664,Vino Pertiwi,Male,30,1995-06-23,Single,Diploma,Jakarta,DKI Jakarta,2022-05-18,Active,1,3,1001,Jakarta HQ,Permanent
+1665,Surya Nasution,Male,38,1987-11-03,Single,High School,Tangerang,Banten,2015-04-03,Active,1,2,1001,Jakarta HQ,Permanent
+1666,Hadi Anwar,Male,35,1990-10-11,Married,Bachelor,Jakarta,DKI Jakarta,2013-04-22,Resigned,1,3,1001,Remote,Permanent
+1667,Bella Wijaya,Female,30,1995-09-02,Married,Bachelor,Jakarta,DKI Jakarta,2023-10-25,Active,4,7,1004,Remote,Permanent
+1668,Dimas Cahyani,Male,39,1986-12-15,Single,Master,Semarang,Jawa Tengah,2015-09-03,Resigned,3,3,1003,Jakarta HQ,Permanent
+1669,Farhan Santoso,Male,41,1984-09-01,Single,Bachelor,Yogyakarta,DI Yogyakarta,2022-06-23,Resigned,10,18,1010,Remote,Permanent
+1670,Kurnia Maulana,Male,35,1990-08-04,Divorced,Bachelor,Yogyakarta,DI Yogyakarta,2022-05-23,Active,7,10,1007,Jakarta HQ,Permanent
+1671,Tania Tanjung,Female,30,1995-06-25,Single,Bachelor,Jakarta,DKI Jakarta,2019-03-01,Active,1,2,1001,Jakarta HQ,Contract
+1672,Elsa Tanjung,Female,22,2003-04-01,Single,Bachelor,Semarang,Jawa Tengah,2024-03-07,Resigned,5,11,1005,Jakarta HQ,Permanent
+1673,Salsabila Susilo,Female,34,1991-02-05,Single,Bachelor,Jakarta,DKI Jakarta,2021-04-30,Active,8,9,1008,Jakarta HQ,Permanent
+1674,Mira Ramadhan,Female,28,1997-08-04,Married,Bachelor,Jakarta,DKI Jakarta,2024-07-01,Active,4,8,1004,Jakarta HQ,Permanent
+1675,Nanda Susilo,Male,28,1997-09-14,Single,Master,Bandung,Jawa Barat,2023-10-06,Resigned,1,1,1001,Bandung Office,Permanent
+1676,Jihan Nasution,Female,33,1992-09-14,Single,High School,Depok,Jawa Barat,2023-10-08,Active,1,2,1001,Jakarta HQ,Permanent
+1677,Pandu Cahyani,Male,28,1997-07-04,Married,Bachelor,Bandung,Jawa Barat,2024-06-17,Active,1,1,1001,Remote,Permanent
+1678,Wahyu Harahap,Male,33,1992-12-10,Married,Diploma,Jakarta,DKI Jakarta,2021-08-07,Active,1,2,1001,Remote,Permanent
+1679,Rangga Saputra,Male,28,1997-11-25,Single,Diploma,Makassar,Sulawesi Selatan,2024-05-05,Active,4,8,1004,Jakarta HQ,Contract
+1680,Jihan Lubis,Female,28,1997-03-25,Married,Doctorate,Jakarta,DKI Jakarta,2024-09-11,Active,4,8,1004,Jakarta HQ,Permanent
+1681,Yoga Putri,Male,37,1988-06-17,Single,Master,Jakarta,DKI Jakarta,2015-03-02,Active,4,8,1004,Jakarta HQ,Contract
+1682,Bagas Hartono,Male,28,1997-06-07,Single,Bachelor,Medan,Sumatera Utara,2025-07-25,Resigned,5,11,1005,Medan Office,Permanent
+1683,Yudi Pangestu,Male,27,1998-07-19,Single,Bachelor,Jakarta,DKI Jakarta,2022-06-14,Active,9,16,1009,Remote,Permanent
+1684,Adi Tanjung,Male,36,1989-03-15,Single,Bachelor,Makassar,Sulawesi Selatan,2022-02-08,Active,4,8,1004,Jakarta HQ,Contract
+1685,Naufal Pertiwi,Male,22,2003-08-10,Single,Master,Jakarta,DKI Jakarta,2025-03-26,Resigned,1,1,1001,Jakarta HQ,Contract
+1686,Sari Susilo,Female,25,2000-07-19,Married,Bachelor,Jakarta,DKI Jakarta,2025-06-06,Active,4,7,1004,Jakarta HQ,Permanent
+1687,Umi Nasution,Female,26,1999-03-19,Single,Bachelor,Semarang,Jawa Tengah,2022-05-21,Active,9,16,1009,Remote,Permanent
+1688,Rina Salim,Female,34,1991-03-13,Married,Bachelor,Jakarta,DKI Jakarta,2018-09-15,Active,2,6,1002,Jakarta HQ,Permanent
+1689,Farah Lestari,Female,34,1991-01-25,Single,Bachelor,Surabaya,Jawa Timur,2018-09-19,Active,4,8,1004,Surabaya Office,Permanent
+1690,Bambang Maulana,Male,32,1993-11-01,Married,Bachelor,Bandung,Jawa Barat,2017-02-11,Resigned,4,8,1004,Remote,Permanent
+1691,Winda Sari,Female,31,1994-02-24,Single,Bachelor,Surabaya,Jawa Timur,2018-02-15,Active,1,3,1001,Remote,Permanent
+1692,Umar Nugroho,Male,38,1987-08-20,Married,Bachelor,Jakarta,DKI Jakarta,2021-09-05,Active,1,2,1001,Remote,Permanent
+1693,Hadi Putri,Male,47,1978-08-06,Married,Diploma,Jakarta,DKI Jakarta,2019-01-28,Active,1,4,1001,Jakarta HQ,Permanent
+1694,Tania Hartono,Female,28,1997-09-24,Married,Bachelor,Bandung,Jawa Barat,2023-03-04,Resigned,1,2,1001,Bandung Office,Permanent
+1695,Doni Susilo,Male,22,2003-05-15,Married,Bachelor,Jakarta,DKI Jakarta,2025-01-17,Resigned,3,1,1003,Jakarta HQ,Permanent
+1696,Farah Salim,Female,30,1995-01-06,Married,Bachelor,Yogyakarta,DI Yogyakarta,2022-02-19,Active,8,9,1008,Jakarta HQ,Permanent
+1697,Mira Sari,Female,49,1976-12-28,Single,Master,Surabaya,Jawa Timur,2020-06-13,Active,5,12,1005,Surabaya Office,Permanent
+1698,Ika Siregar,Female,26,1999-03-23,Single,Master,Jakarta,DKI Jakarta,2023-01-09,Active,9,16,1009,Jakarta HQ,Permanent
+1699,Yudi Halim,Male,27,1998-04-25,Married,Bachelor,Yogyakarta,DI Yogyakarta,2024-09-09,Active,1,1,1001,Remote,Permanent
+1700,Eko Anwar,Male,27,1998-10-21,Divorced,Bachelor,Jakarta,DKI Jakarta,2025-08-04,Active,5,11,1005,Jakarta HQ,Permanent
+1701,Olivia Santoso,Female,37,1988-03-14,Single,High School,Jakarta,DKI Jakarta,2016-07-28,Active,2,6,1002,Remote,Permanent
+1702,Elsa Sari,Female,40,1985-11-24,Married,Bachelor,Jakarta,DKI Jakarta,2014-02-23,Active,1,4,1001,Jakarta HQ,Contract
+1703,Reza Mahendra,Male,27,1998-10-03,Married,Bachelor,Jakarta,DKI Jakarta,2024-02-11,Active,7,10,1007,Remote,Permanent
+1704,Yoga Saputra,Male,40,1985-05-03,Single,Bachelor,Jakarta,DKI Jakarta,2014-01-14,Active,9,17,1009,Jakarta HQ,Permanent
+1705,Ratih Lestari,Female,26,1999-06-14,Married,Bachelor,Jakarta,DKI Jakarta,2023-07-23,Active,8,9,1008,Jakarta HQ,Contract
+1706,Eko Manurung,Male,22,2003-06-03,Married,Diploma,Yogyakarta,DI Yogyakarta,2022-09-22,Terminated,5,11,1005,Jakarta HQ,Permanent
+1707,Umar Wibowo,Male,30,1995-01-01,Single,Bachelor,Depok,Jawa Barat,2021-02-02,Active,1,3,1001,Jakarta HQ,Permanent
+1708,Doni Simanjuntak,Male,28,1997-02-15,Single,Diploma,Jakarta,DKI Jakarta,2024-04-27,Active,3,2,1003,Jakarta HQ,Permanent
+1709,Adinda Hartono,Female,22,2003-02-02,Married,Bachelor,Jakarta,DKI Jakarta,2024-03-22,Active,3,1,1003,Remote,Permanent
+1710,Tania Saputra,Female,37,1988-05-18,Married,Bachelor,Tangerang,Banten,2019-02-23,Active,5,12,1005,Jakarta HQ,Permanent
+1711,Putri Siregar,Female,38,1987-06-23,Divorced,Bachelor,Jakarta,DKI Jakarta,2014-02-20,Active,3,3,1003,Jakarta HQ,Permanent
+1712,Leo Permana,Male,23,2002-06-24,Married,Diploma,Denpasar,Bali,2024-10-14,Active,9,16,1009,Jakarta HQ,Permanent
+1713,Umi Handayani,Female,31,1994-05-28,Single,Bachelor,Bandung,Jawa Barat,2018-04-21,Active,1,3,1001,Bandung Office,Permanent
+1714,Citra Hutapea,Female,27,1998-01-20,Single,Master,Semarang,Jawa Tengah,2023-06-21,Active,4,7,1004,Jakarta HQ,Permanent
+1715,Lestari Mahendra,Female,26,1999-09-15,Divorced,Bachelor,Surabaya,Jawa Timur,2022-01-13,Active,4,7,1004,Surabaya Office,Intern
+1716,Yudi Setiawan,Male,23,2002-04-25,Single,Bachelor,Bekasi,Jawa Barat,2023-05-14,Active,2,5,1002,Remote,Permanent
+1717,Mario Hidayat,Male,26,1999-03-15,Married,Master,Bandung,Jawa Barat,2022-10-25,Active,6,13,1006,Bandung Office,Permanent
+1718,Pandu Simanjuntak,Male,27,1998-02-15,Single,Bachelor,Surabaya,Jawa Timur,2024-06-22,Active,1,1,1001,Surabaya Office,Permanent
+1719,Satria Wijaya,Male,24,2001-11-17,Divorced,Doctorate,Jakarta,DKI Jakarta,2022-01-10,Active,5,11,1005,Jakarta HQ,Intern
+1720,Candra Nasution,Male,37,1988-06-04,Single,Bachelor,Bandung,Jawa Barat,2021-02-16,Active,1,3,1001,Bandung Office,Contract
+1721,Jelita Lestari,Female,31,1994-10-26,Married,Bachelor,Denpasar,Bali,2022-05-15,Active,4,8,1004,Jakarta HQ,Permanent
+1722,Novi Lestari,Female,33,1992-10-07,Married,Master,Surabaya,Jawa Timur,2017-02-15,Active,3,3,1003,Surabaya Office,Permanent
+1723,Satria Handayani,Male,23,2002-04-19,Single,Bachelor,Surabaya,Jawa Timur,2022-01-31,Active,4,7,1004,Surabaya Office,Permanent
+1724,Mario Rahmawati,Male,29,1996-06-08,Single,Bachelor,Bandung,Jawa Barat,2022-07-07,Terminated,4,8,1004,Bandung Office,Contract
+1725,Elsa Iskandar,Female,45,1980-10-08,Married,Bachelor,Jakarta,DKI Jakarta,2015-04-04,Active,3,3,1003,Jakarta HQ,Contract
+1726,Tika Sari,Female,27,1998-02-03,Married,Diploma,Bandung,Jawa Barat,2022-04-01,Active,5,11,1005,Remote,Permanent
+1727,Rangga Simanjuntak,Male,29,1996-12-04,Single,Bachelor,Semarang,Jawa Tengah,2024-10-15,Active,4,7,1004,Remote,Permanent
+1728,Bambang Simanjuntak,Male,29,1996-12-10,Married,Doctorate,Yogyakarta,DI Yogyakarta,2024-05-13,Active,3,15,1003,Jakarta HQ,Permanent
+1729,Cantika Anwar,Female,43,1982-05-25,Married,Bachelor,Surabaya,Jawa Timur,2015-08-28,Active,6,14,1006,Surabaya Office,Permanent
+1730,Farah Mahendra,Female,40,1985-08-06,Single,Bachelor,Makassar,Sulawesi Selatan,2014-06-14,Active,1,3,1001,Remote,Contract
+1731,Anto Hidayat,Male,38,1987-03-05,Single,Bachelor,Bandung,Jawa Barat,2024-07-17,Active,4,8,1004,Bandung Office,Permanent
+1732,Kurnia Rahmawati,Male,30,1995-10-25,Married,Bachelor,Tangerang,Banten,2024-07-06,Active,2,6,1002,Remote,Permanent
+1733,Bagas Iskandar,Male,29,1996-05-19,Single,Bachelor,Bekasi,Jawa Barat,2021-03-20,Active,8,9,1008,Jakarta HQ,Contract
+1734,Farhan Maulana,Male,30,1995-12-22,Single,Diploma,Semarang,Jawa Tengah,2024-05-04,Active,4,8,1004,Jakarta HQ,Permanent
+1735,Vania Wijaya,Female,28,1997-02-23,Single,Bachelor,Semarang,Jawa Tengah,2023-07-28,Active,4,7,1004,Jakarta HQ,Permanent
+1736,Olivia Santoso,Female,43,1982-08-05,Married,Master,Surabaya,Jawa Timur,2015-08-01,Active,1,4,1001,Surabaya Office,Contract
+1737,Hendra Simanjuntak,Male,25,2000-12-06,Single,Bachelor,Tangerang,Banten,2025-04-01,Active,6,13,1006,Jakarta HQ,Permanent
+1738,Tika Tanjung,Female,50,1975-11-13,Divorced,Master,Bekasi,Jawa Barat,2013-05-06,Active,9,17,1009,Jakarta HQ,Permanent
+1739,Taufik Sutanto,Male,27,1998-03-15,Married,Master,Jakarta,DKI Jakarta,2023-09-05,Terminated,4,8,1004,Jakarta HQ,Contract
+1740,Surya Lubis,Male,25,2000-07-02,Single,Bachelor,Tangerang,Banten,2023-06-22,Active,5,11,1005,Jakarta HQ,Permanent
+1741,Candra Putri,Male,29,1996-07-08,Married,Bachelor,Jakarta,DKI Jakarta,2024-02-01,Active,4,7,1004,Jakarta HQ,Permanent
+1742,Fitri Sari,Female,27,1998-09-03,Married,Bachelor,Jakarta,DKI Jakarta,2025-02-09,Active,1,1,1001,Jakarta HQ,Permanent
+1743,Wulan Wardhana,Female,25,2000-09-24,Single,Bachelor,Jakarta,DKI Jakarta,2024-10-26,Active,2,5,1002,Remote,Permanent
+1744,Reza Hartono,Male,31,1994-05-24,Single,Diploma,Tangerang,Banten,2022-04-23,Active,1,3,1001,Remote,Permanent
+1745,Krisna Nasution,Male,34,1991-02-24,Single,Bachelor,Jakarta,DKI Jakarta,2013-04-18,Active,6,14,1006,Jakarta HQ,Permanent
+1746,Satria Manurung,Male,29,1996-07-10,Single,Bachelor,Jakarta,DKI Jakarta,2022-09-16,Active,2,5,1002,Jakarta HQ,Permanent
+1747,Zahra Hutapea,Female,37,1988-02-15,Single,Bachelor,Denpasar,Bali,2021-01-11,Active,3,15,1003,Jakarta HQ,Permanent
+1748,Kurnia Permana,Male,29,1996-10-08,Married,Bachelor,Bandung,Jawa Barat,2025-08-21,Active,2,5,1002,Bandung Office,Permanent
+1749,Wisnu Susilo,Male,26,1999-06-23,Married,Bachelor,Jakarta,DKI Jakarta,2023-10-31,Active,4,8,1004,Jakarta HQ,Contract
+1750,Ika Simanjuntak,Female,37,1988-02-14,Single,Diploma,Jakarta,DKI Jakarta,2021-04-24,Active,1,4,1001,Remote,Contract
+1751,Reza Siregar,Male,50,1975-03-24,Single,Master,Jakarta,DKI Jakarta,2014-04-04,Active,1,4,1001,Jakarta HQ,Permanent
+1752,Kirana Susilo,Female,30,1995-09-22,Married,Master,Bandung,Jawa Barat,2023-04-26,Active,4,8,1004,Bandung Office,Permanent
+1753,Galih Nugroho,Male,31,1994-07-06,Single,Bachelor,Jakarta,DKI Jakarta,2023-03-07,Active,7,10,1007,Jakarta HQ,Permanent
+1754,Oktavia Pratama,Female,23,2002-06-21,Married,Master,Depok,Jawa Barat,2024-05-09,Active,2,5,1002,Jakarta HQ,Permanent
+1755,Lestari Hutapea,Female,36,1989-11-07,Married,Diploma,Jakarta,DKI Jakarta,2023-08-16,Active,2,6,1002,Jakarta HQ,Permanent
+1756,Naufal Nasution,Male,43,1982-12-28,Single,Master,Jakarta,DKI Jakarta,2013-03-07,Active,5,12,1005,Remote,Permanent
+1757,Vania Saputra,Female,36,1989-03-17,Single,Bachelor,Tangerang,Banten,2015-04-01,Active,1,4,1001,Jakarta HQ,Permanent
+1758,Jefri Hidayat,Male,34,1991-02-20,Married,Bachelor,Makassar,Sulawesi Selatan,2021-08-09,Active,3,15,1003,Jakarta HQ,Permanent
+1759,Dinda Pangestu,Female,28,1997-01-28,Married,Master,Surabaya,Jawa Timur,2022-03-09,Active,7,10,1007,Surabaya Office,Contract
+1760,Adi Santoso,Male,44,1981-06-17,Married,Bachelor,Bekasi,Jawa Barat,2019-11-01,Active,1,3,1001,Jakarta HQ,Permanent
+1761,Bella Wijaya,Female,37,1988-12-09,Married,Doctorate,Denpasar,Bali,2020-10-04,Active,2,6,1002,Jakarta HQ,Permanent
+1762,Salsabila Hutapea,Female,38,1987-02-02,Single,Master,Depok,Jawa Barat,2019-10-20,Active,4,8,1004,Jakarta HQ,Permanent
+1763,Reza Anggraini,Male,31,1994-02-28,Single,Master,Denpasar,Bali,2020-06-13,Active,7,10,1007,Jakarta HQ,Contract
+1764,Novi Iskandar,Female,30,1995-01-22,Married,Bachelor,Semarang,Jawa Tengah,2022-04-03,Resigned,2,5,1002,Jakarta HQ,Permanent
+1765,Oka Santoso,Male,48,1977-03-21,Married,Bachelor,Jakarta,DKI Jakarta,2022-05-27,Active,1,4,1001,Jakarta HQ,Permanent
+1766,Larasati Handayani,Female,24,2001-06-19,Single,Bachelor,Surabaya,Jawa Timur,2025-08-07,Active,4,7,1004,Surabaya Office,Permanent
+1767,Indah Putri,Female,26,1999-07-23,Married,Bachelor,Jakarta,DKI Jakarta,2023-08-03,Active,7,10,1007,Jakarta HQ,Permanent
+1768,Ratih Handayani,Female,50,1975-06-19,Married,Diploma,Surabaya,Jawa Timur,2017-05-09,Active,9,17,1009,Surabaya Office,Contract
+1769,Nanda Sutanto,Male,27,1998-11-26,Married,Bachelor,Jakarta,DKI Jakarta,2023-07-19,Active,4,7,1004,Jakarta HQ,Permanent
+1770,Candra Pertiwi,Male,34,1991-11-21,Single,Bachelor,Jakarta,DKI Jakarta,2022-03-04,Active,1,2,1001,Jakarta HQ,Permanent
+1771,Adinda Pratama,Female,43,1982-08-11,Married,Bachelor,Jakarta,DKI Jakarta,2017-09-13,Active,6,14,1006,Jakarta HQ,Permanent
+1772,Gladys Hartono,Female,43,1982-12-12,Married,Bachelor,Bandung,Jawa Barat,2013-05-16,Resigned,5,12,1005,Bandung Office,Contract
+1773,Surya Manurung,Male,28,1997-10-01,Married,Bachelor,Jakarta,DKI Jakarta,2024-02-13,Active,9,16,1009,Jakarta HQ,Contract
+1774,Wisnu Anggraini,Male,23,2002-05-26,Single,Master,Bandung,Jawa Barat,2024-05-08,Resigned,4,7,1004,Remote,Permanent
+1775,Dinda Handayani,Female,37,1988-04-05,Married,Bachelor,Jakarta,DKI Jakarta,2016-04-26,Resigned,1,2,1001,Remote,Permanent
+1776,Putri Ramadhan,Female,32,1993-03-11,Married,Bachelor,Surabaya,Jawa Timur,2022-04-12,Active,4,8,1004,Surabaya Office,Permanent
+1777,Novi Lestari,Female,42,1983-10-06,Married,Bachelor,Jakarta,DKI Jakarta,2019-04-29,Resigned,1,4,1001,Jakarta HQ,Permanent
+1778,Nanda Putri,Male,48,1977-02-11,Married,High School,Bandung,Jawa Barat,2016-08-03,Active,1,4,1001,Bandung Office,Contract
+1779,Jefri Ramadhan,Male,29,1996-02-12,Married,Bachelor,Semarang,Jawa Tengah,2025-04-08,Active,4,7,1004,Remote,Permanent
+1780,Dimas Putri,Male,32,1993-05-24,Married,Master,Bandung,Jawa Barat,2023-03-17,Active,4,8,1004,Bandung Office,Permanent
+1781,Anto Handayani,Male,39,1986-01-11,Married,High School,Jakarta,DKI Jakarta,2013-06-25,Active,1,4,1001,Jakarta HQ,Permanent
+1782,Dimas Nasution,Male,46,1979-05-14,Single,Bachelor,Surabaya,Jawa Timur,2017-06-05,Active,1,4,1001,Remote,Permanent
+1783,Yuni Wijaya,Female,30,1995-12-13,Married,Bachelor,Jakarta,DKI Jakarta,2024-08-04,Active,2,5,1002,Remote,Permanent
+1784,Jihan Manurung,Female,29,1996-01-03,Married,Diploma,Jakarta,DKI Jakarta,2023-04-26,Active,9,16,1009,Jakarta HQ,Permanent
+1785,Umi Sutanto,Female,42,1983-01-06,Single,Bachelor,Semarang,Jawa Tengah,2018-09-24,Terminated,6,14,1006,Jakarta HQ,Permanent
+1786,Dewi Iskandar,Female,29,1996-04-25,Married,Bachelor,Surabaya,Jawa Timur,2022-06-15,Active,4,7,1004,Surabaya Office,Contract
+1787,Nanda Lestari,Male,48,1977-11-05,Single,Bachelor,Bandung,Jawa Barat,2018-06-20,Active,5,12,1005,Bandung Office,Permanent
+1788,Oktavia Salim,Female,43,1982-11-20,Single,Bachelor,Jakarta,DKI Jakarta,2017-01-30,Resigned,1,3,1001,Jakarta HQ,Permanent
+1789,Wahyu Pratama,Male,36,1989-07-09,Married,Doctorate,Tangerang,Banten,2018-10-18,Resigned,4,8,1004,Jakarta HQ,Permanent
+1790,Vino Anwar,Male,44,1981-01-05,Divorced,High School,Jakarta,DKI Jakarta,2013-01-09,Active,6,14,1006,Jakarta HQ,Intern
+1791,Anggita Hutapea,Female,28,1997-07-20,Single,Master,Jakarta,DKI Jakarta,2024-09-13,Terminated,4,8,1004,Jakarta HQ,Permanent
+1792,Yuni Permana,Female,43,1982-10-09,Married,Bachelor,Depok,Jawa Barat,2017-05-02,Active,10,18,1010,Jakarta HQ,Permanent
+1793,Hesti Salim,Female,26,1999-08-06,Married,Diploma,Jakarta,DKI Jakarta,2024-04-11,Active,4,7,1004,Jakarta HQ,Contract
+1794,Cantika Santoso,Female,36,1989-01-20,Married,Bachelor,Depok,Jawa Barat,2021-08-24,Resigned,3,15,1003,Jakarta HQ,Permanent
+1795,Gladys Handayani,Female,27,1998-01-24,Married,Bachelor,Bandung,Jawa Barat,2022-01-24,Active,5,11,1005,Bandung Office,Permanent
+1796,Teguh Saputra,Male,22,2003-04-19,Married,Master,Jakarta,DKI Jakarta,2022-03-12,Active,4,7,1004,Jakarta HQ,Permanent
+1797,Kirana Hartono,Female,44,1981-12-03,Married,Bachelor,Tangerang,Banten,2022-10-17,Active,1,3,1001,Jakarta HQ,Contract
+1798,Oktavia Hutapea,Female,22,2003-08-16,Single,Bachelor,Semarang,Jawa Tengah,2025-06-05,Active,9,16,1009,Jakarta HQ,Contract
+1799,Hadi Ramadhan,Male,39,1986-05-25,Single,Bachelor,Surabaya,Jawa Timur,2013-09-08,Active,5,12,1005,Surabaya Office,Permanent
+1800,Elsa Salim,Female,37,1988-08-25,Married,Bachelor,Jakarta,DKI Jakarta,2021-06-22,Active,2,6,1002,Jakarta HQ,Permanent
+1801,Teguh Lestari,Male,29,1996-06-19,Single,Bachelor,Jakarta,DKI Jakarta,2022-06-06,Active,1,2,1001,Jakarta HQ,Permanent
+1802,Teguh Mahendra,Male,30,1995-11-08,Single,Bachelor,Bekasi,Jawa Barat,2024-07-16,Resigned,1,2,1001,Remote,Contract
+1803,Kirana Pangestu,Female,36,1989-03-19,Married,Master,Bekasi,Jawa Barat,2016-05-27,Active,4,8,1004,Jakarta HQ,Permanent
+1804,Eko Sari,Male,29,1996-05-07,Married,Bachelor,Jakarta,DKI Jakarta,2023-08-18,Active,4,8,1004,Jakarta HQ,Permanent
+1805,Jihan Wibowo,Female,25,2000-06-22,Single,Master,Depok,Jawa Barat,2025-04-11,Active,9,16,1009,Jakarta HQ,Contract
+1806,Dewi Anwar,Female,30,1995-04-08,Married,Bachelor,Tangerang,Banten,2023-08-01,Active,4,7,1004,Jakarta HQ,Permanent
+1807,Made Saputra,Male,39,1986-09-10,Married,Bachelor,Jakarta,DKI Jakarta,2022-07-19,Active,5,12,1005,Jakarta HQ,Contract
+1808,Hadi Anwar,Male,23,2002-08-07,Single,Bachelor,Bekasi,Jawa Barat,2025-01-28,Active,2,5,1002,Jakarta HQ,Contract
+1809,Maya Sinaga,Female,44,1981-01-09,Married,Master,Bandung,Jawa Barat,2016-06-18,Active,6,14,1006,Remote,Permanent
+1810,Yudi Simanjuntak,Male,34,1991-05-21,Single,Master,Denpasar,Bali,2017-09-07,Active,8,9,1008,Jakarta HQ,Permanent
+1811,Yuliana Putri,Female,23,2002-08-11,Married,Bachelor,Surabaya,Jawa Timur,2024-07-25,Active,1,1,1001,Surabaya Office,Permanent
+1812,Nadia Manurung,Female,34,1991-06-06,Single,Master,Surabaya,Jawa Timur,2019-04-15,Active,1,3,1001,Surabaya Office,Intern
+1813,Sari Wibowo,Female,43,1982-08-28,Married,Bachelor,Jakarta,DKI Jakarta,2018-04-28,Active,5,12,1005,Jakarta HQ,Permanent
+1814,Bambang Anggraini,Male,32,1993-06-21,Single,Bachelor,Surabaya,Jawa Timur,2022-03-14,Active,3,15,1003,Remote,Permanent
+1815,Anto Hidayat,Male,36,1989-04-20,Single,Bachelor,Yogyakarta,DI Yogyakarta,2014-03-24,Active,3,3,1003,Remote,Permanent
+1816,Anggita Tanjung,Female,25,2000-05-20,Single,Master,Jakarta,DKI Jakarta,2022-10-03,Active,4,7,1004,Jakarta HQ,Permanent
+1817,Cahyo Susilo,Male,24,2001-10-10,Married,Bachelor,Jakarta,DKI Jakarta,2024-01-19,Active,1,1,1001,Jakarta HQ,Permanent
+1818,Eko Hidayat,Male,27,1998-08-24,Single,Master,Jakarta,DKI Jakarta,2024-07-30,Active,2,5,1002,Jakarta HQ,Permanent
+1819,Satria Wardhana,Male,28,1997-07-26,Single,Bachelor,Semarang,Jawa Tengah,2022-10-09,Active,5,11,1005,Remote,Intern
+1820,Hesti Rahmawati,Female,45,1980-11-03,Single,Bachelor,Jakarta,DKI Jakarta,2021-01-17,Terminated,9,17,1009,Jakarta HQ,Contract
+1821,Maya Saputra,Female,38,1987-11-14,Married,Diploma,Bandung,Jawa Barat,2020-03-09,Active,4,8,1004,Bandung Office,Permanent
+1822,Bella Manurung,Female,30,1995-01-20,Married,Bachelor,Jakarta,DKI Jakarta,2021-10-24,Active,2,6,1002,Jakarta HQ,Permanent
+1823,Mira Pangestu,Female,24,2001-04-25,Married,High School,Jakarta,DKI Jakarta,2024-07-19,Active,4,7,1004,Remote,Permanent
+1824,Vino Wibowo,Male,25,2000-04-10,Married,High School,Balikpapan,Kalimantan Timur,2024-03-29,Active,3,1,1003,Jakarta HQ,Contract
+1825,Anggita Lestari,Female,29,1996-12-28,Married,Bachelor,Jakarta,DKI Jakarta,2024-04-21,Active,9,16,1009,Jakarta HQ,Permanent
+1826,Nanda Pertiwi,Male,29,1996-12-20,Married,Bachelor,Bandung,Jawa Barat,2023-05-24,Resigned,9,16,1009,Bandung Office,Permanent
+1827,Cahyo Cahyani,Male,23,2002-06-12,Divorced,Diploma,Bandung,Jawa Barat,2023-09-30,Active,9,16,1009,Bandung Office,Permanent
+1828,Surya Hidayat,Male,26,1999-03-28,Married,Bachelor,Bekasi,Jawa Barat,2024-08-03,Active,3,15,1003,Remote,Permanent
+1829,Cahyo Pratama,Male,32,1993-03-06,Single,Bachelor,Jakarta,DKI Jakarta,2022-08-02,Active,7,10,1007,Jakarta HQ,Permanent
+1830,Bunga Lestari,Female,40,1985-01-16,Married,Bachelor,Medan,Sumatera Utara,2022-08-21,Active,3,3,1003,Remote,Permanent
+1831,Eko Pertiwi,Male,33,1992-08-14,Single,Bachelor,Jakarta,DKI Jakarta,2016-03-23,Active,1,2,1001,Jakarta HQ,Contract
+1832,Tania Ramadhan,Female,45,1980-08-24,Single,Bachelor,Jakarta,DKI Jakarta,2013-07-27,Active,1,3,1001,Jakarta HQ,Permanent
+1833,Gita Hartono,Female,37,1988-05-06,Married,Doctorate,Surabaya,Jawa Timur,2018-05-19,Active,6,14,1006,Surabaya Office,Permanent
+1834,Taufik Susilo,Male,35,1990-12-28,Single,Bachelor,Depok,Jawa Barat,2024-04-18,Active,8,9,1008,Jakarta HQ,Contract
+1835,Mario Halim,Male,33,1992-06-07,Single,Bachelor,Balikpapan,Kalimantan Timur,2018-03-17,Active,2,6,1002,Jakarta HQ,Permanent
+1836,Lukman Kusuma,Male,31,1994-08-25,Married,Diploma,Tangerang,Banten,2020-03-14,Active,4,8,1004,Jakarta HQ,Permanent
+1837,Faisal Pertiwi,Male,23,2002-09-23,Divorced,Diploma,Yogyakarta,DI Yogyakarta,2023-08-30,Active,5,11,1005,Jakarta HQ,Contract
+1838,Ika Santoso,Female,28,1997-11-08,Single,Master,Surabaya,Jawa Timur,2024-07-23,Active,4,8,1004,Surabaya Office,Permanent
+1839,Wahyu Siregar,Male,28,1997-06-06,Married,Bachelor,Depok,Jawa Barat,2024-08-09,Active,7,10,1007,Jakarta HQ,Permanent
+1840,Sari Anggraini,Female,47,1978-05-13,Married,High School,Yogyakarta,DI Yogyakarta,2014-04-03,Active,9,17,1009,Jakarta HQ,Permanent
+1841,Pandu Nasution,Male,27,1998-01-25,Married,Master,Jakarta,DKI Jakarta,2023-08-23,Active,4,8,1004,Jakarta HQ,Permanent
+1842,Made Hartono,Male,31,1994-02-08,Married,Diploma,Yogyakarta,DI Yogyakarta,2022-08-23,Active,7,10,1007,Remote,Permanent
+1843,Hadi Siregar,Male,44,1981-09-04,Married,Bachelor,Jakarta,DKI Jakarta,2013-03-08,Active,5,12,1005,Jakarta HQ,Permanent
+1844,Citra Mahendra,Female,30,1995-02-21,Married,Bachelor,Bekasi,Jawa Barat,2021-03-29,Active,8,9,1008,Jakarta HQ,Permanent
+1845,Taufik Tanjung,Male,43,1982-07-02,Married,Bachelor,Semarang,Jawa Tengah,2021-06-12,Active,1,3,1001,Jakarta HQ,Permanent
+1846,Gilang Tanjung,Male,29,1996-10-16,Married,Bachelor,Tangerang,Banten,2023-03-25,Active,2,6,1002,Remote,Contract
+1847,Gilang Sinaga,Male,38,1987-11-04,Married,Master,Jakarta,DKI Jakarta,2015-09-17,Active,3,15,1003,Jakarta HQ,Permanent
+1848,Edwin Salim,Male,30,1995-01-13,Single,Bachelor,Jakarta,DKI Jakarta,2022-10-20,Active,3,1,1003,Jakarta HQ,Permanent
+1849,Ratih Pangestu,Female,46,1979-06-08,Married,Bachelor,Surabaya,Jawa Timur,2018-03-20,Active,1,4,1001,Surabaya Office,Permanent
+1850,Yuni Hakim,Female,33,1992-02-11,Married,Diploma,Surabaya,Jawa Timur,2019-02-01,Active,4,8,1004,Surabaya Office,Permanent
+1851,Rina Hakim,Female,47,1978-04-09,Single,Diploma,Jakarta,DKI Jakarta,2015-05-09,Active,5,12,1005,Jakarta HQ,Permanent
+1852,Winda Simanjuntak,Female,39,1986-09-18,Married,Master,Depok,Jawa Barat,2020-04-13,Resigned,1,3,1001,Remote,Permanent
+1853,Karina Pangestu,Female,32,1993-03-13,Single,Master,Depok,Jawa Barat,2023-06-05,Active,7,10,1007,Jakarta HQ,Permanent
+1854,Oki Wibowo,Male,37,1988-04-15,Married,Master,Jakarta,DKI Jakarta,2019-08-21,Resigned,1,3,1001,Jakarta HQ,Permanent
+1855,Jefri Sinaga,Male,28,1997-11-19,Single,Bachelor,Tangerang,Banten,2022-06-22,Active,4,7,1004,Jakarta HQ,Contract
+1856,Eko Maulana,Male,45,1980-12-08,Married,Bachelor,Jakarta,DKI Jakarta,2014-01-12,Active,9,17,1009,Jakarta HQ,Permanent
+1857,Winda Simanjuntak,Female,29,1996-08-09,Single,Doctorate,Bandung,Jawa Barat,2020-10-06,Active,7,10,1007,Bandung Office,Permanent
+1858,Gladys Susilo,Female,23,2002-11-12,Married,Bachelor,Bekasi,Jawa Barat,2025-06-13,Active,4,7,1004,Jakarta HQ,Permanent
+1859,Edwin Putri,Male,44,1981-06-08,Married,Bachelor,Makassar,Sulawesi Selatan,2013-02-17,Active,9,17,1009,Remote,Permanent
+1860,Elsa Harahap,Female,37,1988-09-14,Single,Diploma,Jakarta,DKI Jakarta,2020-07-26,Active,5,12,1005,Jakarta HQ,Permanent
+1861,Gilang Cahyani,Male,28,1997-07-13,Single,Bachelor,Semarang,Jawa Tengah,2022-08-24,Active,4,7,1004,Jakarta HQ,Permanent
+1862,Oki Pangestu,Male,32,1993-06-15,Married,Bachelor,Jakarta,DKI Jakarta,2021-02-07,Resigned,1,3,1001,Jakarta HQ,Permanent
+1863,Anto Putri,Male,22,2003-10-19,Single,Bachelor,Makassar,Sulawesi Selatan,2023-09-28,Active,1,1,1001,Jakarta HQ,Permanent
+1864,Mira Hakim,Female,33,1992-12-28,Single,Bachelor,Jakarta,DKI Jakarta,2022-02-16,Resigned,8,9,1008,Jakarta HQ,Contract
+1865,Gita Pangestu,Female,40,1985-10-17,Married,Master,Bandung,Jawa Barat,2020-09-12,Active,9,17,1009,Bandung Office,Contract
+1866,Hana Simanjuntak,Female,27,1998-06-08,Single,Bachelor,Jakarta,DKI Jakarta,2023-08-22,Active,4,8,1004,Jakarta HQ,Contract
+1867,Fitri Hidayat,Female,30,1995-10-19,Married,Bachelor,Depok,Jawa Barat,2022-01-27,Active,9,16,1009,Jakarta HQ,Permanent
+1868,Bagas Tanjung,Male,27,1998-06-18,Married,Bachelor,Jakarta,DKI Jakarta,2023-04-17,Active,3,15,1003,Jakarta HQ,Permanent
+1869,Naufal Manurung,Male,30,1995-03-21,Single,Master,Bekasi,Jawa Barat,2023-10-09,Active,1,1,1001,Remote,Permanent
+1870,Jihan Hakim,Female,34,1991-06-22,Married,Diploma,Jakarta,DKI Jakarta,2024-07-15,Active,7,10,1007,Jakarta HQ,Permanent
+1871,Anto Permana,Male,23,2002-05-01,Single,Master,Denpasar,Bali,2024-05-16,Active,1,1,1001,Jakarta HQ,Permanent
+1872,Ratih Sutanto,Female,36,1989-10-23,Single,High School,Makassar,Sulawesi Selatan,2020-07-21,Active,1,2,1001,Jakarta HQ,Contract
+1873,Hesti Kusuma,Female,35,1990-01-21,Single,Bachelor,Tangerang,Banten,2018-10-13,Active,3,2,1003,Jakarta HQ,Permanent
+1874,Krisna Hidayat,Male,28,1997-12-09,Single,Diploma,Bekasi,Jawa Barat,2021-06-10,Active,8,9,1008,Jakarta HQ,Contract
+1875,Hesti Santoso,Female,28,1997-09-02,Single,Bachelor,Jakarta,DKI Jakarta,2021-03-02,Active,8,9,1008,Jakarta HQ,Contract
+1876,Joko Anwar,Male,35,1990-01-22,Single,Diploma,Surabaya,Jawa Timur,2016-07-30,Resigned,2,6,1002,Surabaya Office,Contract
+1877,Made Anggraini,Male,28,1997-07-05,Married,Bachelor,Jakarta,DKI Jakarta,2023-02-17,Active,2,5,1002,Jakarta HQ,Contract
+1878,Tika Simanjuntak,Female,28,1997-03-18,Single,Bachelor,Jakarta,DKI Jakarta,2022-10-04,Active,1,2,1001,Remote,Permanent
+1879,Gilang Wibowo,Male,22,2003-07-01,Married,Bachelor,Surabaya,Jawa Timur,2025-04-17,Active,2,5,1002,Remote,Permanent
+1880,Salsabila Mahendra,Female,44,1981-11-20,Single,Doctorate,Medan,Sumatera Utara,2016-03-18,Active,5,12,1005,Medan Office,Permanent
+1881,Zaki Wibowo,Male,24,2001-05-21,Single,Master,Balikpapan,Kalimantan Timur,2024-04-17,Active,4,7,1004,Jakarta HQ,Permanent
+1882,Indah Pangestu,Female,25,2000-07-14,Single,Bachelor,Surabaya,Jawa Timur,2022-03-12,Active,4,7,1004,Surabaya Office,Permanent
+1883,Made Manurung,Male,25,2000-12-22,Married,Bachelor,Bekasi,Jawa Barat,2023-03-10,Active,6,13,1006,Jakarta HQ,Permanent
+1884,Pandu Wardhana,Male,36,1989-04-07,Single,Master,Yogyakarta,DI Yogyakarta,2017-01-25,Active,1,4,1001,Jakarta HQ,Permanent
+1885,Yudi Manurung,Male,38,1987-03-21,Married,Master,Surabaya,Jawa Timur,2018-01-13,Active,1,2,1001,Surabaya Office,Permanent
+1886,Pertiwi Siregar,Female,36,1989-11-04,Single,Diploma,Jakarta,DKI Jakarta,2021-09-20,Active,9,17,1009,Jakarta HQ,Contract
+1887,Umi Saputra,Female,31,1994-10-11,Single,Bachelor,Bandung,Jawa Barat,2020-03-19,Active,3,2,1003,Bandung Office,Contract
+1888,Pandu Wardhana,Male,40,1985-09-18,Married,Diploma,Tangerang,Banten,2015-06-14,Active,1,4,1001,Jakarta HQ,Permanent
+1889,Gladys Mahendra,Female,29,1996-03-25,Married,Diploma,Tangerang,Banten,2025-01-05,Active,6,13,1006,Jakarta HQ,Contract
+1890,Fitri Iskandar,Female,37,1988-03-05,Married,Master,Tangerang,Banten,2013-06-04,Terminated,9,17,1009,Jakarta HQ,Permanent
+1891,Fitri Pangestu,Female,50,1975-01-20,Married,Doctorate,Balikpapan,Kalimantan Timur,2013-04-05,Active,5,12,1005,Jakarta HQ,Contract
+1892,Dewi Hartono,Female,39,1986-05-15,Married,Diploma,Jakarta,DKI Jakarta,2016-05-15,Active,1,3,1001,Jakarta HQ,Permanent
+1893,Bunga Putri,Female,28,1997-04-16,Single,Master,Jakarta,DKI Jakarta,2022-04-18,Active,1,1,1001,Jakarta HQ,Contract
+1894,Indah Pangestu,Female,37,1988-05-18,Married,Master,Jakarta,DKI Jakarta,2021-02-25,Active,7,10,1007,Remote,Contract
+1895,Irfan Ramadhan,Male,29,1996-02-06,Married,High School,Jakarta,DKI Jakarta,2022-09-30,Active,8,9,1008,Jakarta HQ,Permanent
+1896,Reza Salim,Male,36,1989-06-26,Married,Diploma,Jakarta,DKI Jakarta,2023-09-01,Active,7,10,1007,Remote,Permanent
+1897,Olivia Permana,Female,36,1989-12-03,Married,Bachelor,Depok,Jawa Barat,2016-05-23,Active,1,4,1001,Jakarta HQ,Permanent
+1898,Indra Nugroho,Male,23,2002-03-07,Single,Bachelor,Yogyakarta,DI Yogyakarta,2023-08-21,Active,4,7,1004,Jakarta HQ,Permanent
+1899,Reza Sinaga,Male,30,1995-10-14,Single,High School,Jakarta,DKI Jakarta,2020-06-09,Active,7,10,1007,Jakarta HQ,Contract
+1900,Elsa Anggraini,Female,37,1988-08-12,Single,Bachelor,Jakarta,DKI Jakarta,2022-03-27,Active,5,12,1005,Jakarta HQ,Permanent
+1901,Oktavia Saputra,Female,35,1990-05-24,Single,Bachelor,Jakarta,DKI Jakarta,2019-03-18,Active,4,8,1004,Jakarta HQ,Permanent
+1902,Citra Pangestu,Female,28,1997-08-15,Single,Bachelor,Bandung,Jawa Barat,2023-04-10,Active,6,13,1006,Bandung Office,Permanent
+1903,Anggita Susilo,Female,32,1993-06-01,Single,Bachelor,Jakarta,DKI Jakarta,2018-08-07,Active,1,2,1001,Jakarta HQ,Permanent
+1904,Umar Simanjuntak,Male,43,1982-04-07,Divorced,Diploma,Bandung,Jawa Barat,2015-02-22,Active,1,4,1001,Bandung Office,Intern
+1905,Oktavia Rahmawati,Female,34,1991-04-17,Single,Bachelor,Bandung,Jawa Barat,2015-07-17,Active,1,3,1001,Remote,Permanent
+1906,Jihan Rahmawati,Female,27,1998-12-12,Single,Bachelor,Bekasi,Jawa Barat,2024-04-26,Resigned,4,7,1004,Jakarta HQ,Contract
+1907,Gladys Setiawan,Female,40,1985-10-26,Married,Master,Medan,Sumatera Utara,2017-07-27,Active,6,14,1006,Medan Office,Permanent
+1908,Galih Lestari,Male,27,1998-09-04,Married,Master,Depok,Jawa Barat,2022-08-19,Active,5,11,1005,Remote,Contract
+1909,Made Setiawan,Male,37,1988-03-12,Married,Bachelor,Jakarta,DKI Jakarta,2024-03-04,Active,2,6,1002,Jakarta HQ,Permanent
+1910,Vino Nasution,Male,34,1991-04-27,Married,Bachelor,Jakarta,DKI Jakarta,2021-09-02,Active,2,6,1002,Remote,Permanent
+1911,Nanda Susilo,Male,26,1999-01-01,Single,Bachelor,Jakarta,DKI Jakarta,2022-09-23,Active,3,1,1003,Jakarta HQ,Permanent
+1912,Surya Salim,Male,30,1995-04-23,Single,Diploma,Jakarta,DKI Jakarta,2020-03-15,Active,4,8,1004,Jakarta HQ,Permanent
+1913,Anto Simanjuntak,Male,22,2003-11-14,Married,Bachelor,Jakarta,DKI Jakarta,2023-04-14,Active,4,7,1004,Jakarta HQ,Permanent
+1914,Indah Tanjung,Female,23,2002-02-05,Married,Master,Bekasi,Jawa Barat,2024-09-10,Active,1,1,1001,Jakarta HQ,Permanent
+1915,Krisna Anggraini,Male,30,1995-07-21,Single,Bachelor,Bekasi,Jawa Barat,2022-08-15,Active,3,1,1003,Remote,Contract
+1916,Lestari Lestari,Female,22,2003-11-27,Single,Master,Jakarta,DKI Jakarta,2024-03-01,Active,1,1,1001,Jakarta HQ,Permanent
+1917,Teguh Tanjung,Male,26,1999-11-23,Single,Bachelor,Jakarta,DKI Jakarta,2023-01-25,Resigned,2,6,1002,Jakarta HQ,Permanent
+1918,Kurnia Cahyani,Male,36,1989-03-18,Married,Bachelor,Jakarta,DKI Jakarta,2022-06-11,Active,1,3,1001,Jakarta HQ,Permanent
+1919,Satria Rahmawati,Male,44,1981-01-15,Single,Diploma,Surabaya,Jawa Timur,2013-02-15,Terminated,1,3,1001,Surabaya Office,Contract
+1920,Yuliana Permana,Female,39,1986-06-15,Married,Bachelor,Bekasi,Jawa Barat,2022-07-08,Active,1,3,1001,Jakarta HQ,Permanent
+1921,Anto Hidayat,Male,44,1981-07-20,Married,Master,Bandung,Jawa Barat,2020-02-25,Active,1,3,1001,Bandung Office,Permanent
+1922,Pertiwi Anggraini,Female,22,2003-05-01,Single,Bachelor,Jakarta,DKI Jakarta,2023-03-20,Active,1,1,1001,Jakarta HQ,Permanent
+1923,Cahyo Lestari,Male,30,1995-01-04,Married,Bachelor,Jakarta,DKI Jakarta,2022-08-22,Active,4,8,1004,Jakarta HQ,Contract
+1924,Gladys Hakim,Female,22,2003-02-03,Single,Bachelor,Yogyakarta,DI Yogyakarta,2024-03-13,Active,6,13,1006,Jakarta HQ,Permanent
+1925,Bambang Mahendra,Male,22,2003-01-16,Single,Diploma,Bandung,Jawa Barat,2022-03-09,Active,6,13,1006,Bandung Office,Permanent
+1926,Maya Setiawan,Female,26,1999-11-09,Single,Bachelor,Tangerang,Banten,2024-07-04,Active,2,6,1002,Jakarta HQ,Contract
+1927,Dewi Rahmawati,Female,31,1994-02-20,Married,Bachelor,Semarang,Jawa Tengah,2022-03-14,Active,4,8,1004,Jakarta HQ,Permanent
+1928,Naufal Cahyani,Male,31,1994-08-12,Married,Bachelor,Jakarta,DKI Jakarta,2018-06-07,Active,2,6,1002,Jakarta HQ,Intern
+1929,Wulan Pangestu,Female,44,1981-08-25,Divorced,Diploma,Yogyakarta,DI Yogyakarta,2014-08-12,Active,1,3,1001,Jakarta HQ,Permanent
+1930,Mira Maulana,Female,25,2000-12-13,Married,Bachelor,Yogyakarta,DI Yogyakarta,2025-04-01,Active,5,11,1005,Jakarta HQ,Permanent
+1931,Yuliana Sari,Female,29,1996-02-11,Single,Bachelor,Medan,Sumatera Utara,2023-01-26,Active,4,7,1004,Medan Office,Permanent
+1932,Satria Salim,Male,24,2001-12-25,Married,Master,Yogyakarta,DI Yogyakarta,2024-11-01,Active,6,13,1006,Jakarta HQ,Permanent
+1933,Nanda Hutapea,Male,36,1989-02-27,Married,Bachelor,Jakarta,DKI Jakarta,2021-10-21,Active,2,6,1002,Jakarta HQ,Permanent
+1934,Yoga Cahyani,Male,22,2003-12-20,Married,Bachelor,Jakarta,DKI Jakarta,2023-05-11,Active,4,7,1004,Jakarta HQ,Permanent
+1935,Hesti Hidayat,Female,46,1979-01-09,Married,Master,Surabaya,Jawa Timur,2015-04-22,Active,1,4,1001,Surabaya Office,Contract
+1936,Hendra Handayani,Male,29,1996-05-18,Single,Bachelor,Jakarta,DKI Jakarta,2025-09-20,Active,6,13,1006,Jakarta HQ,Permanent
+1937,Umar Simanjuntak,Male,49,1976-04-20,Married,Master,Jakarta,DKI Jakarta,2016-09-16,Active,5,12,1005,Remote,Permanent
+1938,Mario Mahendra,Male,38,1987-09-21,Married,Bachelor,Bekasi,Jawa Barat,2024-06-25,Active,4,8,1004,Jakarta HQ,Permanent
+1939,Yudi Susilo,Male,27,1998-04-16,Married,Bachelor,Jakarta,DKI Jakarta,2023-06-28,Active,2,6,1002,Jakarta HQ,Permanent
+1940,Novi Tanjung,Female,37,1988-12-15,Married,High School,Jakarta,DKI Jakarta,2021-09-12,Active,1,3,1001,Remote,Permanent
+1941,Jefri Iskandar,Male,36,1989-09-04,Single,Diploma,Jakarta,DKI Jakarta,2018-03-06,Active,7,10,1007,Jakarta HQ,Contract
+1942,Putra Maulana,Male,38,1987-01-06,Married,Bachelor,Jakarta,DKI Jakarta,2021-01-14,Active,5,12,1005,Jakarta HQ,Permanent
+1943,Hana Simanjuntak,Female,22,2003-04-07,Single,Bachelor,Jakarta,DKI Jakarta,2024-06-01,Resigned,9,16,1009,Jakarta HQ,Permanent
+1944,Irfan Hidayat,Male,25,2000-08-26,Single,Bachelor,Tangerang,Banten,2024-07-28,Active,5,11,1005,Jakarta HQ,Permanent
+1945,Irfan Lubis,Male,28,1997-02-16,Married,Master,Jakarta,DKI Jakarta,2024-01-17,Active,8,9,1008,Jakarta HQ,Contract
+1946,Vino Cahyani,Male,26,1999-04-22,Married,Bachelor,Bandung,Jawa Barat,2023-04-16,Active,3,15,1003,Bandung Office,Contract
+1947,Rina Pratama,Female,29,1996-10-17,Single,Diploma,Surabaya,Jawa Timur,2022-02-21,Resigned,4,8,1004,Surabaya Office,Contract
+1948,Bambang Setiawan,Male,29,1996-11-26,Married,Bachelor,Semarang,Jawa Tengah,2023-05-31,Active,1,1,1001,Jakarta HQ,Permanent
+1949,Farhan Tanjung,Male,27,1998-09-17,Married,Bachelor,Depok,Jawa Barat,2025-06-26,Active,6,13,1006,Jakarta HQ,Contract
+1950,Yuni Putri,Female,25,2000-06-17,Married,Master,Jakarta,DKI Jakarta,2022-06-13,Active,2,5,1002,Jakarta HQ,Permanent
+1951,Yudi Iskandar,Male,40,1985-04-26,Single,Bachelor,Bekasi,Jawa Barat,2015-01-11,Active,6,14,1006,Remote,Permanent
+1952,Satria Tanjung,Male,46,1979-04-13,Single,Diploma,Medan,Sumatera Utara,2015-06-19,Active,5,12,1005,Medan Office,Permanent
+1953,Made Kusuma,Male,33,1992-08-18,Single,Doctorate,Bekasi,Jawa Barat,2020-02-15,Resigned,3,15,1003,Jakarta HQ,Permanent
+1954,Irfan Hakim,Male,27,1998-06-25,Single,Bachelor,Semarang,Jawa Tengah,2024-10-11,Active,4,8,1004,Jakarta HQ,Contract
+1955,Taufik Manurung,Male,22,2003-01-04,Married,Bachelor,Jakarta,DKI Jakarta,2023-06-14,Active,6,13,1006,Jakarta HQ,Contract
+1956,Leo Sinaga,Male,31,1994-04-06,Single,Bachelor,Jakarta,DKI Jakarta,2018-04-21,Active,3,2,1003,Jakarta HQ,Intern
+1957,Putra Wardhana,Male,29,1996-04-15,Single,Bachelor,Yogyakarta,DI Yogyakarta,2020-08-10,Active,2,6,1002,Jakarta HQ,Permanent
+1958,Oki Ramadhan,Male,27,1998-07-23,Married,High School,Jakarta,DKI Jakarta,2023-03-21,Active,8,9,1008,Jakarta HQ,Permanent
+1959,Jefri Sari,Male,45,1980-01-16,Married,Bachelor,Semarang,Jawa Tengah,2014-04-20,Active,1,4,1001,Jakarta HQ,Permanent
+1960,Vino Pangestu,Male,32,1993-05-08,Married,Bachelor,Jakarta,DKI Jakarta,2020-07-07,Active,3,15,1003,Jakarta HQ,Permanent
+1961,Yoga Iskandar,Male,28,1997-01-16,Single,Bachelor,Medan,Sumatera Utara,2022-03-19,Active,1,1,1001,Remote,Intern
+1962,Naufal Siregar,Male,30,1995-04-28,Married,Diploma,Jakarta,DKI Jakarta,2025-04-20,Resigned,4,7,1004,Jakarta HQ,Permanent
+1963,Rangga Anwar,Male,24,2001-05-05,Single,Diploma,Yogyakarta,DI Yogyakarta,2022-06-13,Active,1,1,1001,Jakarta HQ,Contract
+1964,Galih Sutanto,Male,24,2001-04-01,Single,Diploma,Jakarta,DKI Jakarta,2024-09-23,Active,5,11,1005,Remote,Permanent
+1965,Lukman Hartono,Male,22,2003-06-28,Single,Diploma,Bandung,Jawa Barat,2024-06-15,Active,6,13,1006,Remote,Permanent
+1966,Oka Iskandar,Male,35,1990-05-15,Married,Bachelor,Jakarta,DKI Jakarta,2021-03-15,Active,1,2,1001,Remote,Permanent
+1967,Jefri Tanjung,Male,28,1997-09-18,Married,Bachelor,Bandung,Jawa Barat,2022-02-07,Active,3,1,1003,Bandung Office,Contract
+1968,Cahyo Pratama,Male,45,1980-03-26,Single,Master,Jakarta,DKI Jakarta,2022-07-20,Active,3,3,1003,Jakarta HQ,Permanent
+1969,Made Lestari,Male,25,2000-07-25,Married,Bachelor,Yogyakarta,DI Yogyakarta,2024-03-16,Active,2,5,1002,Jakarta HQ,Permanent
+1970,Ratih Tanjung,Female,32,1993-08-23,Single,Master,Yogyakarta,DI Yogyakarta,2017-04-27,Active,1,2,1001,Jakarta HQ,Contract
+1971,Yoga Salim,Male,47,1978-11-28,Married,Master,Bekasi,Jawa Barat,2016-09-25,Active,9,17,1009,Jakarta HQ,Contract
+1972,Umar Lubis,Male,28,1997-01-04,Married,High School,Jakarta,DKI Jakarta,2023-01-19,Active,4,8,1004,Remote,Permanent
+1973,Vino Rahmawati,Male,31,1994-01-26,Married,High School,Jakarta,DKI Jakarta,2020-01-08,Active,7,10,1007,Jakarta HQ,Permanent
+1974,Jelita Mahendra,Female,27,1998-11-23,Married,Bachelor,Jakarta,DKI Jakarta,2022-06-19,Active,6,13,1006,Jakarta HQ,Permanent
+1975,Maya Wardhana,Female,25,2000-07-26,Single,Diploma,Bekasi,Jawa Barat,2024-03-28,Active,1,1,1001,Jakarta HQ,Contract
+1976,Olivia Salim,Female,28,1997-11-16,Married,Bachelor,Tangerang,Banten,2024-09-22,Active,2,6,1002,Jakarta HQ,Permanent
+1977,Vania Siregar,Female,39,1986-11-22,Single,Master,Tangerang,Banten,2013-02-11,Active,9,17,1009,Jakarta HQ,Permanent
+1978,Bambang Anggraini,Male,35,1990-05-26,Single,Master,Semarang,Jawa Tengah,2020-09-09,Active,2,6,1002,Jakarta HQ,Permanent
+1979,Ika Iskandar,Female,28,1997-12-13,Married,Master,Jakarta,DKI Jakarta,2022-01-16,Active,1,1,1001,Remote,Permanent
+1980,Doni Susilo,Male,28,1997-08-01,Married,Master,Jakarta,DKI Jakarta,2023-04-27,Active,2,5,1002,Jakarta HQ,Permanent
+1981,Pandu Pratama,Male,31,1994-03-20,Married,Diploma,Yogyakarta,DI Yogyakarta,2022-04-24,Resigned,3,2,1003,Remote,Permanent
+1982,Adinda Halim,Female,28,1997-01-05,Married,Diploma,Tangerang,Banten,2022-04-29,Active,8,9,1008,Jakarta HQ,Permanent
+1983,Naufal Handayani,Male,22,2003-10-01,Single,Bachelor,Yogyakarta,DI Yogyakarta,2024-08-06,Active,2,5,1002,Jakarta HQ,Contract
+1984,Faisal Nasution,Male,38,1987-03-21,Single,Bachelor,Bandung,Jawa Barat,2014-09-16,Active,1,3,1001,Bandung Office,Permanent
+1985,Indra Putri,Male,30,1995-11-23,Single,Bachelor,Semarang,Jawa Tengah,2021-04-02,Active,4,8,1004,Jakarta HQ,Permanent
+1986,Dimas Sinaga,Male,27,1998-03-04,Married,Bachelor,Jakarta,DKI Jakarta,2023-08-30,Active,1,2,1001,Remote,Permanent
+1987,Tania Simanjuntak,Female,26,1999-12-07,Single,Master,Jakarta,DKI Jakarta,2022-10-16,Active,4,7,1004,Jakarta HQ,Contract
+1988,Bambang Hidayat,Male,33,1992-03-27,Married,Diploma,Tangerang,Banten,2019-04-01,Active,3,15,1003,Jakarta HQ,Contract
+1989,Hendra Sari,Male,34,1991-01-05,Married,Bachelor,Depok,Jawa Barat,2019-02-14,Active,1,3,1001,Jakarta HQ,Permanent
+1990,Zahra Sari,Female,35,1990-02-16,Married,Bachelor,Jakarta,DKI Jakarta,2014-07-24,Active,5,12,1005,Jakarta HQ,Permanent
+1991,Candra Salim,Male,37,1988-10-18,Single,Bachelor,Balikpapan,Kalimantan Timur,2020-02-01,Active,8,9,1008,Jakarta HQ,Intern
+1992,Oktavia Manurung,Female,42,1983-06-27,Single,Bachelor,Bandung,Jawa Barat,2013-07-13,Active,1,4,1001,Bandung Office,Contract
+1993,Oki Wijaya,Male,29,1996-08-08,Single,Master,Bandung,Jawa Barat,2021-11-01,Active,2,6,1002,Bandung Office,Permanent
+1994,Tania Anggraini,Female,33,1992-10-07,Divorced,Bachelor,Jakarta,DKI Jakarta,2016-01-26,Active,4,8,1004,Remote,Permanent
+1995,Doni Handayani,Male,27,1998-11-08,Single,Bachelor,Jakarta,DKI Jakarta,2022-10-23,Active,4,7,1004,Jakarta HQ,Permanent
+1996,Kurnia Iskandar,Male,38,1987-05-10,Single,Master,Depok,Jawa Barat,2014-01-28,Active,1,4,1001,Remote,Contract
+1997,Hana Anwar,Female,40,1985-02-17,Married,Bachelor,Bandung,Jawa Barat,2014-03-11,Active,1,3,1001,Bandung Office,Permanent
+1998,Rangga Lestari,Male,35,1990-02-03,Single,Doctorate,Jakarta,DKI Jakarta,2022-08-20,Active,1,2,1001,Jakarta HQ,Permanent
+1999,Dinda Ramadhan,Female,42,1983-04-06,Divorced,Bachelor,Surabaya,Jawa Timur,2019-03-01,Resigned,3,3,1003,Surabaya Office,Permanent
+2000,Farah Mahendra,Female,45,1980-11-12,Single,Bachelor,Jakarta,DKI Jakarta,2019-10-13,Active,9,17,1009,Jakarta HQ,Permanent
