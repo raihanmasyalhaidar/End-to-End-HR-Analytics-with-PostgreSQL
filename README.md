@@ -1,11 +1,5 @@
 # End-to-End HR Analytics with PostgreSQL
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![Domain](https://img.shields.io/badge/Domain-People%20Analytics-1F3864)
-![Data](https://img.shields.io/badge/Data-Synthetic%20%C2%B7%201%2C000%20employees-2E5496)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 An end-to-end SQL portfolio project that simulates a comprehensive analytics engagement for a
 fictional national technology and services company, **Nusantara Digital Group**, designed to
 reflect the complexity and scale of a modern Indonesian enterprise workforce. It demonstrates the
