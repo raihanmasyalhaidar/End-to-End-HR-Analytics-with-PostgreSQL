@@ -94,35 +94,6 @@ enterprise People function.
 | `employee_experience` | 1,000 | Previous company, role, years of experience, and industry background. |
 | `turnover` | 114 | Resignation date, reason, exit status, and whether a replacement is required. |
 
-### Entity-Relationship Diagram
-
-```
-                         ┌──────────────────┐
-                         │   departments    │
-                         └────────┬─────────┘
-                                  │ 1
-                                  │ N
-┌──────────────┐          ┌───────▼──────────┐          ┌──────────────────────┐
-│     jobs     │ 1      N │    employees     │ 1      1 │ employee_experience  │
-│              ├──────────►   (core table)   ◄──────────┤                      │
-└──────────────┘          └──┬────┬────┬───┬─┘          └──────────────────────┘
-                             │    │    │   │
-        ┌────────────────────┘    │    │   └─────────────────────┐
-        │ 1                     1  │  1 │                       1 │
-        ▼ N                       ▼N   ▼N                        ▼ N
-┌───────────────┐  ┌────────────────────┐  ┌──────────────────┐  ┌────────────┐
-│ compensation  │  │ performance_reviews│  │ promotion_history│  │  training  │
-└───────────────┘  └────────────────────┘  └──────────────────┘  └────────────┘
-        ┌───────────────┐    ┌──────────────┐
-        │  attendance   │    │   turnover   │
-        └───────────────┘    └──────────────┘
-```
-
-Foreign keys link every fact record back to a valid `employee_id`; every employee links to a valid
-department and job. `manager_id` is a self-reference on `employees` (top-level managers are NULL).
-
----
-
 ## Repository Structure
 
 ```
