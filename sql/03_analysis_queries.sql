@@ -58,8 +58,7 @@ ORDER BY headcount DESC;
 
 
 -- ----------------------------------------------------------------------------
---  5. Promotion recommendation
---  (numbering follows the article)
+--  4. Promotion recommendation
 -- ----------------------------------------------------------------------------
 WITH perf AS (
     SELECT employee_id, kpi_score, leadership_score,
@@ -101,7 +100,7 @@ ORDER BY promotion_status, dept_perf_rank;
 
 
 -- ----------------------------------------------------------------------------
---  6. Work experience versus pay and performance
+--  5. Work experience versus pay and performance
 -- ----------------------------------------------------------------------------
 SELECT
     CASE
@@ -123,7 +122,7 @@ ORDER BY MIN(ex.years_of_experience);
 
 
 -- ----------------------------------------------------------------------------
---  7. Employees paid outside their job's official band
+--  6. Employees paid outside their job's official band
 -- ----------------------------------------------------------------------------
 SELECT e.full_name, j.job_title, j.job_level,
        c.base_salary, j.min_salary, j.max_salary,
@@ -140,7 +139,7 @@ ORDER BY band_status, c.base_salary;
 
 
 -- ----------------------------------------------------------------------------
---  8. Salary fairness: gender pay gap by job level
+--  7. Salary fairness: gender pay gap by job level
 -- ----------------------------------------------------------------------------
 WITH pay AS (
     SELECT j.job_level,
@@ -177,7 +176,7 @@ ORDER BY
 
 
 -- ----------------------------------------------------------------------------
---  9. Retention and turnover by department
+--  8. Retention and turnover by department
 -- ----------------------------------------------------------------------------
 WITH dept_counts AS (
     SELECT department_id, COUNT(*) AS total_emp
@@ -204,7 +203,7 @@ ORDER BY turnover_rate_pct DESC;
 
 
 -- ----------------------------------------------------------------------------
---  10. Most common resignation reasons
+--  9. Most common resignation reasons
 -- ----------------------------------------------------------------------------
 SELECT resignation_reason,
        COUNT(*)                                       AS leavers,
@@ -215,7 +214,7 @@ ORDER BY leavers DESC;
 
 
 -- ----------------------------------------------------------------------------
---  11. Active employees flagged by flight risk
+--  10. Active employees flagged by flight risk
 -- ----------------------------------------------------------------------------
 SELECT e.full_name, d.department_name,
        pr.final_performance_score, a.attendance_rate,
@@ -237,7 +236,7 @@ ORDER BY flight_risk;
 
 
 -- ----------------------------------------------------------------------------
---  12. Workforce planning and headcount gaps
+--  11. Workforce planning and headcount gaps
 -- ----------------------------------------------------------------------------
 SELECT
     d.department_name,
@@ -254,7 +253,7 @@ ORDER BY replacements_needed DESC, active_headcount DESC;
 
 
 -- ----------------------------------------------------------------------------
---  13. Year-over-year KPI trend (window LAG)
+--  12. Year-over-year KPI trend (window LAG)
 -- ----------------------------------------------------------------------------
 WITH dept_year AS (
     SELECT e.department_id,
@@ -273,40 +272,3 @@ SELECT d.department_name,
 FROM dept_year dy
 JOIN departments d ON d.department_id = dy.department_id
 ORDER BY d.department_name, dy.review_year;
-
-
--- ----------------------------------------------------------------------------
---  BONUS: HR Executive Summary (single-row dashboard)
---  Included for completeness; not shown as a separate section in the article.
--- ----------------------------------------------------------------------------
-WITH base AS (
-    SELECT
-        COUNT(*) FILTER (WHERE employment_status = 'Active')   AS active_headcount,
-        COUNT(*) FILTER (WHERE employment_status <> 'Active')  AS exited
-    FROM employees
-),
-perf AS (
-    SELECT ROUND(AVG(final_performance_score), 1) AS avg_perf
-    FROM performance_reviews WHERE review_year = 2024
-),
-pay AS (
-    SELECT SUM(total_income) AS monthly_payroll,
-           ROUND(AVG(total_income)) AS avg_income
-    FROM compensation c
-    JOIN employees e ON e.employee_id = c.employee_id
-    WHERE e.employment_status = 'Active'
-),
-promo AS (
-    SELECT COUNT(*) AS promo_ready
-    FROM performance_reviews
-    WHERE review_year = 2024
-      AND kpi_score >= 85 AND leadership_score >= 80
-)
-SELECT b.active_headcount,
-       b.exited,
-       ROUND(100.0 * b.exited / (b.active_headcount + b.exited), 1) AS turnover_pct,
-       p.avg_perf,
-       pay.monthly_payroll,
-       pay.avg_income,
-       pr.promo_ready
-FROM base b CROSS JOIN perf p CROSS JOIN pay CROSS JOIN promo pr;
