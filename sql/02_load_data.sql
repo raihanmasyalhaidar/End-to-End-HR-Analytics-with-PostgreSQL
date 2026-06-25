@@ -1,20 +1,3 @@
--- ============================================================================
---  HR ANALYTICS  |  02 - LOAD DATA FROM CSV
---
---  Loads the full synthetic dataset (1,000 employees) from the /data folder.
---  Run this AFTER 01_schema.sql, from the repository root so the relative
---  paths resolve:
---
---      psql -d hr_analytics -f sql/01_schema.sql
---      psql -d hr_analytics -f sql/02_load_data.sql
---
---  Import order matters because of foreign keys:
---      departments -> jobs -> employees -> all fact tables.
---
---  The CSV files are UTF-8 (no BOM). HEADER true skips the column-name row;
---  NULL '' reads empty strings (e.g. manager_id for top managers) as NULL.
--- ============================================================================
-
 \copy departments         FROM 'data/01_departments.csv'         WITH (FORMAT csv, HEADER true, NULL '');
 \copy jobs                FROM 'data/02_jobs.csv'                WITH (FORMAT csv, HEADER true, NULL '');
 \copy employees           FROM 'data/03_employees.csv'           WITH (FORMAT csv, HEADER true, NULL '');
