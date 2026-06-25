@@ -1,15 +1,3 @@
--- ============================================================================
---  HR ANALYTICS  |  01 - SCHEMA (DDL)
---  Project: End-to-End HR Analytics with PostgreSQL
---  Company: Nusantara Digital Group (fictional)
---
---  Creates the 10 interrelated tables of the analytical database, in
---  dependency order (parents before children). All monetary values use
---  BIGINT (Indonesian Rupiah, monthly); scores use NUMERIC(6,2).
---
---  Run:  psql -d hr_analytics -f sql/01_schema.sql
--- ============================================================================
-
 DROP TABLE IF EXISTS turnover, employee_experience, attendance, training,
                      promotion_history, performance_reviews, compensation,
                      employees, jobs, departments CASCADE;
