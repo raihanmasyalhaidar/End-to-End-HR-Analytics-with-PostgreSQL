@@ -1,114 +1,182 @@
-# End-to-End HR Analytics with PostgreSQL
+# 👥 People Behind the Numbers: An End-to-End HR Analytics Project with PostgreSQL
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![Domain](https://img.shields.io/badge/Domain-People%20Analytics-1F3864)
-![Data](https://img.shields.io/badge/Data-Synthetic%20%C2%B7%201%2C000%20employees-2E5496)
-![License](https://img.shields.io/badge/License-MIT-green)
+> Turning fragmented HR data from a 1,000-employee enterprise into evidence-based insight for compensation, performance, promotion, retention, and workforce-planning decisions.
 
-An end-to-end SQL portfolio project that simulates a comprehensive analytics engagement for a
-fictional national technology and services company, **Nusantara Digital Group**, designed to
-reflect the complexity and scale of a modern Indonesian enterprise workforce. It demonstrates the
-complete lifecycle of a SQL-driven analytics initiative — from designing a normalized relational
-database schema and generating realistic synthetic datasets to developing layered analytical
-queries and translating outputs into actionable business insights and strategic recommendations.
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-CTEs%20%26%20Window%20Functions-blue)](https://www.postgresql.org/docs/current/queries.html)
+[![Domain](https://img.shields.io/badge/Domain-People%20Analytics-1F3864)]()
+[![Data](https://img.shields.io/badge/Data-Synthetic%20%C2%B7%201%2C000%20employees-2E5496)]()
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-📖 **Full write-up on Medium:** [End-to-End HR Analytics with PostgreSQL](https://medium.com/@raihanmasyalhaidar/end-to-end-hr-analytics-with-postgresql-490464936ae9)
-
-> All data is entirely synthetic and was generated exclusively for demonstration purposes. No real
-> employee, salary, or personnel records were used.
+[📖 Read the full article on Medium](https://medium.com/@raihanmasyalhaidar/end-to-end-hr-analytics-with-postgresql-490464936ae9)
 
 ---
 
-## Table of Contents
+## 📌 Overview
 
-- [Overview](#overview)
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [The Analyses](#the-analyses)
-- [Key Insights](#key-insights)
-- [Business Recommendations](#business-recommendations)
-- [Tech Stack](#tech-stack)
-- [License](#license)
+As organizations scale past a thousand employees, the People function becomes a **data-rich but insight-poor** environment. Compensation, performance, attendance, training, promotion, and attrition are all recorded somewhere, yet rarely connected. This fragmentation makes it hard to answer fundamental questions: who is genuinely ready for promotion, whether pay is fair, and which teams are most at risk of losing talent.
+
+This project simulates a comprehensive analytics engagement for **Nusantara Digital Group**, a fictional national technology and services company designed to reflect the complexity and scale of a modern Indonesian enterprise workforce. It demonstrates the complete lifecycle of a SQL-driven initiative — from designing a normalized relational schema and generating realistic synthetic data, to developing layered analytical queries and translating outputs into **actionable business insights and strategic recommendations**.
+
+The headline picture is a **healthy but uneven** workforce: an average performance score of **82.2** across **886 active employees**, an overall turnover rate of **11.4%**, but with performance and retention pressure concentrated in the **commercial functions** (Sales, Product, Customer Success). Pay is driven **more by tenure than by performance**, a small but consistent **gender pay gap** appears across several levels, and a strong **promotion pipeline** sits ready to be activated.
+
+> All data is entirely synthetic and was generated programmatically. No real employee, salary, or personnel records were used.
 
 ---
 
-## Overview
+## 🔑 Key Findings
 
-As organizations scale past a thousand employees, the People function becomes a data-rich but
-insight-poor environment. Compensation, performance, attendance, training, promotion, and attrition
-are all recorded somewhere, yet rarely connected. This fragmentation makes it difficult to answer
-fundamental questions such as who is genuinely ready for promotion, whether pay is fair, and which
-teams are most at risk of losing talent.
-
-This project builds a unified, queryable analytical foundation and uses it to answer those questions
-across six dimensions: **compensation, employee performance, promotion readiness, internal mobility,
-retention, and workforce planning.**
+| Theme | Finding |
+| --- | --- |
+| **Compensation** | Pay rises sharply with experience (**Rp 16.8M → Rp 31.4M**) while performance stays flat (**81–83**) — the company rewards **tenure more than performance** |
+| **Performance** | **Data & Analytics** leads (avg final **89.9**); **Sales** trails (**76.6**) with the widest internal spread (**58.8 → 90.3**) |
+| **Retention** | Highest turnover in **Product (17.8%)** and **Customer Success (15.7%)**; Engineering & Sales have the most absolute exits at moderate rates due to size |
+| **Why people leave** | **Better compensation offers (25.4%)** is the top driver, then performance terminations (21.1%) and career growth elsewhere (16.7%) — most are **addressable** |
+| **Pay fairness** | A small but **consistent gender pay gap** (~**0.9%–4.1%**) at Junior, Mid, and Senior levels; reverses slightly at Manager (**+1.5%**) |
+| **Out-of-band pay** | Above- and below-band salaries appear across multiple functions — bands may have fallen behind market or reflect undocumented adjustments |
+| **Talent pipeline** | **311 active employees** already meet the KPI & leadership thresholds for promotion |
+| **Workforce gaps** | **Sales** needs the most backfills (**18**), then Engineering (**17**) and Customer Success (**12**) |
 
 ---
 
-## Business Problem
+## 🗂️ Table of Contents
 
-Nusantara Digital Group has grown rapidly to more than 1,000 employees across ten departments and
-several work locations throughout Indonesia. Despite extensive employee data, its data landscape
-remains fragmented across functional areas, restricting analytical visibility and leaving HR
-decisions to be driven by intuition rather than evidence.
+- [Business Problem](#-business-problem)
+- [Dataset](#-dataset)
+- [Methodology](#-methodology)
+- [Analysis Highlights](#-analysis-highlights)
+- [Strategic Recommendations](#-strategic-recommendations)
+- [Project Structure](#-project-structure)
+- [Tech Stack](#️-tech-stack)
+- [Reproduce This Analysis](#️-reproduce-this-analysis)
+- [Read More](#-read-more)
+- [License](#-license)
 
-The leadership team seeks answers to several critical questions:
+---
+
+## 🎯 Business Problem
+
+Leadership can readily see headcount and payroll totals, but routine reporting leaves the most important questions unanswered:
 
 - Which employees generate the highest total compensation, and is pay aligned with performance rather than tenure alone?
 - How is performance distributed across departments, and how has it evolved year over year?
 - Which employees are genuinely ready for promotion based on transparent, defensible criteria?
-- Where are the highest-performing employees who could be redeployed to teams short on talent?
 - To what extent does pay vary by gender and job level, and are there inequities that require review?
 - Which departments are losing the most people, why are employees leaving, and who is at risk now?
 - Is the workforce aligned with business needs, or are there headcount gaps and backfill shortages?
-- Does the company have a healthy promotion pipeline to support growth and retention?
+
+At its core, this is a problem of **decision visibility and analytical integration**. The organization needs a unified, queryable foundation that connects employees, compensation, performance, promotions, training, attendance, experience, and turnover into a single source of truth — enabling a move from intuition-based management toward consistent, data-driven decisions.
 
 ---
 
-## Dataset
+## 💾 Dataset
 
-The data-generation process was intentionally designed to replicate the structure, distribution
-patterns, and statistical characteristics of a real Indonesian enterprise workforce.
-
-### Design Principles
-
-- **Organizational Realism** — Headcount is concentrated in Engineering, Sales, and Data & Analytics, with smaller corporate functions such as Human Resources, Finance, and Legal & Compliance.
-- **Compensation Realism** — Salaries respect each job's defined min–max band, scaled by seniority and experience, with a deliberate minority of out-of-band cases to enable pay-fairness analysis. All figures are in Indonesian Rupiah (IDR), monthly.
-- **Performance Realism** — Review scores follow a believable distribution centered around "Meets," with realistic minorities of "Outstanding" and "Needs Improvement."
-- **Attrition Realism** — Roughly 11–13% of employees have left, each with a matching turnover record and a plausible resignation reason.
-- **Temporal Realism** — Performance reviews span three years (2022–2024) and attendance spans six months, enabling trend and year-over-year analysis.
-
-### Data Dictionary
-
-The project consists of **10 interconnected tables** representing the end-to-end operations of an
-enterprise People function.
+All data is **synthetic**, generated to replicate the structure, distribution patterns, and statistical characteristics of a real Indonesian enterprise workforce. It consists of **10 interconnected tables** centered on `employees`.
 
 | Table | Rows | Description |
-|---|---:|---|
-| `employees` | 1,000 | Core employee master data: demographics, education, domicile, hire date, status, department, job, manager. |
-| `departments` | 10 | Departments, parent divisions, and directors. |
-| `jobs` | 18 | Job titles, levels, career paths, and salary bands. |
-| `compensation` | 1,000 | Base salary, allowances, bonus, overtime, total income, and salary grade. |
-| `performance_reviews` | 2,104 | Annual KPI, productivity, attendance, leadership, and teamwork scores, with a final score and category. |
-| `promotion_history` | 382 | Promotion events: previous/new level and documented reason. |
-| `training` | 2,400 | Training enrollments, categories, dates, scores, and certification status. |
-| `attendance` | 4,743 | Monthly working days, presence, absences, lateness, and attendance rate. |
-| `employee_experience` | 1,000 | Previous company, role, years of experience, and industry background. |
-| `turnover` | 114 | Resignation date, reason, exit status, and whether a replacement is required. |
+| --- | ---: | --- |
+| `employees` | 1,000 | Core master data: demographics, education, domicile, hire date, status, department, job, manager |
+| `departments` | 10 | Departments, parent divisions, and directors |
+| `jobs` | 18 | Job titles, levels, career paths, and salary bands |
+| `compensation` | 1,000 | Base salary, allowances, bonus, overtime, total income, salary grade |
+| `performance_reviews` | 2,104 | Annual KPI, productivity, attendance, leadership, teamwork scores + final score |
+| `promotion_history` | 382 | Promotion events: previous/new level and reason |
+| `training` | 2,400 | Training enrollments, categories, dates, scores, certification status |
+| `attendance` | 4,743 | Monthly working days, presence, absences, lateness, attendance rate |
+| `employee_experience` | 1,000 | Previous company, role, years of experience, industry |
+| `turnover` | 114 | Resignation date, reason, exit status, replacement needed |
 
-## Repository Structure
+> **Design principles:** salaries respect each job's min–max band (with a deliberate minority of out-of-band cases for fairness analysis); performance scores center on "Meets" with realistic tails; ~11–13% of employees have left with matching turnover records; reviews span 2022–2024 to enable trend analysis. All figures are in Indonesian Rupiah (IDR), monthly.
+
+---
+
+## 🔬 Methodology
+
+The project follows a structured, reproducible framework. Each stage builds on the previous one, and every result regenerates by running the SQL scripts in order.
+
+1. **Schema Design** — a normalized 10-table relational model with primary/foreign keys and a self-referencing manager hierarchy.
+2. **Data Generation** — realistic synthetic data scaled to 1,000 employees, provided as CSVs and loadable in dependency order.
+3. **Data Loading & Validation** — `\copy` imports with a row-count verification step confirming referential integrity.
+4. **Analytical Querying** — 13 layered analyses spanning compensation, performance, promotion, fairness, retention, and planning.
+5. **Business Synthesis** — translation of query outputs into prioritized, quantified recommendations for stakeholders.
+
+SQL techniques on display: **CTEs**, **window functions** (`RANK`, `DENSE_RANK`, `LAG`, `NTILE`), **`FILTER` aggregates**, and **`CASE` segmentation**.
+
+---
+
+## 📈 Analysis Highlights
+
+### Performance Is Strong Overall — but Sales Lags and Spreads Wide
+
+<!-- Optional: replace with a chart -> ![Performance by department](charts/performance_by_department.png) -->
+
+| Department | Avg KPI | Avg Final | Top | Low | Reviewed |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Data & Analytics | 90.9 | 89.9 | — | — | 87 |
+| Legal & Compliance | 85.4 | 85.3 | — | — | 16 |
+| Product | 86.2 | 84.9 | — | — | 67 |
+| Engineering | 83.6 | 82.8 | 99.0 | 62.3 | 206 |
+| Sales | 77.6 | 76.6 | 90.3 | 58.8 | 156 |
+
+Data & Analytics leads on every measure, while **Sales records the lowest average and the single lowest individual score (58.8)**. Engineering's wide range (99.0 → 62.3) across 206 reviewed employees signals a team that needs **targeted coaching for specific cohorts** rather than uniform measures.
+
+### Pay Rewards Tenure More Than Performance
+
+<!-- Optional: replace with a chart -> ![Experience vs pay](charts/experience_vs_pay.png) -->
+
+| Experience | Avg Total Income | Avg Performance |
+| --- | ---: | ---: |
+| 0–3 yrs | Rp 16.8M | 81.8 |
+| 3–6 yrs | Rp 20.0M | 83.4 |
+| 6–10 yrs | Rp 24.4M | 81.0 |
+| 10+ yrs | Rp 31.4M | 82.5 |
+
+Average income **nearly doubles** across the experience range while performance stays inside a narrow **81–83** band. The divergence is the tell: in aggregate, **pay tracks tenure, not measured output** — leaving high-performing early-career employees potentially underpaid and exposed to competitive offers.
+
+### Attrition Is Concentrated, and Its Causes Are Addressable
+
+<!-- Optional: replace with a chart -> ![Turnover by department](charts/turnover_by_department.png) -->
+
+| Department | Total | Exits | Turnover % |
+| --- | ---: | ---: | ---: |
+| Product | 73 | 13 | 17.8% |
+| Customer Success | 89 | 14 | 15.7% |
+| Operations | 72 | 10 | 13.9% |
+| Sales | 203 | 23 | 11.3% |
+| Engineering | 232 | 26 | 11.2% |
+
+Expressing attrition as a **rate** (not a raw count) reveals that the proportional pressure sits in **Product and Customer Success**, even though Engineering and Sales have the most absolute exits. And the leading reasons to leave — **better pay (25.4%)** and **career growth (16.7%)** — are both within the company's control.
+
+---
+
+## 🚀 Strategic Recommendations
+
+- **Launch a Targeted Retention Effort in Commercial Functions.** Product, Customer Success, and Sales show the highest attrition and weakest performance trends — prioritize stay-interviews and structured engagement to validate the pay and career drivers before spending budget.
+
+- **Correct Compensation for Underpaid High Performers.** Strong early-career performers may be underpaid; fast-track off-cycle adjustments deliver outsized retention value at small budget cost.
+
+- **Activate the Promotion Pipeline.** Use the promotion-recommendation engine each cycle to generate transparent, per-department shortlists — directly addressing the career-growth driver behind attrition.
+
+- **Conduct a Formal Pay-Equity Review.** Examine the gender pay gap with controls for role, level, experience, and performance to confirm whether it persists after adjustment.
+
+- **Align Workforce Planning with Backfill Needs.** Pair Sales and Engineering hiring plans with internal-transfer candidates from large, talent-rich teams to fill roles faster and cheaper.
+
+### Key Takeaway
+
+The biggest opportunities lie in **retaining the right people and paying for performance** — strengthening the talent lifecycle (hire → develop → promote → retain) delivers more impact than across-the-board pay changes. Most of the attrition the company suffers is **addressable**, not inevitable.
+
+---
+
+## 📁 Project Structure
 
 ```
 hr-analytics-postgresql/
+├── README.md                       # You are here
 ├── sql/
-│   ├── 01_schema.sql            # CREATE TABLE statements (DDL) with PK/FK
-│   ├── 02_load_data.sql         # \copy all 10 CSVs in dependency order + verification
-│   └── 03_analysis_queries.sql  # The 13 analytical queries from the article
-├── data/
+│   ├── 01_schema.sql               # CREATE TABLE statements (DDL) with PK/FK
+│   ├── 02_load_data.sql            # \copy all 10 CSVs in order + verification
+│   └── 03_analysis_queries.sql     # The 13 analytical queries from the article
+├── data/                           # Full synthetic dataset (1,000 employees)
 │   ├── 01_departments.csv
 │   ├── 02_jobs.csv
 │   ├── 03_employees.csv
@@ -120,19 +188,28 @@ hr-analytics-postgresql/
 │   ├── 09_employee_experience.csv
 │   └── 10_turnover.csv
 ├── docs/
-│   └── sample_data.sql          # Representative INSERT samples (from the article)
-├── README.md
-└── LICENSE
+│   └── sample_data.sql             # Representative INSERT samples
+├── LICENSE
+└── .gitignore
 ```
 
 ---
 
-## Getting Started
+## 🛠️ Tech Stack
 
-**Prerequisites:** PostgreSQL 13 or newer.
+| Purpose | Tools |
+| --- | --- |
+| Database | `PostgreSQL 16` |
+| Querying | ANSI SQL — CTEs, `RANK` / `DENSE_RANK` / `LAG` / `NTILE`, `FILTER`, `CASE` |
+| Data | 100% synthetic — 1,000 employees across 10 related tables |
+| Interfaces | `psql`, or any client (DBeaver, pgAdmin) |
+
+---
+
+## ⚙️ Reproduce This Analysis
 
 ```bash
-# 1. Clone the repository
+# 1. Clone the repo
 git clone https://github.com/<your-username>/hr-analytics-postgresql.git
 cd hr-analytics-postgresql
 
@@ -142,96 +219,29 @@ createdb hr_analytics
 # 3. Build the schema
 psql -d hr_analytics -f sql/01_schema.sql
 
-# 4. Load the full synthetic dataset (run from the repo root so paths resolve)
+# 4. Load the full dataset (run from the repo root so relative paths resolve)
 psql -d hr_analytics -f sql/02_load_data.sql
 
 # 5. Run the analyses
 psql -d hr_analytics -f sql/03_analysis_queries.sql
 ```
 
-After step 4 you should see a verification table confirming row counts
-(`employees = 1000`, `attendance = 4743`, and so on).
-
-> **Import order matters** because of foreign keys: `departments` → `jobs` → `employees` → all fact
-> tables. The load script already follows this order. The CSVs are UTF-8 (no BOM); money columns are
-> `BIGINT` and scores are `NUMERIC(6,2)`, so nothing overflows on import.
+> **Import order matters** because of foreign keys: `departments` → `jobs` → `employees` → all fact tables. The load script already follows this order. The CSVs are UTF-8 (no BOM); money columns are `BIGINT` and scores are `NUMERIC(6,2)`, so nothing overflows on import. After step 4 you should see a verification table confirming row counts (`employees = 1000`, `attendance = 4743`, …).
 
 ---
 
-## The Analyses
+## 📚 Read More
 
-The project answers the business questions through **13 analytical queries**, each combining SQL
-techniques with a business interpretation. (Numbering follows the article.)
-
-| # | Analysis | Core SQL Technique |
-|---|---|---|
-| 1 | Total compensation & top-earner ranking | `RANK()` over / `PARTITION BY` |
-| 2 | Performance & KPI analysis by department | CTE + `GROUP BY` aggregation |
-| 3 | Geographic & domicile analysis | Windowed share + conditional `SUM` |
-| 5 | Promotion recommendation | CTEs + `CASE` + `DENSE_RANK` |
-| 6 | Work experience vs pay & performance | `CASE` banding + `AVG` |
-| 7 | Employees paid outside their band | `CASE` band classification |
-| 8 | Salary fairness: gender pay gap by level | `FILTER` + windowed baseline |
-| 9 | Retention & turnover by department | CTEs + `LEFT JOIN` + `RANK` |
-| 10 | Most common resignation reasons | Windowed percentage |
-| 11 | Active employees flagged by flight risk | Tiered `CASE` rule |
-| 12 | Workforce planning & headcount gaps | `COUNT(*) FILTER (WHERE …)` |
-| 13 | Year-over-year KPI trend | `LAG()` window function |
-
-A bonus **HR executive summary** query (a single-row dashboard combining four CTEs with `CROSS JOIN`)
-is included at the end of `03_analysis_queries.sql`.
+- 📖 **Full article on Medium:** [End-to-End HR Analytics with PostgreSQL](https://medium.com/@raihanmasyalhaidar/end-to-end-hr-analytics-with-postgresql-490464936ae9)
+- 💾 **Sample data:** `docs/sample_data.sql`
+- 🧮 **All queries:** `sql/03_analysis_queries.sql`
 
 ---
 
-## Key Insights
+## 📝 License
 
-**Workforce and Performance**
-- **Scale and health:** 886 active staff against 114 departures (an 11.4% turnover rate), with a healthy average performance score of 82.2.
-- **Performance leadership:** Data & Analytics recorded the highest average performance at 89.9, while Sales posted the lowest at 76.6 with the widest internal spread (58.8 to 90.3).
-
-**Retention and Attrition**
-- **Highest attrition in commercial & operational functions:** Product (17.8%) and Customer Success (15.7%) recorded the highest turnover rates; Engineering and Sales had the highest absolute departures (26 and 23) at moderate rates due to their size.
-- **Pay is the leading driver of exits:** Better compensation offers accounted for 25.4% of departures, followed by performance-related terminations (21.1%) and career growth elsewhere (16.7%).
-- **A declining Sales trend:** Sales KPI fell year over year in 2024 (−0.9), reinforcing it as a primary area of concern.
-
-**Compensation and Fairness**
-- **Pay rewards tenure more than performance:** Average total income rises sharply across experience bands (Rp 16.8M → Rp 31.4M) while performance stays roughly flat (81–83).
-- **Out-of-band salaries require review:** Above- and below-band cases appear across multiple functions and levels.
-- **A small but consistent gender pay gap:** Average base pay favored men by ~0.9% to 4.1% at the Junior, Mid, and Senior levels, reversing slightly at Manager (+1.5%).
-
-**Talent Pipeline and Planning**
-- **A healthy promotion pipeline:** 311 active employees already meet the KPI and leadership thresholds for promotion consideration.
-- **Concentrated backfill pressure:** Sales required the most backfills (18), followed by Engineering (17) and Customer Success (12).
+Released under the [MIT License](LICENSE). The synthetic dataset is free to reuse for learning and portfolio purposes.
 
 ---
 
-## Business Recommendations
-
-1. **Launch a targeted retention effort in commercial functions.** Product, Customer Success, and Sales recorded the highest attrition and weakest performance trends; prioritize stay-interviews and structured engagement to validate the pay and career drivers before allocating budget.
-2. **Correct compensation for underpaid high performers.** Strong early-career performers may be underpaid; prioritize fast-track, off-cycle adjustments where the budget impact is small relative to replacement cost.
-3. **Activate the promotion pipeline.** Use the promotion-recommendation engine each cycle to generate transparent, per-department shortlists, directly addressing the career-growth driver behind attrition.
-4. **Conduct a formal pay-equity review.** Examine the gender pay gap with controls for role, level, experience, and performance to determine whether it persists after adjustment.
-5. **Align workforce planning with backfill needs.** Pair Sales and Engineering hiring plans with internal-transfer candidates from large, talent-rich teams.
-6. **Review salary bands against the market.** Above-band salaries suggest some bands have fallen behind; regular reviews maintain consistency and reduce ad-hoc exceptions.
-7. **Leverage internal mobility before external hiring.** Top performers in large departments such as Data & Analytics and Engineering represent a redeployment opportunity.
-8. **Operationalize performance monitoring.** Schedule headline workforce metrics as an automated monthly report and deploy a per-employee self-service dashboard.
-
----
-
-## Tech Stack
-
-- **Database:** PostgreSQL 16
-- **Language:** SQL — CTEs, window functions (`RANK`, `DENSE_RANK`, `LAG`, `NTILE`), `CASE` segmentation, `FILTER` aggregates
-- **Data:** 100% synthetic, generated programmatically (1,000 employees across 10 related tables)
-
----
-
-## License
-
-Released under the [MIT License](LICENSE). The synthetic dataset is free to reuse for learning and
-portfolio purposes.
-
----
-
-*Author: **Raihan Masyal Haidar** — Statistics graduate with 3+ years of experience in data
-analytics, machine learning, and BI. If you found this useful, please consider giving the repo a ⭐.*
+*Written by **Raihan Masyal Haidar** · If this analysis was useful, consider giving the repo a ⭐*
